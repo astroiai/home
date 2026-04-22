@@ -1,16 +1,13 @@
 /*
- * Carga dinámica de publicaciones desde NASA/ADS
- * Token gratuito en: https://ui.adsabs.harvard.edu/user/settings/token
+ * Publicaciones: lee js/publications-data.json (generado por GitHub Actions).
+ * Para actualizar manualmente: ejecutar el workflow desde GitHub → Actions.
  */
-
-const ADS_TOKEN = 'so2kV7LPYemkQBeSZaH0x8ttWuYVtsDYcFZznclf';
 
 const ADS_ORCIDS = [
   '0000-0002-8686-8737',
   '0000-0002-3690-105X',
   '0000-0001-7853-4094',
 ];
-const ADS_ROWS = 20;
 
 const ADS_SEARCH_URL =
   'https://ui.adsabs.harvard.edu/search/q=' +
@@ -76,49 +73,17 @@ async function loadPublications() {
   const container = document.getElementById('pub-dynamic');
   if (!container) return;
 
-  if (!ADS_TOKEN) {
-    container.innerHTML = `
-      <div class="pub-ads-link">
-        <p>Para cargar automáticamente las publicaciones, añade tu token de NASA/ADS en <code>js/publications.js</code>.<br>
-           Puedes obtenerlo gratis en <a href="https://ui.adsabs.harvard.edu/user/settings/token" target="_blank" rel="noopener">ui.adsabs.harvard.edu</a>.</p>
-        <a href="${ADS_SEARCH_URL}" target="_blank" rel="noopener" class="btn btn-outline">
-          Ver publicaciones en NASA/ADS →
-        </a>
-      </div>`;
-    return;
-  }
-
   container.innerHTML = `
     <div class="pub-loading">
       <div class="pub-loading-spinner"></div>
-      <p>Cargando publicaciones desde NASA/ADS…</p>
+      <p>Cargando publicaciones…</p>
     </div>`;
 
   try {
-    const query = ADS_ORCIDS.map(o => `orcid:${o}`).join(' OR ');
-    const qs = `q=${encodeURIComponent(query)}&sort=date+desc` +
-      `&fl=title,author,year,pub,volume,page,bibcode,identifier,doi` +
-      `&rows=${ADS_ROWS}`;
-
-    // Desde IPs de red local el navegador no puede llamar a ADS directamente (CORS).
-    // En esos casos usamos el proxy local de server.py.
-    const hostname = window.location.hostname;
-    const useDirect = hostname === 'localhost' || hostname === '127.0.0.1'
-                   || hostname.endsWith('.github.io') || hostname.endsWith('.github.com');
-
-    let resp;
-    if (useDirect) {
-      resp = await fetch(`https://api.adsabs.harvard.edu/v1/search/query?${qs}`, {
-        headers: { 'Authorization': `Bearer ${ADS_TOKEN}` }
-      });
-    } else {
-      resp = await fetch(`/ads-proxy?${qs}`);
-    }
-
+    const resp = await fetch('js/publications-data.json');
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const data = await resp.json();
 
-    // Deduplica por bibcode
     const seen = new Set();
     const papers = (data.response?.docs || []).filter(p => {
       if (seen.has(p.bibcode)) return false;
@@ -131,7 +96,6 @@ async function loadPublications() {
       return;
     }
 
-    // Agrupa por año
     const byYear = {};
     papers.forEach(p => { (byYear[p.year] = byYear[p.year] || []).push(p); });
 
@@ -153,10 +117,10 @@ async function loadPublications() {
     container.innerHTML = html;
 
   } catch (err) {
-    console.error('Error cargando ADS:', err);
+    console.error('Error cargando publicaciones:', err);
     container.innerHTML = `
       <div class="pub-ads-link">
-        <p>No se pudo cargar la lista automáticamente.</p>
+        <p>No se pudo cargar la lista de publicaciones.</p>
         <a href="${ADS_SEARCH_URL}" target="_blank" rel="noopener" class="btn btn-outline">
           Ver publicaciones en NASA/ADS →
         </a>
