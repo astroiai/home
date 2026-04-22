@@ -1,0 +1,29 @@
+name: Actualizar publicaciones
+
+  on:
+    schedule:
+      - cron: '0 6 * * 1'
+    workflow_dispatch:
+
+  jobs:
+    update:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v4
+
+        - name: Descargar papers desde NASA/ADS
+          run: |
+            curl -s \
+              -H "Authorization: Bearer ${{ secrets.ADS_TOKEN }}" \
+              "https://api.adsabs.harvard.edu/v1/search/query?q=orcid:0000-0002-8686-8737+OR+orcid:0000-0
+  002-3690-105X+OR+orcid:0000-0001-7853-4094&sort=date+desc&fl=title,author,year,pub,volume,page,bibcode,
+  identifier,doi&rows=20" \
+              > js/publications-data.json
+
+        - name: Guardar cambios
+          run: |
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add js/publications-data.json
+            git diff --staged --quiet || git commit -m "Actualizar publicaciones desde NASA/ADS"
+            git push
