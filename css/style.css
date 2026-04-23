@@ -233,6 +233,28 @@ img { max-width: 100%; display: block; }
 }
 .nav-toggle:hover { background: rgba(245,195,0,.1); border-color: var(--uta-gold); }
 
+.lang-switch {
+  display: flex;
+  align-items: center;
+  gap: .25rem;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .07em;
+  flex-shrink: 0;
+  margin-left: .5rem;
+}
+.lang-btn {
+  color: rgba(240,244,255,.4);
+  padding: .18rem .38rem;
+  border-radius: 4px;
+  transition: color .2s, background .2s;
+  text-decoration: none;
+  cursor: pointer;
+}
+.lang-btn:hover { color: var(--white); }
+.lang-btn.active { color: var(--uta-gold); cursor: default; }
+.lang-sep { color: rgba(240,244,255,.2); font-weight: 300; font-size: .8rem; }
+
 /* ===== HERO ===== */
 .hero {
   position: relative;

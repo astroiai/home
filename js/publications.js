@@ -2,6 +2,8 @@
  * Publicaciones: lee js/publications-data.json (generado por GitHub Actions).
  * Para actualizar manualmente: ejecutar el workflow desde GitHub → Actions.
  */
+const lang = document.documentElement.lang || 'es';
+const t = (es, en) => lang === 'en' ? en : es;
 
 const ADS_ORCIDS = [
   '0000-0002-8686-8737',  // Franz Bauer
@@ -79,7 +81,7 @@ async function loadPublications() {
   container.innerHTML = `
     <div class="pub-loading">
       <div class="pub-loading-spinner"></div>
-      <p>Cargando publicaciones…</p>
+      <p>${t('Cargando publicaciones…', 'Loading publications…')}</p>
     </div>`;
 
   try {
@@ -95,7 +97,7 @@ async function loadPublications() {
     });
 
     if (papers.length === 0) {
-      container.innerHTML = `<p class="pub-ads-link">No se encontraron publicaciones.</p>`;
+      container.innerHTML = `<p class="pub-ads-link">${t('No se encontraron publicaciones.', 'No publications found.')}</p>`;
       return;
     }
 
@@ -111,9 +113,9 @@ async function loadPublications() {
     });
 
     html += `<div class="pub-ads-link">
-      <p>Mostrando las ${papers.length} publicaciones más recientes del grupo.</p>
+      <p>${t(`Mostrando las ${papers.length} publicaciones más recientes del grupo.`, `Showing the ${papers.length} most recent publications of the group.`)}</p>
       <a href="${ADS_SEARCH_URL}" target="_blank" rel="noopener" class="btn btn-outline">
-        Ver lista completa en NASA/ADS →
+        ${t('Ver lista completa en NASA/ADS →', 'View full list on NASA/ADS →')}
       </a>
     </div>`;
 
@@ -123,9 +125,9 @@ async function loadPublications() {
     console.error('Error cargando publicaciones:', err);
     container.innerHTML = `
       <div class="pub-ads-link">
-        <p>No se pudo cargar la lista de publicaciones.</p>
+        <p>${t('No se pudo cargar la lista de publicaciones.', 'Could not load the publications list.')}</p>
         <a href="${ADS_SEARCH_URL}" target="_blank" rel="noopener" class="btn btn-outline">
-          Ver publicaciones en NASA/ADS →
+          ${t('Ver publicaciones en NASA/ADS →', 'View publications on NASA/ADS →')}
         </a>
       </div>`;
   }
