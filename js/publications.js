@@ -1,12 +1,15 @@
 /*
  * Publicaciones: lee js/publications-data.json (generado por GitHub Actions).
- * Para actualizar manualmente: ejecutar el workflow desde GitHub → Actions.
+ * Para actualizar manualmente: ejecutar el workflow desde GitHub ??? Actions.
  */
 
 const ADS_ORCIDS = [
   '0000-0002-8686-8737',
   '0000-0002-3690-105X',
   '0000-0001-7853-4094',
+  '0000-0003-0006-0188',
+  '0000-0001-7568-6412',
+  '0000-0002-0149-1302'
 ];
 
 const ADS_SEARCH_URL =
@@ -32,7 +35,7 @@ function journalTag(pub) {
   for (const [full, abbr] of Object.entries(JOURNAL_ABBR)) {
     if (pub && pub.includes(full)) return abbr;
   }
-  return pub ? pub.slice(0, 10) : '—';
+  return pub ? pub.slice(0, 10) : '???';
 }
 
 function authorList(authors) {
@@ -57,7 +60,7 @@ function buildEntry(paper) {
     <div class="pub-entry">
       <div class="pub-journal">${tag}</div>
       <div class="pub-body">
-        <p class="pub-title">${paper.title ? paper.title[0] : 'Sin título'}</p>
+        <p class="pub-title">${paper.title ? paper.title[0] : 'Sin t??tulo'}</p>
         <p class="pub-authors">${authorList(paper.author)}</p>
         <p class="pub-ref">${ref}</p>
         <div class="pub-links">
@@ -76,7 +79,7 @@ async function loadPublications() {
   container.innerHTML = `
     <div class="pub-loading">
       <div class="pub-loading-spinner"></div>
-      <p>Cargando publicaciones…</p>
+      <p>Cargando publicaciones???</p>
     </div>`;
 
   try {
@@ -108,9 +111,9 @@ async function loadPublications() {
     });
 
     html += `<div class="pub-ads-link">
-      <p>Mostrando las ${papers.length} publicaciones más recientes del grupo.</p>
+      <p>Mostrando las ${papers.length} publicaciones m??s recientes del grupo.</p>
       <a href="${ADS_SEARCH_URL}" target="_blank" rel="noopener" class="btn btn-outline">
-        Ver lista completa en NASA/ADS →
+        Ver lista completa en NASA/ADS ???
       </a>
     </div>`;
 
@@ -122,7 +125,7 @@ async function loadPublications() {
       <div class="pub-ads-link">
         <p>No se pudo cargar la lista de publicaciones.</p>
         <a href="${ADS_SEARCH_URL}" target="_blank" rel="noopener" class="btn btn-outline">
-          Ver publicaciones en NASA/ADS →
+          Ver publicaciones en NASA/ADS ???
         </a>
       </div>`;
   }
