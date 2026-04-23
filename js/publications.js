@@ -10,7 +10,7 @@ const ADS_ORCIDS = [
 ];
 
 const ADS_SEARCH_URL =
-  'https://ui.adsabs.harvard.edu/search/q=' +
+  'https://scixplorer.org/search/q=' +
   ADS_ORCIDS.map(o => `orcid%3A${o}`).join('+OR+') +
   '&sort=date%20desc%2C%20bibcode%20desc';
 
@@ -45,7 +45,7 @@ function buildEntry(paper) {
   const bibcode  = paper.bibcode || '';
   const arxivId  = (paper.identifier || []).find(id => id.startsWith('arXiv:'));
   const doi      = (paper.doi || [])[0] || null;
-  const adsUrl   = bibcode ? `https://ui.adsabs.harvard.edu/abs/${encodeURIComponent(bibcode)}` : '#';
+  const adsUrl   = bibcode ? `https://scixplorer.org/abs/${encodeURIComponent(bibcode)}` : '#';
   const arxivUrl = arxivId ? `https://arxiv.org/abs/${arxivId.replace('arXiv:', '')}` : null;
   const doiUrl   = doi ? `https://doi.org/${doi}` : null;
 
