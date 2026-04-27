@@ -8,12 +8,18 @@ on:
     - cron: '0 6 * * 1'
   workflow_dispatch:
 
+concurrency:
+  group: update-publications
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # necesario para rebase
 
       - name: Descargar papers desde NASA/ADS
         run: |
@@ -26,6 +32,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add js/publications-data.json
+
+          # Solo commit si hay cambios reales
           git diff --staged --quiet || git commit -m "Actualizar publicaciones desde NASA/ADS"
+
+          # Sincronizar con remoto antes de push
+          git pull --rebase origin main
+
           git push
