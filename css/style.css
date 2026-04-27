@@ -318,7 +318,7 @@ img { max-width: 100%; display: block; }
 }
 .img-credit-details summary {
   cursor: pointer;
-  color: rgba(132,148,184,.45);
+  color: white;
   list-style: none;
   display: inline-flex;
   align-items: center;
