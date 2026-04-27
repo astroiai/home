@@ -17,10 +17,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout del repositorio
+      - name: Checkout
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
+
+      - name: Sincronizar con remoto (ANTES de modificar nada)
+        run: |
+          git fetch origin main
+          git checkout main
+          git reset --hard origin/main
 
       - name: Descargar papers desde NASA/ADS
         run: |
@@ -29,7 +35,7 @@ jobs:
             "https://api.adsabs.harvard.edu/v1/search/query?q=orcid:0000-0002-8686-8737+OR+orcid:0000-0002-3690-105X+OR+orcid:0000-0001-7853-4094+OR+orcid:0000-0003-0006-0188+OR+orcid:0000-0002-0149-1302+OR+orcid:0000-0001-7568-6412&sort=date+desc&fl=title,author,year,pub,volume,page,bibcode,identifier,doi&rows=20" \
             > js/publications-data.json
 
-      - name: Normalizar JSON (evitar cambios falsos)
+      - name: Normalizar JSON
         run: |
           sudo apt-get update -y
           sudo apt-get install -y jq
@@ -46,9 +52,4 @@ jobs:
           # Solo commit si hay cambios reales
           git diff --staged --quiet || git commit -m "Actualizar publicaciones desde NASA/ADS"
 
-          # Sincronización robusta con remoto
-          git fetch origin main
-          git rebase origin/main
-
-          # Push explícito
-          git push origin HEAD:main
+          git push origin main
