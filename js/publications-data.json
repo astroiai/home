@@ -1,4 +1,5 @@
 {
+  "allocatedBytes": 36968592,
   "response": {
     "docs": [
       {
@@ -53,6 +54,131 @@
           "C IV wind properties of the SDSS-V X-ray selected quasars: strong optical-to-UV emission is key regardless of X-ray strength"
         ],
         "volume": "548",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Heiger, Mairéad E.",
+          "Ji, Alexander P.",
+          "Li, Ting S.",
+          "Simon, Joshua D.",
+          "Limberg, Guilherme",
+          "Carballo-Bello, Julio A.",
+          "Cerny, William",
+          "Chaturvedi, Astha",
+          "Chiti, Anirudh",
+          "Choi, Yumi",
+          "Crnojević, Denija",
+          "Martínez-Vázquez, Clara E.",
+          "Medina, Gustavo E.",
+          "Mutlu-Pakdil, Burçin",
+          "Navabi, Mahdieh",
+          "Noël, Noelia E. D.",
+          "Pace, Andrew B.",
+          "Placco, Vinicius M.",
+          "Riley, Alexander H.",
+          "Sakowska, Joanna D.",
+          "Stringfellow, Guy S.",
+          "Delve Collaboration"
+        ],
+        "bibcode": "2026ApJ..1002..182H",
+        "doi": [
+          "10.3847/1538-4357/ae5a3e"
+        ],
+        "identifier": [
+          "2025arXiv250811012E",
+          "2026ApJ..1002..182H",
+          "2025arXiv250811012H",
+          "10.3847/1538-4357/ae5a3e",
+          "arXiv:2508.11012"
+        ],
+        "page": [
+          "182"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "Not-so-heavy Metal(s): Chemical Abundances in the Ultrafaint Dwarf Galaxies Eridanus IV and Centaurus I"
+        ],
+        "volume": "1002",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Fang, Ji",
+          "Zeng, Xin",
+          "Ao, Yiping",
+          "Lyu, Zongfei",
+          "Bauer, Franz E.",
+          "Espada, Daniel",
+          "Hatsukade, Bunyo",
+          "Hughes, David H.",
+          "Koekemoer, Anton M.",
+          "Tsujita, Akiyoshi",
+          "Wang, Wei-Hao"
+        ],
+        "bibcode": "2026RAA....26e5002F",
+        "doi": [
+          "10.1088/1674-4527/ae3f09"
+        ],
+        "identifier": [
+          "10.1088/1674-4527/ae3f09",
+          "2026RAA....26e5002F"
+        ],
+        "page": [
+          "055002"
+        ],
+        "pub": "Research in Astronomy and Astrophysics",
+        "title": [
+          "ALMA Lensing Cluster Survey: A Near-infrared-dark Submillimeter Galaxy at z &gt; 4.5"
+        ],
+        "volume": "26",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Zeltyn, Grisha",
+          "Trakhtenbrot, Benny",
+          "Eracleous, Michael",
+          "Anderson, Scott F.",
+          "Ricci, Claudio",
+          "Merloni, Andrea",
+          "Runnoe, Jessie",
+          "Krumpe, Mirko",
+          "Aird, James",
+          "Assef, Roberto J.",
+          "Aydar, Catarina",
+          "Bauer, Franz E.",
+          "Brandt, W. N.",
+          "Brownstein, Joel R.",
+          "Buchner, Johannes",
+          "Chatterjee, Kaushik",
+          "Duffy, Laura",
+          "Hernández-García, Lorena",
+          "Hernández-Toledo, Héctor",
+          "Koekemoer, Anton M.",
+          "Morrison, Sean",
+          "Negrete Peñaloza, Castalia Alenka",
+          "Salvato, Mara",
+          "Schneider, Donald P.",
+          "Shen, Yue",
+          "Śniegowska, Marzena"
+        ],
+        "bibcode": "2026ApJ..1002...61Z",
+        "doi": [
+          "10.3847/1538-4357/ae5495"
+        ],
+        "identifier": [
+          "10.3847/1538-4357/ae5495",
+          "2026ApJ..1002...61Z"
+        ],
+        "page": [
+          "61"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "Changing-look Active Galactic Nuclei in SDSS-V: Host-galaxy Properties and Black Hole Scaling Relations"
+        ],
+        "volume": "1002",
         "year": "2026"
       },
       {
@@ -142,127 +268,27 @@
       },
       {
         "author": [
-          "Heiger, Mairéad E.",
-          "Ji, Alexander P.",
-          "Li, Ting S.",
-          "Simon, Joshua D.",
-          "Limberg, Guilherme",
-          "Carballo-Bello, Julio A.",
-          "Cerny, William",
-          "Chaturvedi, Astha",
-          "Chiti, Anirudh",
-          "Choi, Yumi",
-          "Crnojević, Denija",
-          "Martínez-Vázquez, Clara E.",
-          "Medina, Gustavo E.",
-          "Mutlu-Pakdil, Burçin",
-          "Navabi, Mahdieh",
-          "Noël, Noelia E. D.",
-          "Pace, Andrew B.",
-          "Placco, Vinicius M.",
-          "Riley, Alexander H.",
-          "Sakowska, Joanna D.",
-          "Stringfellow, Guy S.",
-          "Delve Collaboration"
+          "Sanchez-Sierras, J.",
+          "Levan, A. J.",
+          "Martin-Carrillo, A.",
+          "Quirola-Vasquez, J.",
+          "Malesani, D. B.",
+          "Jonker, P. G.",
+          "Bauer, F. E.",
+          "Chácon, J."
         ],
-        "bibcode": "2026ApJ..1002..182H",
-        "doi": [
-          "10.3847/1538-4357/ae5a3e"
-        ],
+        "bibcode": "2026GCN.44225....1S",
         "identifier": [
-          "2025arXiv250811012E",
-          "2026ApJ..1002..182H",
-          "2025arXiv250811012H",
-          "10.3847/1538-4357/ae5a3e",
-          "arXiv:2508.11012"
+          "2026GCN.44225....1S"
         ],
         "page": [
-          "182"
+          "1"
         ],
-        "pub": "The Astrophysical Journal",
+        "pub": "GRB Coordinates Network",
         "title": [
-          "Not-so-heavy Metal(s): Chemical Abundances in the Ultrafaint Dwarf Galaxies Eridanus IV and Centaurus I"
+          "EP260405a: GMOS-N optical upper limits"
         ],
-        "volume": "1002",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Zeltyn, Grisha",
-          "Trakhtenbrot, Benny",
-          "Eracleous, Michael",
-          "Anderson, Scott F.",
-          "Ricci, Claudio",
-          "Merloni, Andrea",
-          "Runnoe, Jessie",
-          "Krumpe, Mirko",
-          "Aird, James",
-          "Assef, Roberto J.",
-          "Aydar, Catarina",
-          "Bauer, Franz E.",
-          "Brandt, W. N.",
-          "Brownstein, Joel R.",
-          "Buchner, Johannes",
-          "Chatterjee, Kaushik",
-          "Duffy, Laura",
-          "Hernández-García, Lorena",
-          "Hernández-Toledo, Héctor",
-          "Koekemoer, Anton M.",
-          "Morrison, Sean",
-          "Negrete Peñaloza, Castalia Alenka",
-          "Salvato, Mara",
-          "Schneider, Donald P.",
-          "Shen, Yue",
-          "Śniegowska, Marzena"
-        ],
-        "bibcode": "2026ApJ..1002...61Z",
-        "doi": [
-          "10.3847/1538-4357/ae5495"
-        ],
-        "identifier": [
-          "10.3847/1538-4357/ae5495",
-          "2026ApJ..1002...61Z"
-        ],
-        "page": [
-          "61"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "Changing-look Active Galactic Nuclei in SDSS-V: Host-galaxy Properties and Black Hole Scaling Relations"
-        ],
-        "volume": "1002",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Fang, Ji",
-          "Zeng, Xin",
-          "Ao, Yiping",
-          "Lyu, Zongfei",
-          "Bauer, Franz E.",
-          "Espada, Daniel",
-          "Hatsukade, Bunyo",
-          "Hughes, David H.",
-          "Koekemoer, Anton M.",
-          "Tsujita, Akiyoshi",
-          "Wang, Wei-Hao"
-        ],
-        "bibcode": "2026RAA....26e5002F",
-        "doi": [
-          "10.1088/1674-4527/ae3f09"
-        ],
-        "identifier": [
-          "10.1088/1674-4527/ae3f09",
-          "2026RAA....26e5002F"
-        ],
-        "page": [
-          "055002"
-        ],
-        "pub": "Research in Astronomy and Astrophysics",
-        "title": [
-          "ALMA Lensing Cluster Survey: A Near-infrared-dark Submillimeter Galaxy at z &gt; 4.5"
-        ],
-        "volume": "26",
+        "volume": "44225",
         "year": "2026"
       },
       {
@@ -312,233 +338,53 @@
       },
       {
         "author": [
-          "Diaz, Paula B.",
-          "Muruaga, Berenice",
-          "Muñoz, Ricardo R.",
-          "Carballo-Bello, Julio A.",
-          "Kuzma, Pete B.",
-          "Suárez, Valentina"
+          "Aster, Callum",
+          "Inserra, Cosimo",
+          "Pastorello, Andrea",
+          "Anderson, Joseph P.",
+          "Bauer, Franz Erik",
+          "Bostroem, K. Azalee",
+          "Chambers, Kenneth C.",
+          "Chen, Ting-Wan",
+          "Farah, Joseph R.",
+          "Fraser, Morgan",
+          "Fugazza, Dino Pierluigi",
+          "Gromadzki, Mariusz",
+          "Gutiérrez, Claudia P.",
+          "Howell, D. Andrew",
+          "Kankare, Erkki",
+          "Killestein, Tom L.",
+          "Koivisto, Niilo",
+          "Leloudas, Giorgos",
+          "Lyman, J. D.",
+          "Medler, Kyle",
+          "Moran, Shane",
+          "Müller-Bravo, Tomás E.",
+          "Pignata, Giuliano",
+          "Pursiainen, Miika",
+          "Ragosta, Fabio",
+          "Reguitti, Andrea",
+          "Sollerman, Jesper",
+          "Valerin, Giorgio",
+          "Warwick, Ben",
+          "Young, David R."
         ],
-        "bibcode": "2026A&A...708A.255D",
+        "bibcode": "2026MNRAS.547ag404A",
         "doi": [
-          "10.1051/0004-6361/202558079",
-          "10.48550/arXiv.2603.05605"
+          "10.1093/mnras/stag404"
         ],
         "identifier": [
-          "2026arXiv260305605D",
-          "10.1051/0004-6361/202558079",
-          "arXiv:2603.05605",
-          "10.48550/arXiv.2603.05605",
-          "2026A&A...708A.255D"
+          "10.1093/mnras/stag404",
+          "2026MNRAS.547ag404A"
         ],
         "page": [
-          "A255"
+          "stag404"
         ],
-        "pub": "Astronomy and Astrophysics",
+        "pub": "Monthly Notices of the Royal Astronomical Society",
         "title": [
-          "The case of NGC5824, a cluster possibly embedded in a dark matter halo"
+          "SN 2024abvb: a Type Ibn/Icn supernova with evidence of helium and an extreme offset from its host galaxy"
         ],
-        "volume": "708",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Gallenne, A.",
-          "Kervella, P.",
-          "Evans, N. R.",
-          "Milli, J.",
-          "Sivkova, E.",
-          "Gieren, W.",
-          "Pietrzyński, G.",
-          "Bras, G.",
-          "Hocdé, V.",
-          "Kiviaho, W.",
-          "Nardetto, N.",
-          "Pilecki, B.",
-          "Zgirski, B."
-        ],
-        "bibcode": "2026A&A...709A..44G",
-        "doi": [
-          "10.1051/0004-6361/202658849",
-          "10.48550/arXiv.2604.05287"
-        ],
-        "identifier": [
-          "arXiv:2604.05287",
-          "2026A&A...709A..44G",
-          "10.1051/0004-6361/202658849",
-          "10.48550/arXiv.2604.05287",
-          "2026arXiv260405287G"
-        ],
-        "page": [
-          "A44"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "High-contrast imaging of Galactic Cepheids with VLT/SPHERE"
-        ],
-        "volume": "709",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Martínez-Ramírez, L. N.",
-          "Wolf, Julien",
-          "Belladitta, Silvia",
-          "Bañados, Eduardo",
-          "Bauer, F. E.",
-          "Hviding, Raphael E.",
-          "Stern, Daniel",
-          "Mazzucchelli, Chiara",
-          "Meyer, Romain A.",
-          "Treister, Ezequiel",
-          "Loiacono, Federica"
-        ],
-        "bibcode": "2026A&A...708A.117M",
-        "doi": [
-          "10.1051/0004-6361/202557039",
-          "10.48550/arXiv.2603.08830"
-        ],
-        "identifier": [
-          "2026A&A...708A.117M",
-          "10.48550/arXiv.2603.08830",
-          "arXiv:2603.08830",
-          "2026arXiv260308830M",
-          "10.1051/0004-6361/202557039"
-        ],
-        "page": [
-          "A117"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "16 new quasars at the end of the reionization unveiled by self-supervised learning"
-        ],
-        "volume": "708",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Li, Mingyu",
-          "Cai, Zheng",
-          "Emonts, Bjorn H. C.",
-          "Sun, Fengwu",
-          "Sun, Ming",
-          "Bian, Fuyan",
-          "Li, Zihao",
-          "Lin, Xiaojing",
-          "Wu, Yunjing",
-          "Bauer, Franz E.",
-          "Fujimoto, Seiji",
-          "Koekemoer, Anton M.",
-          "Kokorev, Vasily",
-          "Willmer, Christopher N. A.",
-          "Egami, Eiichi",
-          "Fan, Xiaohui",
-          "Xaiver Prochaska, J.",
-          "Sun, Zechang",
-          "Yu, Fujiang"
-        ],
-        "bibcode": "2026arXiv260411892L",
-        "doi": [
-          "10.48550/arXiv.2604.11892"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2604.11892",
-          "2026arXiv260411892L",
-          "arXiv:2604.11892"
-        ],
-        "page": [
-          "arXiv:2604.11892"
-        ],
-        "pub": "arXiv e-prints",
-        "title": [
-          "A Post-starburst Galaxy Undergoing Ram-pressure Stripping at Redshift 3.06"
-        ],
-        "year": "2026"
-      },
-      {
-        "author": [
-          "McKay, S. J.",
-          "Barger, A. J.",
-          "Cowie, L. L.",
-          "Bauer, F. E."
-        ],
-        "bibcode": "2026arXiv260411879M",
-        "doi": [
-          "10.48550/arXiv.2604.11879"
-        ],
-        "identifier": [
-          "2026arXiv260411879M",
-          "arXiv:2604.11879",
-          "10.48550/arXiv.2604.11879"
-        ],
-        "page": [
-          "arXiv:2604.11879"
-        ],
-        "pub": "arXiv e-prints",
-        "title": [
-          "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies"
-        ],
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Satheesh-Sheeba, S.",
-          "Assef, R. J.",
-          "Anguita, T.",
-          "Sánchez-Sáez, P.",
-          "Shirley, R.",
-          "Ananna, T. T.",
-          "Bauer, F. E.",
-          "Bobrick, A.",
-          "Bornancini, C. G.",
-          "Bosman, S. E. I.",
-          "Brandt, W. N.",
-          "De Cicco, D.",
-          "Czerny, B.",
-          "Fatović, M.",
-          "Ichikawa, K.",
-          "Ilić, D.",
-          "Kovačević, A. B.",
-          "Li, G.",
-          "Liao, M.",
-          "Rojas-Lilayú, A.",
-          "Marculewicz, M.",
-          "Marsango, D.",
-          "Mazzucchelli, C.",
-          "Mkrtchyan, T.",
-          "Panda, S.",
-          "Peca, A.",
-          "Rani, B.",
-          "Ricci, C.",
-          "Richards, G. T.",
-          "Salvato, M.",
-          "Schneider, D. P.",
-          "Temple, M. J.",
-          "Tombesi, F.",
-          "Yu, W.",
-          "Yoon, I.",
-          "Zou, F."
-        ],
-        "bibcode": "2026A&A...708A.121S",
-        "doi": [
-          "10.1051/0004-6361/202557223",
-          "10.48550/arXiv.2509.13308"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2509.13308",
-          "2026A&A...708A.121S",
-          "arXiv:2509.13308",
-          "10.1051/0004-6361/202557223",
-          "2025arXiv250913308S"
-        ],
-        "page": [
-          "A121"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "VAR-PZ: Constraining the photometric redshifts of quasars using variability"
-        ],
-        "volume": "708",
+        "volume": "547",
         "year": "2026"
       },
       {
@@ -625,93 +471,6 @@
           "BASS: LI. Cool gas supply of HI-massive local Seyfert galaxies"
         ],
         "volume": "708",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Aster, Callum",
-          "Inserra, Cosimo",
-          "Pastorello, Andrea",
-          "Anderson, Joseph P.",
-          "Bauer, Franz Erik",
-          "Bostroem, K. Azalee",
-          "Chambers, Kenneth C.",
-          "Chen, Ting-Wan",
-          "Farah, Joseph R.",
-          "Fraser, Morgan",
-          "Fugazza, Dino Pierluigi",
-          "Gromadzki, Mariusz",
-          "Gutiérrez, Claudia P.",
-          "Howell, D. Andrew",
-          "Kankare, Erkki",
-          "Killestein, Tom L.",
-          "Koivisto, Niilo",
-          "Leloudas, Giorgos",
-          "Lyman, J. D.",
-          "Medler, Kyle",
-          "Moran, Shane",
-          "Müller-Bravo, Tomás E.",
-          "Pignata, Giuliano",
-          "Pursiainen, Miika",
-          "Ragosta, Fabio",
-          "Reguitti, Andrea",
-          "Sollerman, Jesper",
-          "Valerin, Giorgio",
-          "Warwick, Ben",
-          "Young, David R."
-        ],
-        "bibcode": "2026MNRAS.547ag404A",
-        "doi": [
-          "10.1093/mnras/stag404"
-        ],
-        "identifier": [
-          "10.1093/mnras/stag404",
-          "2026MNRAS.547ag404A"
-        ],
-        "page": [
-          "stag404"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": [
-          "SN 2024abvb: a Type Ibn/Icn supernova with evidence of helium and an extreme offset from its host galaxy"
-        ],
-        "volume": "547",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Mkrtchyan, T.",
-          "Mazzucchelli, C.",
-          "Assef, R. J.",
-          "Temple, M. J.",
-          "Rojas-Lilayú, A.",
-          "Bauer, F. E.",
-          "Toptun, V.",
-          "Acevedo Barroso, J. A.",
-          "Belladitta, S.",
-          "Farina, E. P.",
-          "Martínez-Ramírez, L. N.",
-          "Papini, G.",
-          "Satheesh-Sheeba, S.",
-          "Stern, D.",
-          "Upadhyayula, A."
-        ],
-        "bibcode": "2026arXiv260413178M",
-        "doi": [
-          "10.48550/arXiv.2604.13178"
-        ],
-        "identifier": [
-          "arXiv:2604.13178",
-          "10.48550/arXiv.2604.13178",
-          "2026arXiv260413178M"
-        ],
-        "page": [
-          "arXiv:2604.13178"
-        ],
-        "pub": "arXiv e-prints",
-        "title": [
-          "4MOST ChANGES: Catalog of high-redshift quasar candidates (4.5 &lt; $z$ &lt; 7) selected with SED fitting"
-        ],
         "year": "2026"
       },
       {
@@ -808,6 +567,71 @@
       },
       {
         "author": [
+          "McKay, S. J.",
+          "Barger, A. J.",
+          "Cowie, L. L.",
+          "Bauer, F. E."
+        ],
+        "bibcode": "2026arXiv260411879M",
+        "doi": [
+          "10.48550/arXiv.2604.11879"
+        ],
+        "identifier": [
+          "2026arXiv260411879M",
+          "arXiv:2604.11879",
+          "10.48550/arXiv.2604.11879"
+        ],
+        "page": [
+          "arXiv:2604.11879"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies"
+        ],
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Li, Mingyu",
+          "Cai, Zheng",
+          "Emonts, Bjorn H. C.",
+          "Sun, Fengwu",
+          "Sun, Ming",
+          "Bian, Fuyan",
+          "Li, Zihao",
+          "Lin, Xiaojing",
+          "Wu, Yunjing",
+          "Bauer, Franz E.",
+          "Fujimoto, Seiji",
+          "Koekemoer, Anton M.",
+          "Kokorev, Vasily",
+          "Willmer, Christopher N. A.",
+          "Egami, Eiichi",
+          "Fan, Xiaohui",
+          "Xaiver Prochaska, J.",
+          "Sun, Zechang",
+          "Yu, Fujiang"
+        ],
+        "bibcode": "2026arXiv260411892L",
+        "doi": [
+          "10.48550/arXiv.2604.11892"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2604.11892",
+          "2026arXiv260411892L",
+          "arXiv:2604.11892"
+        ],
+        "page": [
+          "arXiv:2604.11892"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "A Post-starburst Galaxy Undergoing Ram-pressure Stripping at Redshift 3.06"
+        ],
+        "year": "2026"
+      },
+      {
+        "author": [
           "Zhao, Guoying",
           "Cao, Duo-Le",
           "Shen, Rong-Feng",
@@ -858,6 +682,170 @@
           "Multi-wavelength study of EP250416a / GRB 250416C: An Optically Dark Long GRB with a Late Jet Break"
         ],
         "year": "2026"
+      },
+      {
+        "author": [
+          "Mkrtchyan, T.",
+          "Mazzucchelli, C.",
+          "Assef, R. J.",
+          "Temple, M. J.",
+          "Rojas-Lilayú, A.",
+          "Bauer, F. E.",
+          "Toptun, V.",
+          "Acevedo Barroso, J. A.",
+          "Belladitta, S.",
+          "Farina, E. P.",
+          "Martínez-Ramírez, L. N.",
+          "Papini, G.",
+          "Satheesh-Sheeba, S.",
+          "Stern, D.",
+          "Upadhyayula, A."
+        ],
+        "bibcode": "2026arXiv260413178M",
+        "doi": [
+          "10.48550/arXiv.2604.13178"
+        ],
+        "identifier": [
+          "arXiv:2604.13178",
+          "10.48550/arXiv.2604.13178",
+          "2026arXiv260413178M"
+        ],
+        "page": [
+          "arXiv:2604.13178"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "4MOST ChANGES: Catalog of high-redshift quasar candidates (4.5 &lt; $z$ &lt; 7) selected with SED fitting"
+        ],
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Martínez-Ramírez, L. N.",
+          "Wolf, Julien",
+          "Belladitta, Silvia",
+          "Bañados, Eduardo",
+          "Bauer, F. E.",
+          "Hviding, Raphael E.",
+          "Stern, Daniel",
+          "Mazzucchelli, Chiara",
+          "Meyer, Romain A.",
+          "Treister, Ezequiel",
+          "Loiacono, Federica"
+        ],
+        "bibcode": "2026A&A...708A.117M",
+        "doi": [
+          "10.1051/0004-6361/202557039",
+          "10.48550/arXiv.2603.08830"
+        ],
+        "identifier": [
+          "2026A&A...708A.117M",
+          "10.48550/arXiv.2603.08830",
+          "arXiv:2603.08830",
+          "2026arXiv260308830M",
+          "10.1051/0004-6361/202557039"
+        ],
+        "page": [
+          "A117"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "16 new quasars at the end of the reionization unveiled by self-supervised learning"
+        ],
+        "volume": "708",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Satheesh-Sheeba, S.",
+          "Assef, R. J.",
+          "Anguita, T.",
+          "Sánchez-Sáez, P.",
+          "Shirley, R.",
+          "Ananna, T. T.",
+          "Bauer, F. E.",
+          "Bobrick, A.",
+          "Bornancini, C. G.",
+          "Bosman, S. E. I.",
+          "Brandt, W. N.",
+          "De Cicco, D.",
+          "Czerny, B.",
+          "Fatović, M.",
+          "Ichikawa, K.",
+          "Ilić, D.",
+          "Kovačević, A. B.",
+          "Li, G.",
+          "Liao, M.",
+          "Rojas-Lilayú, A.",
+          "Marculewicz, M.",
+          "Marsango, D.",
+          "Mazzucchelli, C.",
+          "Mkrtchyan, T.",
+          "Panda, S.",
+          "Peca, A.",
+          "Rani, B.",
+          "Ricci, C.",
+          "Richards, G. T.",
+          "Salvato, M.",
+          "Schneider, D. P.",
+          "Temple, M. J.",
+          "Tombesi, F.",
+          "Yu, W.",
+          "Yoon, I.",
+          "Zou, F."
+        ],
+        "bibcode": "2026A&A...708A.121S",
+        "doi": [
+          "10.1051/0004-6361/202557223",
+          "10.48550/arXiv.2509.13308"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2509.13308",
+          "2026A&A...708A.121S",
+          "arXiv:2509.13308",
+          "10.1051/0004-6361/202557223",
+          "2025arXiv250913308S"
+        ],
+        "page": [
+          "A121"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "VAR-PZ: Constraining the photometric redshifts of quasars using variability"
+        ],
+        "volume": "708",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Diaz, Paula B.",
+          "Muruaga, Berenice",
+          "Muñoz, Ricardo R.",
+          "Carballo-Bello, Julio A.",
+          "Kuzma, Pete B.",
+          "Suárez, Valentina"
+        ],
+        "bibcode": "2026A&A...708A.255D",
+        "doi": [
+          "10.1051/0004-6361/202558079",
+          "10.48550/arXiv.2603.05605"
+        ],
+        "identifier": [
+          "2026arXiv260305605D",
+          "10.1051/0004-6361/202558079",
+          "arXiv:2603.05605",
+          "10.48550/arXiv.2603.05605",
+          "2026A&A...708A.255D"
+        ],
+        "page": [
+          "A255"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "The case of NGC5824, a cluster possibly embedded in a dark matter halo"
+        ],
+        "volume": "708",
+        "year": "2026"
       }
     ],
     "numFound": 2091,
@@ -865,12 +853,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 47,
+    "QTime": 222,
     "params": {
-      "cpuAllowed": "5000",
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a0b4197-2c5e277a1b881d07370ca177",
-      "memAllowed": "1",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a147370-5779dfef50637e7a16e9e847",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412",
       "rows": "20",
       "sort": "date desc",
