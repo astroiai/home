@@ -1,65 +1,8 @@
 {
-  "allocatedBytes": 32358432,
+  "allocatedBytes": 35163792,
   "filtered": "true",
   "response": {
     "docs": [
-      {
-        "author": [
-          "Srivastav, S.",
-          "Smartt, S. J.",
-          "Moore, T.",
-          "Smith, K. W.",
-          "Young, D. R.",
-          "Fulton, M. D.",
-          "Angus, C. R.",
-          "Nicholl, M.",
-          "Stevance, H. F.",
-          "Chen, T.-W.",
-          "Pastorello, A.",
-          "Sommer, J.",
-          "Stoppa, F.",
-          "Tweddle, J. W.",
-          "Anderson, J. P.",
-          "Huber, M. E.",
-          "Rest, A.",
-          "Rhodes, L.",
-          "Shingles, L. J.",
-          "Aamer, A.",
-          "Clocchiatti, A.",
-          "Cooper, A. J.",
-          "Erasmus, N.",
-          "Gillanders, J. H.",
-          "Magill, D.",
-          "Pignata, G.",
-          "Ramsden, P.",
-          "Schmidt, B. P.",
-          "Sheng, X.",
-          "Weston, J. G.",
-          "Denneau, L.",
-          "Tonry, J. L."
-        ],
-        "bibcode": "2026MNRAS.549g1028S",
-        "doi": [
-          "10.1093/mnras/stag1028",
-          "10.48550/arXiv.2603.03069"
-        ],
-        "identifier": [
-          "10.1093/mnras/stag1028",
-          "2026MNRAS.549g1028S",
-          "10.48550/arXiv.2603.03069",
-          "2026arXiv260303069S",
-          "arXiv:2603.03069"
-        ],
-        "page": [
-          "stag1028"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": [
-          "ATLAS100 ─ I. A volume-limited sample of supernovae and related transients within 100 Mpc"
-        ],
-        "volume": "549",
-        "year": "2026"
-      },
       {
         "author": [
           "Morello, G.",
@@ -166,6 +109,332 @@
       },
       {
         "author": [
+          "Srivastav, S.",
+          "Smartt, S. J.",
+          "Moore, T.",
+          "Smith, K. W.",
+          "Young, D. R.",
+          "Fulton, M. D.",
+          "Angus, C. R.",
+          "Nicholl, M.",
+          "Stevance, H. F.",
+          "Chen, T.-W.",
+          "Pastorello, A.",
+          "Sommer, J.",
+          "Stoppa, F.",
+          "Tweddle, J. W.",
+          "Anderson, J. P.",
+          "Huber, M. E.",
+          "Rest, A.",
+          "Rhodes, L.",
+          "Shingles, L. J.",
+          "Aamer, A.",
+          "Clocchiatti, A.",
+          "Cooper, A. J.",
+          "Erasmus, N.",
+          "Gillanders, J. H.",
+          "Magill, D.",
+          "Pignata, G.",
+          "Ramsden, P.",
+          "Schmidt, B. P.",
+          "Sheng, X.",
+          "Weston, J. G.",
+          "Denneau, L.",
+          "Tonry, J. L."
+        ],
+        "bibcode": "2026MNRAS.549g1028S",
+        "doi": [
+          "10.1093/mnras/stag1028",
+          "10.48550/arXiv.2603.03069"
+        ],
+        "identifier": [
+          "10.1093/mnras/stag1028",
+          "2026MNRAS.549g1028S",
+          "10.48550/arXiv.2603.03069",
+          "2026arXiv260303069S",
+          "arXiv:2603.03069"
+        ],
+        "page": [
+          "stag1028"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": [
+          "ATLAS100 ─ I. A volume-limited sample of supernovae and related transients within 100 Mpc"
+        ],
+        "volume": "549",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "SDSS Collaboration",
+          "Aghakhanloo, Mojgan",
+          "Aird, James",
+          "Almeida, Andrés",
+          "Amrita, Singh",
+          "Anders, Friedrich",
+          "Anderson, Scott F.",
+          "Arseneau, Stefan",
+          "González Ávila, Consuelo",
+          "Aviram, Shir",
+          "Aydar, Catarina",
+          "Badenes, Carles",
+          "Barrera-Ballesteros, Jorge K.",
+          "Bauer, Franz E.",
+          "Behmard, Aida",
+          "Berg, Michelle",
+          "Besser, F.",
+          "Moni Bidin, Christian",
+          "Bizyaev, Dmitry",
+          "Blanc, Guillermo",
+          "Blanton, Michael R.",
+          "Bovy, Jo",
+          "Brandt, William Nielsen",
+          "Brownstein, Joel R.",
+          "Buchner, Johannes",
+          "Bulbul, Esra",
+          "Burchett, Joseph N.",
+          "Carigi, Leticia",
+          "Carlberg, Joleen K.",
+          "Casey, Andrew R.",
+          "Chakraborty, Priyanka",
+          "Chanamé, Julio",
+          "Chandra, Vedant",
+          "Chiappini, Cristina",
+          "Chilingarian, Igor",
+          "Comparat, Johan",
+          "Covey, Kevin",
+          "Crumpler, Nicole",
+          "Cunha, Katia",
+          "D'Onghia, Elena",
+          "Dai, Xinyu",
+          "Darling, Jeremy",
+          "Davis, Megan",
+          "De Lee, Nathan",
+          "Deacon, Niall",
+          "Méndez Delgado, José Eduardo",
+          "Demasi, Sebastian",
+          "Demianenko, Mariia",
+          "Demke, Delvin",
+          "Donor, John",
+          "Drory, Niv",
+          "Villa Durango, Monica Alejandra",
+          "Dwelly, Tom",
+          "Egorov, Oleg",
+          "Egorova, Evgeniya",
+          "El-Badry, Kareem",
+          "Eracleous, Mike",
+          "Fan, Xiaohui",
+          "Farr, Emily",
+          "Finkbeiner, Douglas P.",
+          "Fries, Logan",
+          "Frinchaboy, Peter",
+          "Gentile Fusillo, Nicola Pietro",
+          "Serrano Félix, Luis Daniel",
+          "Gänsicke, Boris T.",
+          "Galligan, Emma",
+          "García, Pablo",
+          "Gelfand, Joseph",
+          "Grabowski, Katie",
+          "Grebel, Eva",
+          "Green, Paul J.",
+          "Greve, Hannah",
+          "Grier, Catherine",
+          "Griffith, Emily J.",
+          "Guetzoyan, Paloma",
+          "Gupta, Pramod",
+          "Hackshaw, Zoe",
+          "Hall, Patrick B.",
+          "Hawkins, Keith",
+          "Hegedűs, Viola",
+          "Hekker, Saskia",
+          "Herbst, T. M.",
+          "Hermes, J. J.",
+          "Hernández-García, Lorena",
+          "Hiremath, Pranavi",
+          "Hogg, David W.",
+          "Holtzman, Jon",
+          "Horne, Keith",
+          "Horta, Danny",
+          "Huang, Yang",
+          "Hutchinson, Brian",
+          "Häberle, Maximilian",
+          "Ibarra-Medel, Hector Javier",
+          "Ji, Alexander P.",
+          "Jofre, Paula",
+          "Johnson, James W.",
+          "Johnson, Jennifer",
+          "Johnston, Evelyn J.",
+          "Kaldor, Mary",
+          "Katkov, Ivan",
+          "Khalatyan, Arman",
+          "Khoperskov, Sergey",
+          "Klessen, Ralf",
+          "Kluge, Matthias",
+          "Koekemoer, Anton M.",
+          "Kollmeier, Juna A.",
+          "Kounkel, Marina",
+          "Kreckel, Kathryn",
+          "Krishnarao, Dhanesh",
+          "Krumpe, Mirko",
+          "Lacerna, Ivan",
+          "Laporte, Chervin",
+          "Lépine, Sébastien",
+          "Li, Jing",
+          "Liang, Fu-Heng",
+          "Limberg, Guilherme",
+          "Liu, Xin",
+          "Loebman, Sarah",
+          "Long, Knox",
+          "Lu, Yuxi(Lucy)",
+          "Lucey, Madeline",
+          "Lugo-Aranda, Alejandra Z.",
+          "Martínez-Aldama, Mary Loli",
+          "McKinnon, Kevin A.",
+          "Medan, Ilija",
+          "Merloni, Andrea",
+          "Morrison, Sean",
+          "Myers, Natalie",
+          "Mészáros, Szabolcs",
+          "Müller-Horn, Johanna",
+          "Nepal, Samir",
+          "Ness, Melissa",
+          "Nidever, David",
+          "Nitschelm, Christian",
+          "Oravetz, Audrey",
+          "Otto, Jonah",
+          "Adamane Pallathadka, Gautham",
+          "Pan, Kaike",
+          "Pérez Paolino, Facundo",
+          "Negrete Peñaloza, Castalia Alenka",
+          "Pinsonneault, Marc",
+          "Taghizadeh-Popp, Manuchehr",
+          "Price-Whelan, Adrian",
+          "Pulatova, Nadiia",
+          "Queiroz, A. B. A.",
+          "Raddick, Jordan",
+          "Rankine, Amy L.",
+          "Rix, Hans-Walter",
+          "Román-Zúñiga, Carlos G.",
+          "Fernández Rosso, Daniela",
+          "Runnoe, Jessie",
+          "Saad, Serat Mahmud",
+          "Salvato, Mara",
+          "Sanchez, Sebastian F.",
+          "Sattler, Natascha",
+          "Saydjari, Andrew K.",
+          "Sayres, Conor",
+          "Schlaufman, Kevin C.",
+          "Schneider, Donald P.",
+          "Schwope, Axel",
+          "Seaton, Lucas M.",
+          "Seeburger, Rhys",
+          "Serna, Javier",
+          "Sharma, Sanjib",
+          "Shen, Yue",
+          "Sinha, Amaya",
+          "Sizemore, Logan",
+          "Sniegowska, Marzena",
+          "Song, Ying-Yi",
+          "Souto, Diogo",
+          "Stassun, Keivan G.",
+          "Steinmetz, Matthias",
+          "Stone, Zachary",
+          "Stone-Martinez, Alexander",
+          "Stringfellow, Guy S.",
+          "Mata Sánchez, Aurora",
+          "Sánchez-Gallego, José",
+          "Tan, Jonathan C.",
+          "Tayar, Jamie",
+          "Thai, Riley",
+          "Thakar, Ani",
+          "Thibodeaux, Pierre",
+          "Ting, Yuan-Sen",
+          "Tkachenko, Andrew",
+          "Trakhtenbrot, Benny",
+          "Fernández-Trincado, José G.",
+          "Troup, Nicholas",
+          "Trump, Jonathan R.",
+          "Ulloa, Natalie",
+          "Van Der Marel, Roeland P.",
+          "Vera, Pablo",
+          "Villanova, Sandro",
+          "Villaseñor, Jaime I.",
+          "Wang, Ji",
+          "Way, Zachary",
+          "Weijmans, Anne-Marie",
+          "Wheeler, Adam",
+          "Wilson, John C.",
+          "Wofford, Aida",
+          "Wong, Tony",
+          "Wu, Qiaoya",
+          "Wylezalek, Dominika",
+          "Xue, Xiang-Xiang",
+          "Yan, Renbin",
+          "Yang, Qian",
+          "Zakamska, Nadia",
+          "Zari, Eleonora",
+          "Zasowski, Gail",
+          "Zeltyn, Grisha",
+          "Zheng, Zheng",
+          "Zucker, Catherine",
+          "Zermeño, Rodolfo de J."
+        ],
+        "bibcode": "2026ApJS..285....9S",
+        "doi": [
+          "10.3847/1538-4365/ae4697"
+        ],
+        "identifier": [
+          "2026ApJS..285....9S",
+          "10.3847/1538-4365/ae4697"
+        ],
+        "page": [
+          "9"
+        ],
+        "pub": "The Astrophysical Journal Supplement Series",
+        "title": [
+          "The Nineteenth Data Release of the Sloan Digital Sky Survey"
+        ],
+        "volume": "285",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Venselaar, Sophie M.",
+          "Ricci, Claudio",
+          "Del Palacio, Santiago",
+          "Gupta, Kriti K.",
+          "Chang, Chin-Shin",
+          "Serafinelli, Roberto",
+          "Magno, Macon A.",
+          "Mushotzky, Richard",
+          "Shablovinskaya, Elena",
+          "Kawamuro, Taiki",
+          "Treister, Ezequiel",
+          "Elford, Jacob S.",
+          "Aalto, Susanne",
+          "Privon, George C.",
+          "Koss, Michael J."
+        ],
+        "bibcode": "2026ApJ..1005...48V",
+        "doi": [
+          "10.3847/1538-4357/ae6da8"
+        ],
+        "identifier": [
+          "10.3847/1538-4357/ae6da8",
+          "2026ApJ..1005...48V"
+        ],
+        "page": [
+          "48"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "The Millimeter/X-Ray Relation in Rapidly Accreting Supermassive Black Holes at z &lt; 0.16"
+        ],
+        "volume": "1005",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Perley, Daniel A.",
           "Ho, Anna Y. Q.",
           "McGrath, Zoë",
@@ -262,202 +531,6 @@
           "AT 2024wpp: an extremely luminous fast ultraviolet transient powered by accretion onto a black hole"
         ],
         "volume": "549",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Aydar, C.",
-          "Merloni, A.",
-          "Zeltyn, G.",
-          "Andonie, C.",
-          "Trakhtenbrot, B.",
-          "Bernal, S.",
-          "Wu, Q.",
-          "Buchner, J.",
-          "Salvato, M.",
-          "Dwelly, T.",
-          "Anderson, S. F.",
-          "Assef, R. J.",
-          "Bauer, F. E.",
-          "Brandt, W. N.",
-          "LaMassa, S.",
-          "Martínez-Aldama, M. L.",
-          "Rankine, A. L.",
-          "Schneider, D. P.",
-          "Shen, Y.",
-          "Brownstein, J. R.",
-          "Javier Ibarra-Medel, H.",
-          "Koekemoer, A. M.",
-          "Krumpe, M.",
-          "Morrison, S.",
-          "Nandra, K.",
-          "Negrete Peñaloza, C. A.",
-          "Sanchez, S. F."
-        ],
-        "bibcode": "2026A&A...710A.141A",
-        "doi": [
-          "10.1051/0004-6361/202558027",
-          "10.48550/arXiv.2604.27783"
-        ],
-        "identifier": [
-          "10.1051/0004-6361/202558027",
-          "2026arXiv260427783A",
-          "2026A&A...710A.141A",
-          "10.48550/arXiv.2604.27783",
-          "arXiv:2604.27783"
-        ],
-        "page": [
-          "A141"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "Robust active galactic nucleus and host-galaxy decomposition in optical spectral fitting"
-        ],
-        "volume": "710",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Norris, Ryan",
-          "Anugu, Narsireddy",
-          "Gaudin, Thomas",
-          "Otulakowska-Hypka, Magdalena",
-          "Kaczmarek, Fabian",
-          "Caruso, Cameron",
-          "Gustafson, Cody",
-          "Kotowski, Andrew",
-          "Proni, Rebecca",
-          "Roy, Nirupam",
-          "Baron, Fabien",
-          "Banerjee, Dipankar P. K.",
-          "Baylis-Aguirre, Dana K.",
-          "Creech-Eakman, Michelle J.",
-          "Linford, Justin",
-          "Gallenne, Alexandre",
-          "Mikołajewska, Joanna",
-          "Monnier, John D.",
-          "Mourard, Denis",
-          "Munari, Ulisse",
-          "Nardetto, Nicolas",
-          "Roettenbacher, Rachael M.",
-          "Sokoloski, Jennifer L.",
-          "Williams, Montana",
-          "Woodward, C. E.",
-          "Kraus, Stefan",
-          "Le Bouquin, Jean-Baptiste",
-          "Chhabra, Sorabh",
-          "Codron, Isabelle",
-          "Ennis, Jacob",
-          "Gardner, Tyler",
-          "Gutierrez, Mayra",
-          "Ibrahim, Noura",
-          "Lanthermann, Cyprien",
-          "Setterholm, Benjamin R.",
-          "Farrington, Christopher D.",
-          "Majoinen, Olli",
-          "Vargas, Norm",
-          "Gies, Douglas R.",
-          "Schaefer, Gail H.",
-          "ten Brummelaar, Theo"
-        ],
-        "bibcode": "2026ApJ..1004L..13N",
-        "doi": [
-          "10.3847/2041-8213/ae71d0",
-          "10.48550/arXiv.2606.17272"
-        ],
-        "identifier": [
-          "2026arXiv260617272N",
-          "arXiv:2606.17272",
-          "2026ApJ..1004L..13N",
-          "10.48550/arXiv.2606.17272",
-          "10.3847/2041-8213/ae71d0"
-        ],
-        "page": [
-          "L13"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "Pre-nova Observations of T CrB: A View from the CHARA Array"
-        ],
-        "volume": "1004",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Golubchik, Miriam",
-          "Furtak, Lukas J.",
-          "Allingham, Joseph F. V.",
-          "Zitrin, Adi",
-          "Akins, Hollis B.",
-          "Kokorev, Vasily",
-          "Fujimoto, Seiji",
-          "Abdurro'uf",
-          "Amorín, Ricardo O.",
-          "Bauer, Franz E.",
-          "Bezanson, Rachel",
-          "Bradač, Marusa",
-          "Bradley, Larry D.",
-          "Brammer, Gabriel B.",
-          "Chisholm, John",
-          "Coe, Dan",
-          "Conselice, Christopher J.",
-          "Dayal, Pratika",
-          "Dessauges-Zavadsky, Miroslava",
-          "Diego, Jose M.",
-          "Faisst, Andreas L.",
-          "Fei, Qinyue",
-          "Ferguson, Henry C.",
-          "Finkelstein, Steven L.",
-          "Frye, Brenda L.",
-          "González-Otero, Mauro",
-          "Greene, Jenny E.",
-          "Harikane, Yuichi",
-          "Hsiao, Tiger Yu-Yang",
-          "Inayoshi, Kohei",
-          "Jiménez-Teja, Yolanda",
-          "Knudsen, Kirsten",
-          "Koekemoer, Anton M.",
-          "Labbé, Ivo",
-          "Lucas, Ray A.",
-          "Magdis, Georgios E.",
-          "Matthee, Jorryt",
-          "Messa, Matteo",
-          "Naidu, Rohan P.",
-          "Nakane, Minami",
-          "Noirot, Gaël",
-          "Pan, Richard",
-          "Papovich, Casey",
-          "Richard, Johan",
-          "Ricotti, Massimo",
-          "Robbins, Luke",
-          "Stark, Daniel P.",
-          "Sun, Fengwu",
-          "Treu, Tommaso",
-          "Tripodi, Roberta",
-          "Vanzella, Eros",
-          "Willott, Chris",
-          "Windhorst, Rogier A."
-        ],
-        "bibcode": "2026A&A...710A.226G",
-        "doi": [
-          "10.1051/0004-6361/202558407",
-          "10.48550/arXiv.2512.02117"
-        ],
-        "identifier": [
-          "2026A&A...710A.226G",
-          "arXiv:2512.02117",
-          "10.48550/arXiv.2512.02117",
-          "2025arXiv251202117G",
-          "10.1051/0004-6361/202558407"
-        ],
-        "page": [
-          "A226"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "VENUS: When red meets blue: A multiply imaged little red dot with an apparent blue companion behind the galaxy cluster Abell 383"
-        ],
-        "volume": "710",
         "year": "2026"
       },
       {
@@ -572,6 +645,58 @@
       },
       {
         "author": [
+          "Aydar, C.",
+          "Merloni, A.",
+          "Zeltyn, G.",
+          "Andonie, C.",
+          "Trakhtenbrot, B.",
+          "Bernal, S.",
+          "Wu, Q.",
+          "Buchner, J.",
+          "Salvato, M.",
+          "Dwelly, T.",
+          "Anderson, S. F.",
+          "Assef, R. J.",
+          "Bauer, F. E.",
+          "Brandt, W. N.",
+          "LaMassa, S.",
+          "Martínez-Aldama, M. L.",
+          "Rankine, A. L.",
+          "Schneider, D. P.",
+          "Shen, Y.",
+          "Brownstein, J. R.",
+          "Javier Ibarra-Medel, H.",
+          "Koekemoer, A. M.",
+          "Krumpe, M.",
+          "Morrison, S.",
+          "Nandra, K.",
+          "Negrete Peñaloza, C. A.",
+          "Sanchez, S. F."
+        ],
+        "bibcode": "2026A&A...710A.141A",
+        "doi": [
+          "10.1051/0004-6361/202558027",
+          "10.48550/arXiv.2604.27783"
+        ],
+        "identifier": [
+          "10.1051/0004-6361/202558027",
+          "2026arXiv260427783A",
+          "2026A&A...710A.141A",
+          "10.48550/arXiv.2604.27783",
+          "arXiv:2604.27783"
+        ],
+        "page": [
+          "A141"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "Robust active galactic nucleus and host-galaxy decomposition in optical spectral fitting"
+        ],
+        "volume": "710",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Mkrtchyan, Tatevik",
           "Mazzucchelli, Chiara",
           "Assef, Roberto J.",
@@ -608,6 +733,511 @@
           "4MOST ChANGES: Catalog of high-redshift quasar candidates (4.5 &lt; z &lt; 7) selected via spectral-energy-distribution fitting"
         ],
         "volume": "710",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Golubchik, Miriam",
+          "Furtak, Lukas J.",
+          "Allingham, Joseph F. V.",
+          "Zitrin, Adi",
+          "Akins, Hollis B.",
+          "Kokorev, Vasily",
+          "Fujimoto, Seiji",
+          "Abdurro'uf",
+          "Amorín, Ricardo O.",
+          "Bauer, Franz E.",
+          "Bezanson, Rachel",
+          "Bradač, Marusa",
+          "Bradley, Larry D.",
+          "Brammer, Gabriel B.",
+          "Chisholm, John",
+          "Coe, Dan",
+          "Conselice, Christopher J.",
+          "Dayal, Pratika",
+          "Dessauges-Zavadsky, Miroslava",
+          "Diego, Jose M.",
+          "Faisst, Andreas L.",
+          "Fei, Qinyue",
+          "Ferguson, Henry C.",
+          "Finkelstein, Steven L.",
+          "Frye, Brenda L.",
+          "González-Otero, Mauro",
+          "Greene, Jenny E.",
+          "Harikane, Yuichi",
+          "Hsiao, Tiger Yu-Yang",
+          "Inayoshi, Kohei",
+          "Jiménez-Teja, Yolanda",
+          "Knudsen, Kirsten",
+          "Koekemoer, Anton M.",
+          "Labbé, Ivo",
+          "Lucas, Ray A.",
+          "Magdis, Georgios E.",
+          "Matthee, Jorryt",
+          "Messa, Matteo",
+          "Naidu, Rohan P.",
+          "Nakane, Minami",
+          "Noirot, Gaël",
+          "Pan, Richard",
+          "Papovich, Casey",
+          "Richard, Johan",
+          "Ricotti, Massimo",
+          "Robbins, Luke",
+          "Stark, Daniel P.",
+          "Sun, Fengwu",
+          "Treu, Tommaso",
+          "Tripodi, Roberta",
+          "Vanzella, Eros",
+          "Willott, Chris",
+          "Windhorst, Rogier A."
+        ],
+        "bibcode": "2026A&A...710A.226G",
+        "doi": [
+          "10.1051/0004-6361/202558407",
+          "10.48550/arXiv.2512.02117"
+        ],
+        "identifier": [
+          "2026A&A...710A.226G",
+          "arXiv:2512.02117",
+          "10.48550/arXiv.2512.02117",
+          "2025arXiv251202117G",
+          "10.1051/0004-6361/202558407"
+        ],
+        "page": [
+          "A226"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "VENUS: When red meets blue: A multiply imaged little red dot with an apparent blue companion behind the galaxy cluster Abell 383"
+        ],
+        "volume": "710",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Norris, Ryan",
+          "Anugu, Narsireddy",
+          "Gaudin, Thomas",
+          "Otulakowska-Hypka, Magdalena",
+          "Kaczmarek, Fabian",
+          "Caruso, Cameron",
+          "Gustafson, Cody",
+          "Kotowski, Andrew",
+          "Proni, Rebecca",
+          "Roy, Nirupam",
+          "Baron, Fabien",
+          "Banerjee, Dipankar P. K.",
+          "Baylis-Aguirre, Dana K.",
+          "Creech-Eakman, Michelle J.",
+          "Linford, Justin",
+          "Gallenne, Alexandre",
+          "Mikołajewska, Joanna",
+          "Monnier, John D.",
+          "Mourard, Denis",
+          "Munari, Ulisse",
+          "Nardetto, Nicolas",
+          "Roettenbacher, Rachael M.",
+          "Sokoloski, Jennifer L.",
+          "Williams, Montana",
+          "Woodward, C. E.",
+          "Kraus, Stefan",
+          "Le Bouquin, Jean-Baptiste",
+          "Chhabra, Sorabh",
+          "Codron, Isabelle",
+          "Ennis, Jacob",
+          "Gardner, Tyler",
+          "Gutierrez, Mayra",
+          "Ibrahim, Noura",
+          "Lanthermann, Cyprien",
+          "Setterholm, Benjamin R.",
+          "Farrington, Christopher D.",
+          "Majoinen, Olli",
+          "Vargas, Norm",
+          "Gies, Douglas R.",
+          "Schaefer, Gail H.",
+          "ten Brummelaar, Theo"
+        ],
+        "bibcode": "2026ApJ..1004L..13N",
+        "doi": [
+          "10.3847/2041-8213/ae71d0",
+          "10.48550/arXiv.2606.17272"
+        ],
+        "identifier": [
+          "2026arXiv260617272N",
+          "arXiv:2606.17272",
+          "2026ApJ..1004L..13N",
+          "10.48550/arXiv.2606.17272",
+          "10.3847/2041-8213/ae71d0"
+        ],
+        "page": [
+          "L13"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "Pre-nova Observations of T CrB: A View from the CHARA Array"
+        ],
+        "volume": "1004",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Fiore, A.",
+          "Kozyreva, A.",
+          "Yan, L.",
+          "Benetti, S.",
+          "Anderson, J. P.",
+          "Baklanov, P.",
+          "Cai, Y.-Z.",
+          "Cappellaro, E.",
+          "Chen, T.-W.",
+          "Elias-Rosa, N.",
+          "Gal-Yam, A.",
+          "Graham, M. J.",
+          "Gromadzki, M.",
+          "Groom, S. L.",
+          "Gutiérrez, C. P.",
+          "Hiramatsu, D.",
+          "Howell, D. A.",
+          "Inserra, C.",
+          "Kasliwal, M. M.",
+          "Könyves-Tóth, R.",
+          "Lundqvist, P.",
+          "McCully, C.",
+          "Mironov, A.",
+          "Moran, S.",
+          "Müller-Bravo, T. E.",
+          "Newsome, M.",
+          "Nicholl, M.",
+          "Ochner, P.",
+          "Padilla Gonzalez, E.",
+          "Pessi, P. J.",
+          "Pignata, G.",
+          "Ragosta, F.",
+          "Reguitti, A.",
+          "Reynolds, T. M.",
+          "Riddle, R. L.",
+          "Rusholme, B.",
+          "Salmaso, I.",
+          "Schulze, S.",
+          "Sollerman, J.",
+          "Tomasella, L.",
+          "Warshofsky, D.",
+          "Yang, S.",
+          "Young, D. R."
+        ],
+        "bibcode": "2026A&A...710A.221F",
+        "doi": [
+          "10.1051/0004-6361/202659438"
+        ],
+        "identifier": [
+          "10.1051/0004-6361/202659438",
+          "2026A&A...710A.221F"
+        ],
+        "page": [
+          "A221"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "The nearby He-rich superluminous supernova SN 2021bnw during photospheric phases"
+        ],
+        "volume": "710",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Cai, Y.-Z.",
+          "Pastorello, A.",
+          "Chiba, R.",
+          "Moriya, T. J.",
+          "Reguitti, A.",
+          "Tartaglia, L.",
+          "Moran, S.",
+          "Campana, S.",
+          "Wang, Z.-Y.",
+          "Zhao, J.-W.",
+          "Anderson, J. P.",
+          "Benetti, S.",
+          "Brennan, S. J.",
+          "Cappellaro, E.",
+          "Chambers, K. C.",
+          "Chen, T.-W.",
+          "Chen, Z.-H.",
+          "de Boer, T.",
+          "Dong, Y.-Z.",
+          "Duarte, J.",
+          "Elias-Rosa, N.",
+          "Fraser, M.",
+          "Gan, W.-P.",
+          "Gao, H.",
+          "Gromadzki, M.",
+          "Hosseinzadeh, G.",
+          "Howell, D. A.",
+          "Inserra, C.",
+          "Kangas, T.",
+          "Kankare, E.",
+          "Kravtsov, T.",
+          "Li, L.-P.",
+          "Lin, C.-C.",
+          "Lowe, T. B.",
+          "Lundqvist, P.",
+          "Magnier, E. A.",
+          "Matilainen, K.",
+          "Mazzali, P. A.",
+          "McCully, C.",
+          "Minguez, P.",
+          "Müller-Bravo, T. E.",
+          "Newsome, M.",
+          "Padilla Gonzalez, E.",
+          "Pellegrino, C.",
+          "Pessi, P. J.",
+          "Petrushevska, T.",
+          "Pignata, G.",
+          "Santos, R. P.",
+          "Schulze, S.",
+          "Smartt, S. J.",
+          "Smith, I. A.",
+          "Smith, K. W.",
+          "Sollerman, J.",
+          "Srivastav, S.",
+          "Stritzinger, M. D.",
+          "Terreran, G.",
+          "Valerin, G.",
+          "Wainscoat, R.",
+          "Wang, S.-Q.",
+          "Young, D. R.",
+          "Galbany, L.",
+          "Li, Z.",
+          "Salmaso, I.",
+          "Zha, S.",
+          "Bai, J.-M.",
+          "Wang, B.",
+          "Wang, X.-F.",
+          "Zhang, J.-J."
+        ],
+        "bibcode": "2026ApJ..1004L..37C",
+        "doi": [
+          "10.3847/2041-8213/ae734e"
+        ],
+        "identifier": [
+          "10.3847/2041-8213/ae734e",
+          "2026ApJ..1004L..37C"
+        ],
+        "page": [
+          "L37"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "The Transitional Type Ibn/IIn SN 2022pda, with Pre-explosion Outbursts and a Double-peaked Light Curve"
+        ],
+        "volume": "1004",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Chen, Ping",
+          "Gal-Yam, Avishay",
+          "Dong, Subo",
+          "Cen, Renyue",
+          "Katz, Boaz",
+          "Maguire, Kate",
+          "Schulze, Steve",
+          "Sollerman, Jesper",
+          "Anderson, Joseph P.",
+          "Chen, Ting-Wan",
+          "Galbany, L.",
+          "Gromadzki, Mariusz",
+          "Liu, Chang",
+          "Miller, Adam A.",
+          "Müller-Bravo, Tomás E.",
+          "Petrushevska, Tanja",
+          "Pignata, Giuliano"
+        ],
+        "bibcode": "2026ApJ..1004L..42C",
+        "doi": [
+          "10.3847/2041-8213/ae76cf"
+        ],
+        "identifier": [
+          "2026ApJ..1004L..42C",
+          "10.3847/2041-8213/ae76cf"
+        ],
+        "page": [
+          "L42"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "Detection of Persistent Helium Absorption in the 91bg-like Type Ia Supernova 2022an"
+        ],
+        "volume": "1004",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Barger, A. J.",
+          "Cowie, L. L.",
+          "McKay, S. J.",
+          "Bauer, F. E."
+        ],
+        "bibcode": "2026ApJ..1004..241B",
+        "doi": [
+          "10.3847/1538-4357/ae7101"
+        ],
+        "identifier": [
+          "10.3847/1538-4357/ae7101",
+          "2026ApJ..1004..241B"
+        ],
+        "page": [
+          "241"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "A Redshift-based Red Selection of Dusty Star-forming Galaxies"
+        ],
+        "volume": "1004",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Chiti, Anirudh",
+          "Placco, Vinicius M.",
+          "Pace, Andrew B.",
+          "Ji, Alexander P.",
+          "Prabhu, Deepthi S.",
+          "Cerny, William",
+          "Limberg, Guilherme",
+          "Stringfellow, Guy S.",
+          "Drlica-Wagner, Alex",
+          "Atzberger, Kaia R.",
+          "Choi, Yumi",
+          "Crnojević, Denija",
+          "Ferguson, Peter S.",
+          "Kallivayalil, Nitya",
+          "Noël, Noelia E. D.",
+          "Riley, Alexander H.",
+          "Sand, David J.",
+          "Simon, Joshua D.",
+          "Walker, Alistair R.",
+          "Bom, Clecio R.",
+          "Carballo-Bello, Julio A.",
+          "James, David J.",
+          "Martínez-Vázquez, Clara E.",
+          "Medina, Gustavo E.",
+          "Vivas, A. Katherina"
+        ],
+        "bibcode": "2026NatAs..10..830C",
+        "doi": [
+          "10.1038/s41550-026-02802-z",
+          "10.48550/arXiv.2508.04053"
+        ],
+        "identifier": [
+          "arXiv:2508.04053",
+          "2026NatAs.tmp...57C",
+          "10.1038/s41550-026-02802-z",
+          "10.48550/arXiv.2508.04053",
+          "2025arXiv250804053C",
+          "2026NatAs..10..830C"
+        ],
+        "page": [
+          "830"
+        ],
+        "pub": "Nature Astronomy",
+        "title": [
+          "Enrichment by the first stars in a relic dwarf galaxy"
+        ],
+        "volume": "10",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Auge, Connor",
+          "Koss, Michael",
+          "Gupta, Kriti K.",
+          "Ricci, Claudio",
+          "Trakhtenbrot, Benny",
+          "Bauer, Franz E.",
+          "Treister, Ezequiel",
+          "Peca, Alessandro",
+          "Cenko, Brad",
+          "Ichikawa, Kohei",
+          "Jana, Arghajit",
+          "Kakkad, Darshan",
+          "Mushotzky, Richard",
+          "Oh, Kyuseok",
+          "Rojas Lilayú, Alejandra",
+          "Sanders, David",
+          "Serafinelli, Roberto",
+          "Signorini, Matilde",
+          "Tortosa, Alessia",
+          "Urry, C. Megan"
+        ],
+        "bibcode": "2026ApJ..1002..106A",
+        "doi": [
+          "10.3847/1538-4357/ae581d",
+          "10.48550/arXiv.2604.19674"
+        ],
+        "identifier": [
+          "10.3847/1538-4357/ae581d",
+          "10.48550/arXiv.2604.19674",
+          "arXiv:2604.19674",
+          "2026arXiv260419674A",
+          "2026ApJ..1002..106A"
+        ],
+        "page": [
+          "106"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "Resolved UV─Optical HST Imaging and Spectral Energy Distribution Modeling of Nearby BAT Active Galactic Nuclei"
+        ],
+        "volume": "1002",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Oden, Slater J.",
+          "Nidever, David L.",
+          "Povick, Joshua",
+          "Massana, Pol",
+          "Choi, Yumi",
+          "van der Marel, Roeland P.",
+          "Cioni, Maria-Rosa L.",
+          "Sakowska, Joanna",
+          "Olsen, Knut A. G.",
+          "Cullinane, Lara",
+          "Horta, Danny",
+          "Almeida, Andres",
+          "Carballo-Bello, J. A.",
+          "Crnojević, D.",
+          "Ferguson, P. S.",
+          "Martínez-Vázquez, C. E.",
+          "Medina, G. E.",
+          "Mutlu-Pakdil, B.",
+          "Navabi, M.",
+          "Pace, A. B.",
+          "Riley, A. H.",
+          "Stringfellow, Guy S.",
+          "Vivas, A. K.",
+          "James, David J."
+        ],
+        "bibcode": "2026ApJ..1003....9O",
+        "doi": [
+          "10.3847/1538-4357/ae5c9e",
+          "10.48550/arXiv.2512.04200"
+        ],
+        "identifier": [
+          "2025arXiv251204200O",
+          "10.3847/1538-4357/ae5c9e",
+          "arXiv:2512.04200",
+          "2026ApJ..1003....9O",
+          "10.48550/arXiv.2512.04200"
+        ],
+        "page": [
+          "9"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "Warped and Hooked: Mapping the Magellanic Clouds in Three Dimensions Using Red Clump Stars"
+        ],
+        "volume": "1003",
         "year": "2026"
       },
       {
@@ -687,404 +1317,23 @@
         ],
         "volume": "26",
         "year": "2026"
-      },
-      {
-        "author": [
-          "Zeltyn, Grisha",
-          "Trakhtenbrot, Benny",
-          "Eracleous, Michael",
-          "Anderson, Scott F.",
-          "Ricci, Claudio",
-          "Merloni, Andrea",
-          "Runnoe, Jessie",
-          "Krumpe, Mirko",
-          "Aird, James",
-          "Assef, Roberto J.",
-          "Aydar, Catarina",
-          "Bauer, Franz E.",
-          "Brandt, W. N.",
-          "Brownstein, Joel R.",
-          "Buchner, Johannes",
-          "Chatterjee, Kaushik",
-          "Duffy, Laura",
-          "Hernández-García, Lorena",
-          "Hernández-Toledo, Héctor",
-          "Koekemoer, Anton M.",
-          "Morrison, Sean",
-          "Negrete Peñaloza, Castalia Alenka",
-          "Salvato, Mara",
-          "Schneider, Donald P.",
-          "Shen, Yue",
-          "Śniegowska, Marzena"
-        ],
-        "bibcode": "2026ApJ..1002...61Z",
-        "doi": [
-          "10.3847/1538-4357/ae5495"
-        ],
-        "identifier": [
-          "10.3847/1538-4357/ae5495",
-          "2026ApJ..1002...61Z"
-        ],
-        "page": [
-          "61"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "Changing-look Active Galactic Nuclei in SDSS-V: Host-galaxy Properties and Black Hole Scaling Relations"
-        ],
-        "volume": "1002",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Hocdé, V.",
-          "Moskalik, P.",
-          "Nardetto, N.",
-          "Kervella, P.",
-          "Pilecki, B.",
-          "Smolec, R.",
-          "Pietrzyński, G.",
-          "Gieren, W.",
-          "Hajdu, G.",
-          "Gallenne, A.",
-          "Bailleul, M. C.",
-          "Bras, G.",
-          "Wielgórski, P.",
-          "Breuval, L.",
-          "Mérand, A.",
-          "Rathour, R. S.",
-          "Espinoza-Arancibia, F.",
-          "Kiviaho, W.",
-          "Apostolova, B.",
-          "Sivkova, K."
-        ],
-        "bibcode": "2026A&A...709A.151H",
-        "doi": [
-          "10.1051/0004-6361/202659074",
-          "10.48550/arXiv.2603.11748"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2603.11748",
-          "2026A&A...709A.151H",
-          "arXiv:2603.11748",
-          "2026arXiv260311748H",
-          "10.1051/0004-6361/202659074"
-        ],
-        "page": [
-          "A151"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "Reconstruction of Cepheid radial velocity curves from the shape of the V-band light curves"
-        ],
-        "volume": "709",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Signorini, Matilde",
-          "Ricci, Federica",
-          "Tortosa, Alessia",
-          "Bianchi, Stefano",
-          "La Franca, Fabio",
-          "Bauer, Franz E.",
-          "Harrison, Fiona A.",
-          "Ichikawa, Kohei",
-          "Jana, Arghajit",
-          "Koss, Michael J.",
-          "Liu, Tingting",
-          "Oh, Kyuseok",
-          "Peca, Alessandro",
-          "Powell, Meredith",
-          "Ricci, Claudio",
-          "Sanders, David B.",
-          "Serafinelli, Roberto",
-          "Stern, Daniel",
-          "Trakhtenbrot, Benny",
-          "Treister, Ezequiel",
-          "Urry, Megan"
-        ],
-        "bibcode": "2026A&A...710A...9S",
-        "doi": [
-          "10.1051/0004-6361/202558009",
-          "10.48550/arXiv.2602.20315"
-        ],
-        "identifier": [
-          "2026A&A...710A...9S",
-          "10.48550/arXiv.2602.20315",
-          "arXiv:2602.20315",
-          "10.1051/0004-6361/202558009",
-          "2026arXiv260220315S"
-        ],
-        "page": [
-          "A9"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "BASS: LV. Connecting X-ray variability with physical properties of active galactic nuclei and a new path to cosmological distances"
-        ],
-        "volume": "710",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Ding, Yuanze",
-          "Koss, Michael J.",
-          "Harrison, Fiona A.",
-          "Steidel, Charles C.",
-          "Auge, Connor",
-          "Gillette, Jared",
-          "Hammerstein, Erica",
-          "Li, Ruancun",
-          "Magno, Macon",
-          "del Moral-Castro, Ignacio",
-          "Peca, Alessandro",
-          "Ricci, Claudio",
-          "Song, Yiqing",
-          "Treister, Ezequiel",
-          "Zhuang, Zhuyun"
-        ],
-        "bibcode": "2026ApJ..1002..130D",
-        "doi": [
-          "10.3847/1538-4357/ae5643",
-          "10.48550/arXiv.2603.18499"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2603.18499",
-          "arXiv:2603.18499",
-          "2026arXiv260318499D",
-          "10.3847/1538-4357/ae5643",
-          "2026ApJ..1002..130D"
-        ],
-        "page": [
-          "130"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "UGC 2369S: A Kiloparsec-scale Triple Merger Candidate Identified in a Nearby Luminous Infrared Galaxy"
-        ],
-        "volume": "1002",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Oden, Slater J.",
-          "Nidever, David L.",
-          "Povick, Joshua",
-          "Massana, Pol",
-          "Choi, Yumi",
-          "van der Marel, Roeland P.",
-          "Cioni, Maria-Rosa L.",
-          "Sakowska, Joanna",
-          "Olsen, Knut A. G.",
-          "Cullinane, Lara",
-          "Horta, Danny",
-          "Almeida, Andres",
-          "Carballo-Bello, J. A.",
-          "Crnojević, D.",
-          "Ferguson, P. S.",
-          "Martínez-Vázquez, C. E.",
-          "Medina, G. E.",
-          "Mutlu-Pakdil, B.",
-          "Navabi, M.",
-          "Pace, A. B.",
-          "Riley, A. H.",
-          "Stringfellow, Guy S.",
-          "Vivas, A. K.",
-          "James, David J."
-        ],
-        "bibcode": "2026ApJ..1003....9O",
-        "doi": [
-          "10.3847/1538-4357/ae5c9e",
-          "10.48550/arXiv.2512.04200"
-        ],
-        "identifier": [
-          "2025arXiv251204200O",
-          "10.3847/1538-4357/ae5c9e",
-          "arXiv:2512.04200",
-          "2026ApJ..1003....9O",
-          "10.48550/arXiv.2512.04200"
-        ],
-        "page": [
-          "9"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "Warped and Hooked: Mapping the Magellanic Clouds in Three Dimensions Using Red Clump Stars"
-        ],
-        "volume": "1003",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Auge, Connor",
-          "Koss, Michael",
-          "Gupta, Kriti K.",
-          "Ricci, Claudio",
-          "Trakhtenbrot, Benny",
-          "Bauer, Franz E.",
-          "Treister, Ezequiel",
-          "Peca, Alessandro",
-          "Cenko, Brad",
-          "Ichikawa, Kohei",
-          "Jana, Arghajit",
-          "Kakkad, Darshan",
-          "Mushotzky, Richard",
-          "Oh, Kyuseok",
-          "Rojas Lilayú, Alejandra",
-          "Sanders, David",
-          "Serafinelli, Roberto",
-          "Signorini, Matilde",
-          "Tortosa, Alessia",
-          "Urry, C. Megan"
-        ],
-        "bibcode": "2026ApJ..1002..106A",
-        "doi": [
-          "10.3847/1538-4357/ae581d",
-          "10.48550/arXiv.2604.19674"
-        ],
-        "identifier": [
-          "10.3847/1538-4357/ae581d",
-          "10.48550/arXiv.2604.19674",
-          "arXiv:2604.19674",
-          "2026arXiv260419674A",
-          "2026ApJ..1002..106A"
-        ],
-        "page": [
-          "106"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "Resolved UV─Optical HST Imaging and Spectral Energy Distribution Modeling of Nearby BAT Active Galactic Nuclei"
-        ],
-        "volume": "1002",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Sanchez-Sierras, J.",
-          "Levan, A. J.",
-          "Martin-Carrillo, A.",
-          "Quirola-Vasquez, J.",
-          "Malesani, D. B.",
-          "Jonker, P. G.",
-          "Bauer, F. E.",
-          "Chácon, J."
-        ],
-        "bibcode": "2026GCN.44225....1S",
-        "identifier": [
-          "2026GCN.44225....1S"
-        ],
-        "page": [
-          "1"
-        ],
-        "pub": "GRB Coordinates Network",
-        "title": [
-          "EP260405a: GMOS-N optical upper limits"
-        ],
-        "volume": "44225",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Li, Guodong",
-          "Assef, Roberto J.",
-          "Brandt, W. N.",
-          "Temple, Matthew J.",
-          "Bauer, Franz E.",
-          "Marculewicz, Marcin",
-          "Panda, Swayamtrupta",
-          "Peca, Alessandro",
-          "Ricci, Claudio",
-          "Richards, Gordon T.",
-          "Satheesh-Sheeba, Sarath",
-          "Tsai, Chao-Wei",
-          "Wu, Jingwen",
-          "Yoon, Ilsang"
-        ],
-        "bibcode": "2026ApJ..1000..165L",
-        "doi": [
-          "10.3847/1538-4357/ae3164",
-          "10.48550/arXiv.2512.08654"
-        ],
-        "identifier": [
-          "arXiv:2512.08654",
-          "2026ApJ..1000..165L",
-          "10.48550/arXiv.2512.08654",
-          "10.3847/1538-4357/ae3164",
-          "2025arXiv251208654L"
-        ],
-        "page": [
-          "165"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "Predicting Quasar Counts Detectable in the LSST Survey"
-        ],
-        "volume": "1000",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Kim, Jeein",
-          "Chung, Aeree",
-          "Wong, Oiwei Ivy",
-          "Baek, Junhyun",
-          "Murugeshan, Chandrashekar",
-          "Koss, Michael J.",
-          "Oh, Kyuseok",
-          "Bauer, Franz Erik",
-          "Chang, Chin-Shin",
-          "Diaz, Yaherlyn",
-          "Ichikawa, Kohei",
-          "Kakkad, Darshan",
-          "Kim, Minjin",
-          "Magno, Macon",
-          "del Moral-Castro, Ignacio",
-          "Mushotzky, Richard",
-          "Peca, Alessandro",
-          "Ricci, Claudio",
-          "Signorini, Matilde",
-          "Parra Tello, Miguel",
-          "Trakhtenbrot, Benny",
-          "Woo, Jong-Hak"
-        ],
-        "bibcode": "2026A&A...708A.268K",
-        "doi": [
-          "10.1051/0004-6361/202556901",
-          "10.48550/arXiv.2603.15752"
-        ],
-        "identifier": [
-          "arXiv:2603.15752",
-          "10.1051/0004-6361/202556901",
-          "2026A&A...708A.268K",
-          "10.48550/arXiv.2603.15752",
-          "2026arXiv260315752K"
-        ],
-        "page": [
-          "A268"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "BASS: LI. Cool gas supply of HI-massive local Seyfert galaxies"
-        ],
-        "volume": "708",
-        "year": "2026"
       }
     ],
-    "numFound": 2097,
+    "numFound": 2102,
     "numFoundExact": true,
     "start": 0
   },
   "responseHeader": {
-    "QTime": 220,
+    "QTime": 382,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a424842-14562f731d58c0b540d252ae",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a4b7c7f-63f2fd22551f578649584009",
+      "memAllowed": "800",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412",
       "rows": "20",
       "sort": "date desc",
       "start": "0",
+      "timeAllowed": "20000",
       "wt": "json"
     },
     "status": 0
