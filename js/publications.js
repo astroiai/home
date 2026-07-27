@@ -85,7 +85,8 @@ async function loadPublications() {
     </div>`;
 
   try {
-    const resp = await fetch('js/publications-data.json');
+    const dataUrl = lang === 'en' ? '../js/publications-data.json' : 'js/publications-data.json';
+    const resp = await fetch(dataUrl);
     if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
     const data = await resp.json();
 
