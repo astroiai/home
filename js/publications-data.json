@@ -1,5 +1,5 @@
 {
-  "allocatedBytes": 45287224,
+  "allocatedBytes": 50807528,
   "filtered": "true",
   "response": {
     "docs": [
@@ -105,37 +105,6 @@
         "pub": "The Astrophysical Journal",
         "title": [
           "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy"
-        ],
-        "volume": "1006",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Nandal, Devesh",
-          "Chilingarian, Igor V.",
-          "Nagele, Chris",
-          "Chisholm, John",
-          "Bauer, Franz E.",
-          "Loeb, Abraham"
-        ],
-        "bibcode": "2026ApJ..1006L..21N",
-        "doi": [
-          "10.3847/2041-8213/ae82f3",
-          "10.48550/arXiv.2604.19988"
-        ],
-        "identifier": [
-          "2026ApJ..1006L..21N",
-          "10.3847/2041-8213/ae82f3",
-          "2026arXiv260419988N",
-          "arXiv:2604.19988",
-          "10.48550/arXiv.2604.19988"
-        ],
-        "page": [
-          "L21"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "Pulsational Mass Loss from Supermassive Stars Creates the Compact Shells of Little Red Dots"
         ],
         "volume": "1006",
         "year": "2026"
@@ -1117,6 +1086,37 @@
       },
       {
         "author": [
+          "Nandal, Devesh",
+          "Chilingarian, Igor V.",
+          "Nagele, Chris",
+          "Chisholm, John",
+          "Bauer, Franz E.",
+          "Loeb, Abraham"
+        ],
+        "bibcode": "2026ApJ..1006L..21N",
+        "doi": [
+          "10.3847/2041-8213/ae82f3",
+          "10.48550/arXiv.2604.19988"
+        ],
+        "identifier": [
+          "2026ApJ..1006L..21N",
+          "10.3847/2041-8213/ae82f3",
+          "2026arXiv260419988N",
+          "arXiv:2604.19988",
+          "10.48550/arXiv.2604.19988"
+        ],
+        "page": [
+          "L21"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": [
+          "Pulsational Mass Loss from Supermassive Stars Creates the Compact Shells of Little Red Dots"
+        ],
+        "volume": "1006",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Timmermans, M.",
           "Dévora-Pajares, M.",
           "Pozuelos, F. J.",
@@ -1231,10 +1231,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 738,
+    "QTime": 2437,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a749835-36632a913f383921285c99c1",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a75d982-30c66dec341303513058fd49",
       "memAllowed": "800",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
