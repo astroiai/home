@@ -1,5 +1,5 @@
 {
-  "allocatedBytes": 51374256,
+  "allocatedBytes": 49768752,
   "filtered": "true",
   "response": {
     "docs": [
@@ -731,6 +731,171 @@
       },
       {
         "author": [
+          "Quirola-Vasquez, J.",
+          "Jonker, P. G.",
+          "Levan, A.",
+          "Malesani, D. B.",
+          "Bauer, F. E.",
+          "Martin-Carrillo, A.",
+          "Corcoran, G.",
+          "Mata Sanchez, D.",
+          "Eyles-Ferris, R. A. J.",
+          "Carotenuto, F.",
+          "Ravasio, M.",
+          "Sanchez-Sierras, J.",
+          "Bright, J.",
+          "Chacon, J. A.",
+          "Cotter, L.",
+          "Cowie, F. J.",
+          "Sarin, N.",
+          "Torres, M. A. P.",
+          "van Dalen, J. N. D.",
+          "van Hoof, A. P. C.",
+          "D'Elia, V.",
+          "Jakobsson, P.",
+          "Habeeb, N.",
+          "Kobayashi, S.",
+          "Saccardi, A.",
+          "De Pasquale, M.",
+          "Xu, D.",
+          "Cheng, Y. H.",
+          "Liang, R. D.",
+          "Sun, H.",
+          "Wang, Y.",
+          "Yuan, W.",
+          "Zhang, W. D."
+        ],
+        "bibcode": "2026arXiv260708090Q",
+        "doi": [
+          "10.48550/arXiv.2607.08090"
+        ],
+        "identifier": [
+          "2026arXiv260708090Q",
+          "10.48550/arXiv.2607.08090",
+          "arXiv:2607.08090"
+        ],
+        "page": [
+          "arXiv:2607.08090"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "Multi-wavelength Constraints on the Transient EP250905a"
+        ],
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Jana, Arghajit",
+          "Ricci, Claudio",
+          "Bauer, Franz E.",
+          "Gupta, Kriti Kamal",
+          "Trakhtenbrot, Benny",
+          "Tortosa, Alessia",
+          "Li, Ruancun",
+          "Ho, Luis C.",
+          "Mushotzky, Richard",
+          "Chang, Hsiang-Kuang",
+          "Diaz, Yaherlyn",
+          "Dimopoulos, Georgios",
+          "Kallová, Kristína",
+          "Koss, Michael J.",
+          "Paltani, Stéphane",
+          "Temple, Matthew J."
+        ],
+        "bibcode": "2026arXiv260719485J",
+        "doi": [
+          "10.48550/arXiv.2607.19485"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2607.19485",
+          "arXiv:2607.19485",
+          "2026arXiv260719485J"
+        ],
+        "page": [
+          "arXiv:2607.19485"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
+        ],
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Asada, Yoshihisa",
+          "Fujimoto, Seiji",
+          "Allingham, Joseph F. V.",
+          "Coulter, David A.",
+          "Larison, Conor",
+          "Siebert, Matthew R.",
+          "Brammer, Gabriel",
+          "Coe, Dan",
+          "Dayal, Pratika",
+          "Fei, Qinyue",
+          "Furtak, Lukas J.",
+          "Kokorev, Vasily",
+          "Maeda, Keiichi",
+          "Pan, Richard",
+          "Richard, Johan",
+          "Sun, Fengwu",
+          "Abdurro'uf",
+          "Antwi-Danso, Jacqueline",
+          "Bauer, Franz E.",
+          "Bradac, Marusa",
+          "Bradley, Larry D.",
+          "Bromm, Volker",
+          "Chisholm, John",
+          "Conselice, Christopher J.",
+          "DeCoursey, Christa",
+          "Faisst, Anderas L.",
+          "Frye, Brenda",
+          "Gonzalez-Otero, Mauro",
+          "Harikane, Yuichi",
+          "Hsiao, Tiger Y. Y.",
+          "Inayoshi, Kohei",
+          "Jimenez-Teja, Yolanda",
+          "Koekemoer, Anton M.",
+          "Kohno, Kotaro",
+          "Lopes, Paulo A. A.",
+          "Lucas, Ray A.",
+          "Magdis, Georgios E.",
+          "Markov, Vladan",
+          "Martis, Nicholas",
+          "Matthee, Jorryt",
+          "Nakane, Minami",
+          "Naidu, Rohan P.",
+          "Noirot, Gael",
+          "Ouchi, Masami",
+          "Rest, Armin",
+          "Ricotti, Massimo",
+          "Strolger, Louis-Gregory",
+          "Schneider, Raffaella",
+          "Valentino, Francesco",
+          "Vanzella, Eros",
+          "Williams, Hayley",
+          "Windhorst, Rogier A.",
+          "Zitrin, Adi"
+        ],
+        "bibcode": "2026arXiv260714355A",
+        "doi": [
+          "10.48550/arXiv.2607.14355"
+        ],
+        "identifier": [
+          "2026arXiv260714355A",
+          "arXiv:2607.14355",
+          "10.48550/arXiv.2607.14355"
+        ],
+        "page": [
+          "arXiv:2607.14355"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "VENUS: an ultra-faint galaxy hosting the metal-poor type II supernova at $z=5.13$ Witnessing the initial metal enrichment with extremely frequent core-collapse supernovae?"
+        ],
+        "year": "2026"
+      },
+      {
+        "author": [
           "Allingham, Joseph F. V.",
           "Zitrin, Adi",
           "Kokorev, Vasily",
@@ -1035,117 +1200,6 @@
         ],
         "volume": "285",
         "year": "2026"
-      },
-      {
-        "author": [
-          "Barbani, Filippo",
-          "Gaspari, Massimo",
-          "Cammelli, Vieri",
-          "Piana, Olmo",
-          "Jennings, Fred J.",
-          "Brustio, Davide M.",
-          "Stel, Giovanni",
-          "Olivares, Valeria",
-          "Maccagni, Filippo M.",
-          "Fournier, Martin",
-          "Tombesi, Francesco",
-          "Temi, Pasquale",
-          "Fiore, Fabrizio",
-          "Serafinelli, Roberto",
-          "Danehkar, Ashkbiz"
-        ],
-        "bibcode": "2026A&A...711A.153B",
-        "doi": [
-          "10.1051/0004-6361/202659838",
-          "10.48550/arXiv.2605.27507"
-        ],
-        "identifier": [
-          "2026arXiv260527507B",
-          "2026A&A...711A.153B",
-          "10.48550/arXiv.2605.27507",
-          "arXiv:2605.27507",
-          "10.1051/0004-6361/202659838"
-        ],
-        "page": [
-          "A153"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "BLACKHOLEWEATHER ─ Chaotic cold accretion across the meso-scale: Morphology and thermodynamics"
-        ],
-        "volume": "711",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Barbani, Filippo",
-          "Gaspari, Massimo",
-          "Piana, Olmo",
-          "Cammelli, Vieri",
-          "Jennings, Fred J.",
-          "Brustio, Davide M.",
-          "Stel, Giovanni",
-          "Olivares, Valeria",
-          "Maccagni, Filippo M.",
-          "Fournier, Martin",
-          "Tombesi, Francesco",
-          "Temi, Pasquale",
-          "Fiore, Fabrizio",
-          "Serafinelli, Roberto",
-          "Danehkar, Ashkbiz"
-        ],
-        "bibcode": "2026A&A...711A.154B",
-        "doi": [
-          "10.1051/0004-6361/202659839",
-          "10.48550/arXiv.2605.27504"
-        ],
-        "identifier": [
-          "2026A&A...711A.154B",
-          "10.48550/arXiv.2605.27504",
-          "arXiv:2605.27504",
-          "10.1051/0004-6361/202659839",
-          "2026arXiv260527504B"
-        ],
-        "page": [
-          "A154"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "BLACKHOLEWEATHER ─ Chaotic cold accretion across the meso-scale: Variability and kinematics"
-        ],
-        "volume": "711",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Nandal, Devesh",
-          "Chilingarian, Igor V.",
-          "Nagele, Chris",
-          "Chisholm, John",
-          "Bauer, Franz E.",
-          "Loeb, Abraham"
-        ],
-        "bibcode": "2026ApJ..1006L..21N",
-        "doi": [
-          "10.3847/2041-8213/ae82f3",
-          "10.48550/arXiv.2604.19988"
-        ],
-        "identifier": [
-          "2026ApJ..1006L..21N",
-          "10.3847/2041-8213/ae82f3",
-          "2026arXiv260419988N",
-          "arXiv:2604.19988",
-          "10.48550/arXiv.2604.19988"
-        ],
-        "page": [
-          "L21"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": [
-          "Pulsational Mass Loss from Supermassive Stars Creates the Compact Shells of Little Red Dots"
-        ],
-        "volume": "1006",
-        "year": "2026"
       }
     ],
     "numFound": 2167,
@@ -1153,10 +1207,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 104,
+    "QTime": 431,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a86f92c-22c98ef60d73cb57788e1e6c",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a884a80-713a113e09c87cf46f8206ae",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
