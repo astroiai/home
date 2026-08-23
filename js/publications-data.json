@@ -1,5 +1,5 @@
 {
-  "allocatedBytes": 51421840,
+  "allocatedBytes": 50279056,
   "filtered": "true",
   "response": {
     "docs": [
@@ -199,71 +199,6 @@
       },
       {
         "author": [
-          "Song, Y.",
-          "U, V.",
-          "Kader, J.",
-          "Bianchin, M.",
-          "Agostino, J.",
-          "Barcos-Muñoz, L.",
-          "Torres-Albà, N.",
-          "Medling, A.",
-          "Ricci, C.",
-          "Armus, L.",
-          "Lai, T. S.-Y.",
-          "Ghodsi, L.",
-          "Evans, A.",
-          "Inami, H.",
-          "Stierwalt, S.",
-          "Bohn, T.",
-          "Emig, K. L.",
-          "Buiten, V.",
-          "Donnelly, G.",
-          "Treister, E.",
-          "Jimenez-Gallardo, A.",
-          "Böker, T.",
-          "Kakkad, D.",
-          "Linden, S. T.",
-          "van der Werf, P.",
-          "Charmandaris, V.",
-          "Remigio, R.",
-          "Lenkić, L.",
-          "Finlez, C.",
-          "Sánchez-García, M.",
-          "Lofaro, C.",
-          "Saravia, A.",
-          "Yoon, I.",
-          "Privon, G. C.",
-          "Gao, T.",
-          "Aziz, H.",
-          "McGurk, R.",
-          "Díaz-Santos, T.",
-          "Kunneriath, D.",
-          "Sanders, David B."
-        ],
-        "bibcode": "2026A&A...712A..59S",
-        "doi": [
-          "10.1051/0004-6361/202557994",
-          "10.48550/arXiv.2606.06005"
-        ],
-        "identifier": [
-          "2026A&A...712A..59S",
-          "arXiv:2606.06005",
-          "10.48550/arXiv.2606.06005",
-          "10.1051/0004-6361/202557994",
-          "2026arXiv260606005S"
-        ],
-        "page": [
-          "A59"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "The multiphase biconical outflow in the local infrared-luminous merger IRAS F01364-1042"
-        ],
-        "volume": "712",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Argudo-Fernández, M.",
           "Torres-Ríos, G.",
           "Vásquez-Bustos, P.",
@@ -395,6 +330,71 @@
       },
       {
         "author": [
+          "Song, Y.",
+          "U, V.",
+          "Kader, J.",
+          "Bianchin, M.",
+          "Agostino, J.",
+          "Barcos-Muñoz, L.",
+          "Torres-Albà, N.",
+          "Medling, A.",
+          "Ricci, C.",
+          "Armus, L.",
+          "Lai, T. S.-Y.",
+          "Ghodsi, L.",
+          "Evans, A.",
+          "Inami, H.",
+          "Stierwalt, S.",
+          "Bohn, T.",
+          "Emig, K. L.",
+          "Buiten, V.",
+          "Donnelly, G.",
+          "Treister, E.",
+          "Jimenez-Gallardo, A.",
+          "Böker, T.",
+          "Kakkad, D.",
+          "Linden, S. T.",
+          "van der Werf, P.",
+          "Charmandaris, V.",
+          "Remigio, R.",
+          "Lenkić, L.",
+          "Finlez, C.",
+          "Sánchez-García, M.",
+          "Lofaro, C.",
+          "Saravia, A.",
+          "Yoon, I.",
+          "Privon, G. C.",
+          "Gao, T.",
+          "Aziz, H.",
+          "McGurk, R.",
+          "Díaz-Santos, T.",
+          "Kunneriath, D.",
+          "Sanders, David B."
+        ],
+        "bibcode": "2026A&A...712A..59S",
+        "doi": [
+          "10.1051/0004-6361/202557994",
+          "10.48550/arXiv.2606.06005"
+        ],
+        "identifier": [
+          "2026A&A...712A..59S",
+          "arXiv:2606.06005",
+          "10.48550/arXiv.2606.06005",
+          "10.1051/0004-6361/202557994",
+          "2026arXiv260606005S"
+        ],
+        "page": [
+          "A59"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "The multiphase biconical outflow in the local infrared-luminous merger IRAS F01364-1042"
+        ],
+        "volume": "712",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Dadina, M.",
           "Missaglia, V.",
           "Braito, V.",
@@ -434,212 +434,6 @@
           "XRISM/Resolve probes a possible \"raining\" absorber in Mrk 509"
         ],
         "volume": "710",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Satheesh-Sheeba, S.",
-          "Sánchez-Sáez, P.",
-          "Assef, R. J.",
-          "Anguita, T.",
-          "Shirley, R.",
-          "Salvato, M.",
-          "Arévalo, P.",
-          "Ananna, T T.",
-          "Bauer, F. E.",
-          "Bornancini, C. G.",
-          "Brandt, W. N.",
-          "De Cicco, D.",
-          "Espinoza-Ortiz, M.",
-          "Fagin, J.",
-          "Fatović, M.",
-          "Graham, A. W.",
-          "Guo, H.",
-          "Hernandez-García, L.",
-          "Ilić, D.",
-          "Kovačević, A. B.",
-          "Lira, P.",
-          "Malz, A. I.",
-          "Marculewicz, M.",
-          "Marsango, D.",
-          "Mazzucchelli, C.",
-          "Mkrtchyan, T.",
-          "Panda, S.",
-          "Peca, A.",
-          "Petrecca, V.",
-          "Rani, B.",
-          "Ricci, C.",
-          "Richards, G. T.",
-          "Riffel, R. A.",
-          "Rojas-Lilayú, A.",
-          "Saremi, E.",
-          "Schneider, D. P.",
-          "Sotomayor, B.",
-          "Temple, M. J.",
-          "Viitanen, A.",
-          "Yoon, I.",
-          "Yu, Z.",
-          "Zou, F."
-        ],
-        "bibcode": "2026arXiv260716434S",
-        "doi": [
-          "10.48550/arXiv.2607.16434"
-        ],
-        "identifier": [
-          "2026arXiv260716434S",
-          "10.48550/arXiv.2607.16434",
-          "arXiv:2607.16434"
-        ],
-        "page": [
-          "arXiv:2607.16434"
-        ],
-        "pub": "arXiv e-prints",
-        "title": [
-          "VAR-PZnn: A machine-learning framework for AGN photometric redshifts using color and variability-based features"
-        ],
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Srivastav, S.",
-          "Smartt, S. J.",
-          "Moore, T.",
-          "Smith, K. W.",
-          "Young, D. R.",
-          "Fulton, M. D.",
-          "Angus, C. R.",
-          "Nicholl, M.",
-          "Stevance, H. F.",
-          "Chen, T.-W.",
-          "Pastorello, A.",
-          "Sommer, J.",
-          "Stoppa, F.",
-          "Tweddle, J. W.",
-          "Anderson, J. P.",
-          "Huber, M. E.",
-          "Rest, A.",
-          "Rhodes, L.",
-          "Shingles, L. J.",
-          "Aamer, A.",
-          "Clocchiatti, A.",
-          "Cooper, A. J.",
-          "Erasmus, N.",
-          "Gillanders, J. H.",
-          "Magill, D.",
-          "Pignata, G.",
-          "Ramsden, P.",
-          "Schmidt, B. P.",
-          "Sheng, X.",
-          "Weston, J. G.",
-          "Denneau, L.",
-          "Tonry, J. L."
-        ],
-        "bibcode": "2026MNRAS.549g1028S",
-        "doi": [
-          "10.1093/mnras/stag1028",
-          "10.48550/arXiv.2603.03069"
-        ],
-        "identifier": [
-          "10.1093/mnras/stag1028",
-          "2026MNRAS.549g1028S",
-          "10.48550/arXiv.2603.03069",
-          "2026arXiv260303069S",
-          "arXiv:2603.03069"
-        ],
-        "page": [
-          "stag1028"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "title": [
-          "ATLAS100 ─ I. A volume-limited sample of supernovae and related transients within 100 Mpc"
-        ],
-        "volume": "549",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Sánchez-Sáez, P.",
-          "Masterson, M.",
-          "Hernández-García, L.",
-          "Arcodia, R.",
-          "Arévalo, P.",
-          "Ávila-Vera, F.",
-          "Bauer, F. E.",
-          "Chakraborty, J.",
-          "Cuadra, J.",
-          "Lira, P.",
-          "Wevers, T.",
-          "Assef, R. J.",
-          "Bayo, A.",
-          "Bernal, S.",
-          "Cartier, R.",
-          "Diaz, Y.",
-          "Giustini, M.",
-          "Guo, H.",
-          "Ilić, D.",
-          "Kara, E.",
-          "Kovačević, A. B.",
-          "Martínez-Aldama, M. L.",
-          "Merloni, A.",
-          "Miniutti, G.",
-          "Ricci, C.",
-          "Sniegowska, M.",
-          "Calistro Rivera, G.",
-          "Graham, M. J."
-        ],
-        "bibcode": "2026arXiv260700921S",
-        "doi": [
-          "10.48550/arXiv.2607.00921"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2607.00921",
-          "2026arXiv260700921S",
-          "arXiv:2607.00921"
-        ],
-        "page": [
-          "arXiv:2607.00921"
-        ],
-        "pub": "arXiv e-prints",
-        "title": [
-          "Spatially resolved optical and mid-infrared spectroscopy of SDSS1335+0728: implications for the origin of the Ansky event"
-        ],
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Jana, Arghajit",
-          "Ricci, Claudio",
-          "Bauer, Franz E.",
-          "Gupta, Kriti Kamal",
-          "Trakhtenbrot, Benny",
-          "Tortosa, Alessia",
-          "Li, Ruancun",
-          "Ho, Luis C.",
-          "Mushotzky, Richard",
-          "Chang, Hsiang-Kuang",
-          "Diaz, Yaherlyn",
-          "Dimopoulos, Georgios",
-          "Kallová, Kristína",
-          "Koss, Michael J.",
-          "Paltani, Stéphane",
-          "Temple, Matthew J."
-        ],
-        "bibcode": "2026arXiv260719485J",
-        "doi": [
-          "10.48550/arXiv.2607.19485"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2607.19485",
-          "arXiv:2607.19485",
-          "2026arXiv260719485J"
-        ],
-        "page": [
-          "arXiv:2607.19485"
-        ],
-        "pub": "arXiv e-prints",
-        "title": [
-          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
-        ],
         "year": "2026"
       },
       {
@@ -785,6 +579,94 @@
       },
       {
         "author": [
+          "Nandal, Devesh",
+          "Chilingarian, Igor V.",
+          "Nagele, Chris",
+          "Chisholm, John",
+          "Bauer, Franz E.",
+          "Loeb, Abraham"
+        ],
+        "bibcode": "2026ApJ..1006L..21N",
+        "doi": [
+          "10.3847/2041-8213/ae82f3",
+          "10.48550/arXiv.2604.19988"
+        ],
+        "identifier": [
+          "2026ApJ..1006L..21N",
+          "10.3847/2041-8213/ae82f3",
+          "2026arXiv260419988N",
+          "arXiv:2604.19988",
+          "10.48550/arXiv.2604.19988"
+        ],
+        "page": [
+          "L21"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": [
+          "Pulsational Mass Loss from Supermassive Stars Creates the Compact Shells of Little Red Dots"
+        ],
+        "volume": "1006",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Srivastav, S.",
+          "Smartt, S. J.",
+          "Moore, T.",
+          "Smith, K. W.",
+          "Young, D. R.",
+          "Fulton, M. D.",
+          "Angus, C. R.",
+          "Nicholl, M.",
+          "Stevance, H. F.",
+          "Chen, T.-W.",
+          "Pastorello, A.",
+          "Sommer, J.",
+          "Stoppa, F.",
+          "Tweddle, J. W.",
+          "Anderson, J. P.",
+          "Huber, M. E.",
+          "Rest, A.",
+          "Rhodes, L.",
+          "Shingles, L. J.",
+          "Aamer, A.",
+          "Clocchiatti, A.",
+          "Cooper, A. J.",
+          "Erasmus, N.",
+          "Gillanders, J. H.",
+          "Magill, D.",
+          "Pignata, G.",
+          "Ramsden, P.",
+          "Schmidt, B. P.",
+          "Sheng, X.",
+          "Weston, J. G.",
+          "Denneau, L.",
+          "Tonry, J. L."
+        ],
+        "bibcode": "2026MNRAS.549g1028S",
+        "doi": [
+          "10.1093/mnras/stag1028",
+          "10.48550/arXiv.2603.03069"
+        ],
+        "identifier": [
+          "10.1093/mnras/stag1028",
+          "2026MNRAS.549g1028S",
+          "10.48550/arXiv.2603.03069",
+          "2026arXiv260303069S",
+          "arXiv:2603.03069"
+        ],
+        "page": [
+          "stag1028"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "title": [
+          "ATLAS100 ─ I. A volume-limited sample of supernovae and related transients within 100 Mpc"
+        ],
+        "volume": "549",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Allingham, Joseph F. V.",
           "Zitrin, Adi",
           "Kokorev, Vasily",
@@ -851,44 +733,6 @@
           "VENUS: Strong-lensing Model of MACS J1931.8-2635: Revealing the Farthest Multiply Imaged Supernova"
         ],
         "volume": "1005",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Estévez, P. A.",
-          "Espejo-Moreira, J.",
-          "Sanfeliú-Alvarez, S.",
-          "Förster, F.",
-          "Muñoz Arancibia, A. M.",
-          "Cabrera-Vives, G.",
-          "Bauer, F. E.",
-          "Bayo, A.",
-          "Catelan, M.",
-          "Dastidar, R.",
-          "Hernández-García, L.",
-          "Intriago, J. A.",
-          "Pignata, G."
-        ],
-        "bibcode": "2026A&A...711A.302E",
-        "doi": [
-          "10.1051/0004-6361/202558221",
-          "10.48550/arXiv.2606.18108"
-        ],
-        "identifier": [
-          "2026arXiv260618108E",
-          "10.48550/arXiv.2606.18108",
-          "arXiv:2606.18108",
-          "10.1051/0004-6361/202558221",
-          "2026A&A...711A.302E"
-        ],
-        "page": [
-          "A302"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "Querying an astronomical database using large language models: the ALeRCE text-to-SQL system"
-        ],
-        "volume": "711",
         "year": "2026"
       },
       {
@@ -967,6 +811,69 @@
       },
       {
         "author": [
+          "Satheesh-Sheeba, S.",
+          "Sánchez-Sáez, P.",
+          "Assef, R. J.",
+          "Anguita, T.",
+          "Shirley, R.",
+          "Salvato, M.",
+          "Arévalo, P.",
+          "Ananna, T T.",
+          "Bauer, F. E.",
+          "Bornancini, C. G.",
+          "Brandt, W. N.",
+          "De Cicco, D.",
+          "Espinoza-Ortiz, M.",
+          "Fagin, J.",
+          "Fatović, M.",
+          "Graham, A. W.",
+          "Guo, H.",
+          "Hernandez-García, L.",
+          "Ilić, D.",
+          "Kovačević, A. B.",
+          "Lira, P.",
+          "Malz, A. I.",
+          "Marculewicz, M.",
+          "Marsango, D.",
+          "Mazzucchelli, C.",
+          "Mkrtchyan, T.",
+          "Panda, S.",
+          "Peca, A.",
+          "Petrecca, V.",
+          "Rani, B.",
+          "Ricci, C.",
+          "Richards, G. T.",
+          "Riffel, R. A.",
+          "Rojas-Lilayú, A.",
+          "Saremi, E.",
+          "Schneider, D. P.",
+          "Sotomayor, B.",
+          "Temple, M. J.",
+          "Viitanen, A.",
+          "Yoon, I.",
+          "Yu, Z.",
+          "Zou, F."
+        ],
+        "bibcode": "2026arXiv260716434S",
+        "doi": [
+          "10.48550/arXiv.2607.16434"
+        ],
+        "identifier": [
+          "2026arXiv260716434S",
+          "10.48550/arXiv.2607.16434",
+          "arXiv:2607.16434"
+        ],
+        "page": [
+          "arXiv:2607.16434"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "VAR-PZnn: A machine-learning framework for AGN photometric redshifts using color and variability-based features"
+        ],
+        "year": "2026"
+      },
+      {
+        "author": [
           "Rouse, Benedict L.",
           "Bauer, Franz E.",
           "Różański, Tomasz",
@@ -996,6 +903,92 @@
           "AGNFormer I: Reconstruction of AGN spectra using a probabilistic transformer model"
         ],
         "year": "2026"
+      },
+      {
+        "author": [
+          "Jana, Arghajit",
+          "Ricci, Claudio",
+          "Bauer, Franz E.",
+          "Gupta, Kriti Kamal",
+          "Trakhtenbrot, Benny",
+          "Tortosa, Alessia",
+          "Li, Ruancun",
+          "Ho, Luis C.",
+          "Mushotzky, Richard",
+          "Chang, Hsiang-Kuang",
+          "Diaz, Yaherlyn",
+          "Dimopoulos, Georgios",
+          "Kallová, Kristína",
+          "Koss, Michael J.",
+          "Paltani, Stéphane",
+          "Temple, Matthew J."
+        ],
+        "bibcode": "2026arXiv260719485J",
+        "doi": [
+          "10.48550/arXiv.2607.19485"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2607.19485",
+          "arXiv:2607.19485",
+          "2026arXiv260719485J"
+        ],
+        "page": [
+          "arXiv:2607.19485"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
+        ],
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Sánchez-Sáez, P.",
+          "Masterson, M.",
+          "Hernández-García, L.",
+          "Arcodia, R.",
+          "Arévalo, P.",
+          "Ávila-Vera, F.",
+          "Bauer, F. E.",
+          "Chakraborty, J.",
+          "Cuadra, J.",
+          "Lira, P.",
+          "Wevers, T.",
+          "Assef, R. J.",
+          "Bayo, A.",
+          "Bernal, S.",
+          "Cartier, R.",
+          "Diaz, Y.",
+          "Giustini, M.",
+          "Guo, H.",
+          "Ilić, D.",
+          "Kara, E.",
+          "Kovačević, A. B.",
+          "Martínez-Aldama, M. L.",
+          "Merloni, A.",
+          "Miniutti, G.",
+          "Ricci, C.",
+          "Sniegowska, M.",
+          "Calistro Rivera, G.",
+          "Graham, M. J."
+        ],
+        "bibcode": "2026arXiv260700921S",
+        "doi": [
+          "10.48550/arXiv.2607.00921"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2607.00921",
+          "2026arXiv260700921S",
+          "arXiv:2607.00921"
+        ],
+        "page": [
+          "arXiv:2607.00921"
+        ],
+        "pub": "arXiv e-prints",
+        "title": [
+          "Spatially resolved optical and mid-infrared spectroscopy of SDSS1335+0728: implications for the origin of the Ansky event"
+        ],
+        "year": "2026"
       }
     ],
     "numFound": 2167,
@@ -1003,10 +996,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 277,
+    "QTime": 374,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a8999d7-0ca44f313daae67d47e7c1b3",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a8aeb81-606f30217827d8eb02a7a22f",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
