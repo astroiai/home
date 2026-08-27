@@ -1,5 +1,5 @@
 {
-  "allocatedBytes": 44567184,
+  "allocatedBytes": 40084544,
   "filtered": "true",
   "response": {
     "docs": [
@@ -662,80 +662,6 @@
       },
       {
         "author": [
-          "Asada, Yoshihisa",
-          "Fujimoto, Seiji",
-          "Allingham, Joseph F. V.",
-          "Coulter, David A.",
-          "Larison, Conor",
-          "Siebert, Matthew R.",
-          "Brammer, Gabriel",
-          "Coe, Dan",
-          "Dayal, Pratika",
-          "Fei, Qinyue",
-          "Furtak, Lukas J.",
-          "Kokorev, Vasily",
-          "Maeda, Keiichi",
-          "Pan, Richard",
-          "Richard, Johan",
-          "Sun, Fengwu",
-          "Abdurro'uf",
-          "Antwi-Danso, Jacqueline",
-          "Bauer, Franz E.",
-          "Bradac, Marusa",
-          "Bradley, Larry D.",
-          "Bromm, Volker",
-          "Chisholm, John",
-          "Conselice, Christopher J.",
-          "DeCoursey, Christa",
-          "Faisst, Anderas L.",
-          "Frye, Brenda",
-          "Gonzalez-Otero, Mauro",
-          "Harikane, Yuichi",
-          "Hsiao, Tiger Y. Y.",
-          "Inayoshi, Kohei",
-          "Jimenez-Teja, Yolanda",
-          "Koekemoer, Anton M.",
-          "Kohno, Kotaro",
-          "Lopes, Paulo A. A.",
-          "Lucas, Ray A.",
-          "Magdis, Georgios E.",
-          "Markov, Vladan",
-          "Martis, Nicholas",
-          "Matthee, Jorryt",
-          "Nakane, Minami",
-          "Naidu, Rohan P.",
-          "Noirot, Gael",
-          "Ouchi, Masami",
-          "Rest, Armin",
-          "Ricotti, Massimo",
-          "Strolger, Louis-Gregory",
-          "Schneider, Raffaella",
-          "Valentino, Francesco",
-          "Vanzella, Eros",
-          "Williams, Hayley",
-          "Windhorst, Rogier A.",
-          "Zitrin, Adi"
-        ],
-        "bibcode": "2026arXiv260714355A",
-        "doi": [
-          "10.48550/arXiv.2607.14355"
-        ],
-        "identifier": [
-          "2026arXiv260714355A",
-          "arXiv:2607.14355",
-          "10.48550/arXiv.2607.14355"
-        ],
-        "page": [
-          "arXiv:2607.14355"
-        ],
-        "pub": "arXiv e-prints",
-        "title": [
-          "VENUS: an ultra-faint galaxy hosting the metal-poor type II supernova at $z=5.13$ Witnessing the initial metal enrichment with extremely frequent core-collapse supernovae?"
-        ],
-        "year": "2026"
-      },
-      {
-        "author": [
           "Quirola-Vasquez, J.",
           "Jonker, P. G.",
           "Levan, A.",
@@ -896,17 +822,55 @@
         ],
         "volume": "711",
         "year": "2026"
+      },
+      {
+        "author": [
+          "Estévez, P. A.",
+          "Espejo-Moreira, J.",
+          "Sanfeliú-Alvarez, S.",
+          "Förster, F.",
+          "Muñoz Arancibia, A. M.",
+          "Cabrera-Vives, G.",
+          "Bauer, F. E.",
+          "Bayo, A.",
+          "Catelan, M.",
+          "Dastidar, R.",
+          "Hernández-García, L.",
+          "Intriago, J. A.",
+          "Pignata, G."
+        ],
+        "bibcode": "2026A&A...711A.302E",
+        "doi": [
+          "10.1051/0004-6361/202558221",
+          "10.48550/arXiv.2606.18108"
+        ],
+        "identifier": [
+          "2026arXiv260618108E",
+          "10.48550/arXiv.2606.18108",
+          "arXiv:2606.18108",
+          "10.1051/0004-6361/202558221",
+          "2026A&A...711A.302E"
+        ],
+        "page": [
+          "A302"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "Querying an astronomical database using large language models: the ALeRCE text-to-SQL system"
+        ],
+        "volume": "711",
+        "year": "2026"
       }
     ],
-    "numFound": 2169,
+    "numFound": 2168,
     "numFoundExact": true,
     "start": 0
   },
   "responseHeader": {
-    "QTime": 356,
+    "QTime": 400,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a8ee2f7-67e4b3fd6a5eb4a6443f6976",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a90b36d-40e919bf0659fc9871453ad0",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
