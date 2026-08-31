@@ -1,5 +1,5 @@
 {
-  "allocatedBytes": 48821064,
+  "allocatedBytes": 51049568,
   "filtered": "true",
   "response": {
     "docs": [
@@ -1091,15 +1091,15 @@
         "year": "2026"
       }
     ],
-    "numFound": 2167,
+    "numFound": 2166,
     "numFoundExact": true,
     "start": 0
   },
   "responseHeader": {
-    "QTime": 1325,
+    "QTime": 282,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a945851-69d164b01bdb9a700f274096",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a95cea8-538c97d112dc57a1285b518c",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
