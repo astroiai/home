@@ -1,5 +1,5 @@
 {
-  "allocatedBytes": 51437288,
+  "allocatedBytes": 51817784,
   "filtered": "true",
   "response": {
     "docs": [
@@ -86,58 +86,6 @@
           "A Probabilistic Framework for Population Studies of the Solar Neighborhood: Application to SDSS-V and Gaia"
         ],
         "volume": "172",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Peluso, S.",
-          "Lanzuisi, G.",
-          "Comastri, A.",
-          "Brusa, M.",
-          "Giustini, M.",
-          "Miniutti, G.",
-          "Bianchi, S.",
-          "Gianolli, V. E.",
-          "Middei, R.",
-          "Petrucci, P.-O.",
-          "Borrelli, L.",
-          "Amenta, E.",
-          "Bertola, E.",
-          "Vignali, C.",
-          "De Marco, B.",
-          "De Rosa, A.",
-          "Kraemer, S.",
-          "Kriss, G.",
-          "Krongold, Y.",
-          "Longinotti, A. L.",
-          "Mathur, S.",
-          "Merloni, A.",
-          "Nardini, E.",
-          "Panessa, F.",
-          "Piconcelli, E.",
-          "Ponti, G.",
-          "Ricci, F.",
-          "Tortosa, A.",
-          "Zappacosta, L.",
-          "Serafinelli, R.",
-          "Matzeu, G. A."
-        ],
-        "bibcode": "2026A&A...712A..57P",
-        "doi": [
-          "10.1051/0004-6361/202659665"
-        ],
-        "identifier": [
-          "10.1051/0004-6361/202659665",
-          "2026A&A...712A..57P"
-        ],
-        "page": [
-          "A57"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "Supermassive Black Hole Winds in X-rays: SUBWAYS: V. Properties of hot coronae in quasars at intermediate-redshift"
-        ],
-        "volume": "712",
         "year": "2026"
       },
       {
@@ -459,6 +407,58 @@
         "pub": "Astronomy and Astrophysics",
         "title": [
           "Hidden monsters with SPHEREx: I. A goldmine for heavily reddened quasars at cosmic noon"
+        ],
+        "volume": "712",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Peluso, S.",
+          "Lanzuisi, G.",
+          "Comastri, A.",
+          "Brusa, M.",
+          "Giustini, M.",
+          "Miniutti, G.",
+          "Bianchi, S.",
+          "Gianolli, V. E.",
+          "Middei, R.",
+          "Petrucci, P.-O.",
+          "Borrelli, L.",
+          "Amenta, E.",
+          "Bertola, E.",
+          "Vignali, C.",
+          "De Marco, B.",
+          "De Rosa, A.",
+          "Kraemer, S.",
+          "Kriss, G.",
+          "Krongold, Y.",
+          "Longinotti, A. L.",
+          "Mathur, S.",
+          "Merloni, A.",
+          "Nardini, E.",
+          "Panessa, F.",
+          "Piconcelli, E.",
+          "Ponti, G.",
+          "Ricci, F.",
+          "Tortosa, A.",
+          "Zappacosta, L.",
+          "Serafinelli, R.",
+          "Matzeu, G. A."
+        ],
+        "bibcode": "2026A&A...712A..57P",
+        "doi": [
+          "10.1051/0004-6361/202659665"
+        ],
+        "identifier": [
+          "10.1051/0004-6361/202659665",
+          "2026A&A...712A..57P"
+        ],
+        "page": [
+          "A57"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "Supermassive Black Hole Winds in X-rays: SUBWAYS: V. Properties of hot coronae in quasars at intermediate-redshift"
         ],
         "volume": "712",
         "year": "2026"
@@ -954,10 +954,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 199,
+    "QTime": 469,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a984b7e-06d2fc1b04e2050f7f45f89f",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6a999ad0-3147480e72727402734a38c9",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
