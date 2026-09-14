@@ -1,5 +1,5 @@
 {
-  "allocatedBytes": 50412496,
+  "allocatedBytes": 49792136,
   "filtered": "true",
   "response": {
     "docs": [
@@ -187,6 +187,83 @@
       },
       {
         "author": [
+          "Buchner, Johannes",
+          "Gauger, Isabelle",
+          "Wu, Qiaoya",
+          "Starck, Hattie",
+          "Aydar, Catarina",
+          "Shen, Yue",
+          "Bennert, Vardha N.",
+          "Nandra, Kirpal",
+          "Waddell, Sophia G. H.",
+          "Merloni, Andrea",
+          "Salvato, Mara",
+          "Assef, Roberto J.",
+          "Igo, Zsofi",
+          "Bauer, Franz E.",
+          "Kim, Dong-Woo",
+          "Koekemoer, Anton M.",
+          "Schneider, Donald P."
+        ],
+        "bibcode": "2026A&A...713A..11B",
+        "doi": [
+          "10.1051/0004-6361/202659356"
+        ],
+        "identifier": [
+          "10.1051/0004-6361/202659356",
+          "2026A&A...713A..11B"
+        ],
+        "page": [
+          "A11"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "A large population of overmassive black hole quasars at z=0.3-0.8 revealed by eROSITA"
+        ],
+        "volume": "713",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "van Hoof, Agnes P. C.",
+          "Jonker, Peter G.",
+          "Tommel, Lieke",
+          "Quirola-Vásquez, Jonathan A.",
+          "Mata Sánchez, Daniel",
+          "van Dalen, Joyce N. D.",
+          "Levan, Andrew J.",
+          "Fraser, Morgan",
+          "Zabludoff, Ann",
+          "Torres, Manuel A. P.",
+          "Sánchez-Sierras, Javi",
+          "Martin-Carrillo, Antonio",
+          "Wevers, Thomas",
+          "Berton, Marco",
+          "Yue, Minghao",
+          "Dhillon, Vik S.",
+          "Bauer, Franz E.",
+          "Littlefair, Stuart P."
+        ],
+        "bibcode": "2026A&A...713A..63V",
+        "doi": [
+          "10.1051/0004-6361/202659936"
+        ],
+        "identifier": [
+          "2026A&A...713A..63V",
+          "10.1051/0004-6361/202659936"
+        ],
+        "page": [
+          "A63"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "Optical observations of candidate host galaxies of eight fast X-ray transients"
+        ],
+        "volume": "713",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Treister, Ezequiel",
           "Droguett, Macarena",
           "Barcos-Muñoz, Loreto",
@@ -280,175 +357,6 @@
       },
       {
         "author": [
-          "Atzberger, K. R.",
-          "Pace, A. B.",
-          "Kallivayalil, N.",
-          "Chiti, A.",
-          "Erkal, D.",
-          "Cerny, W.",
-          "Limberg, G.",
-          "Placco, V. M.",
-          "Prabhu, D. S.",
-          "Stringfellow, G. S.",
-          "Vivas, A. K.",
-          "Chaturvedi, A.",
-          "Ferguson, P. S.",
-          "Riley, A. H.",
-          "Sand, D. J.",
-          "Carlin, J. L.",
-          "Choi, Y.",
-          "Crnojević, D.",
-          "Drlica-Wagner, A.",
-          "Ji, A. P.",
-          "Li, T. S.",
-          "Martínez-Vázquez, C. E.",
-          "Medina, G. E.",
-          "Noël, N. E. D.",
-          "Walker, A. R.",
-          "Carballo-Bello, J. A.",
-          "James, D. J.",
-          "Mutlu-Pakdil, B.",
-          "Navabi, M.",
-          "Sakowska, J. D.",
-          "MAGIC Collaboration",
-          "Delve Collaboration"
-        ],
-        "bibcode": "2026ApJ..1006..180A",
-        "doi": [
-          "10.3847/1538-4357/ae7f1f",
-          "10.48550/arXiv.2602.21283"
-        ],
-        "identifier": [
-          "2026arXiv260221283A",
-          "arXiv:2602.21283",
-          "2026ApJ..1006..180A",
-          "10.3847/1538-4357/ae7f1f",
-          "10.48550/arXiv.2602.21283"
-        ],
-        "page": [
-          "180"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy"
-        ],
-        "volume": "1006",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "McKay, S. J.",
-          "Barger, A. J.",
-          "Cowie, L. L.",
-          "Bauer, F. E."
-        ],
-        "bibcode": "2026ApJ..1007...61M",
-        "doi": [
-          "10.3847/1538-4357/ae8a4f"
-        ],
-        "identifier": [
-          "2026ApJ..1007...61M",
-          "10.3847/1538-4357/ae8a4f"
-        ],
-        "page": [
-          "61"
-        ],
-        "pub": "The Astrophysical Journal",
-        "title": [
-          "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies"
-        ],
-        "volume": "1007",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Jana, Arghajit",
-          "Ricci, Claudio",
-          "Bauer, Franz E.",
-          "Gupta, Kriti Kamal",
-          "Trakhtenbrot, Benny",
-          "Tortosa, Alessia",
-          "Li, Ruancun",
-          "Ho, Luis C.",
-          "Mushotzky, Richard",
-          "Chang, Hsiang-Kuang",
-          "Diaz, Yaherlyn",
-          "Dimopoulos, Georgios",
-          "Kallová, Kristína",
-          "Koss, Michael J.",
-          "Paltani, Stéphane",
-          "Temple, Matthew J."
-        ],
-        "bibcode": "2026ApJ..1007L...4J",
-        "doi": [
-          "10.3847/2041-8213/ae8dc1",
-          "10.48550/arXiv.2607.19485"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2607.19485",
-          "arXiv:2607.19485",
-          "2026arXiv260719485J",
-          "2026ApJ..1007L...4J",
-          "10.3847/2041-8213/ae8dc1"
-        ],
-        "page": [
-          "L4"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": [
-          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
-        ],
-        "volume": "1007",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Argudo-Fernández, M.",
-          "Torres-Ríos, G.",
-          "Vásquez-Bustos, P.",
-          "Verley, S.",
-          "Pérez, I.",
-          "Duarte Puertas, S.",
-          "Jiménez, A.",
-          "García-Benito, R.",
-          "Zurita, A.",
-          "Alcázar-Laynez, M.",
-          "Bidaran, B.",
-          "Conrado, A.",
-          "Espada, D.",
-          "Florido, E.",
-          "González Delgado, R.",
-          "Hernández-Sánchez, M.",
-          "del Moral-Castro, I.",
-          "Román, J.",
-          "Sánchez-Menguiano, L.",
-          "Subramanian, S.",
-          "Villalba-González, P."
-        ],
-        "bibcode": "2026A&A...712A..55A",
-        "doi": [
-          "10.1051/0004-6361/202659410",
-          "10.48550/arXiv.2606.17676"
-        ],
-        "identifier": [
-          "arXiv:2606.17676",
-          "2026arXiv260617676A",
-          "10.1051/0004-6361/202659410",
-          "10.48550/arXiv.2606.17676",
-          "2026A&A...712A..55A"
-        ],
-        "page": [
-          "A55"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "Galaxy groups within voids"
-        ],
-        "volume": "712",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Peluso, S.",
           "Lanzuisi, G.",
           "Comastri, A.",
@@ -495,6 +403,52 @@
         "pub": "Astronomy and Astrophysics",
         "title": [
           "Supermassive Black Hole Winds in X-rays: SUBWAYS: V. Properties of hot coronae in quasars at intermediate-redshift"
+        ],
+        "volume": "712",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Argudo-Fernández, M.",
+          "Torres-Ríos, G.",
+          "Vásquez-Bustos, P.",
+          "Verley, S.",
+          "Pérez, I.",
+          "Duarte Puertas, S.",
+          "Jiménez, A.",
+          "García-Benito, R.",
+          "Zurita, A.",
+          "Alcázar-Laynez, M.",
+          "Bidaran, B.",
+          "Conrado, A.",
+          "Espada, D.",
+          "Florido, E.",
+          "González Delgado, R.",
+          "Hernández-Sánchez, M.",
+          "del Moral-Castro, I.",
+          "Román, J.",
+          "Sánchez-Menguiano, L.",
+          "Subramanian, S.",
+          "Villalba-González, P."
+        ],
+        "bibcode": "2026A&A...712A..55A",
+        "doi": [
+          "10.1051/0004-6361/202659410",
+          "10.48550/arXiv.2606.17676"
+        ],
+        "identifier": [
+          "arXiv:2606.17676",
+          "2026arXiv260617676A",
+          "10.1051/0004-6361/202659410",
+          "10.48550/arXiv.2606.17676",
+          "2026A&A...712A..55A"
+        ],
+        "page": [
+          "A55"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "title": [
+          "Galaxy groups within voids"
         ],
         "volume": "712",
         "year": "2026"
@@ -562,6 +516,129 @@
           "The multiphase biconical outflow in the local infrared-luminous merger IRAS F01364-1042"
         ],
         "volume": "712",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Jana, Arghajit",
+          "Ricci, Claudio",
+          "Bauer, Franz E.",
+          "Gupta, Kriti Kamal",
+          "Trakhtenbrot, Benny",
+          "Tortosa, Alessia",
+          "Li, Ruancun",
+          "Ho, Luis C.",
+          "Mushotzky, Richard",
+          "Chang, Hsiang-Kuang",
+          "Diaz, Yaherlyn",
+          "Dimopoulos, Georgios",
+          "Kallová, Kristína",
+          "Koss, Michael J.",
+          "Paltani, Stéphane",
+          "Temple, Matthew J."
+        ],
+        "bibcode": "2026ApJ..1007L...4J",
+        "doi": [
+          "10.3847/2041-8213/ae8dc1",
+          "10.48550/arXiv.2607.19485"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2607.19485",
+          "arXiv:2607.19485",
+          "2026arXiv260719485J",
+          "2026ApJ..1007L...4J",
+          "10.3847/2041-8213/ae8dc1"
+        ],
+        "page": [
+          "L4"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "title": [
+          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
+        ],
+        "volume": "1007",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "McKay, S. J.",
+          "Barger, A. J.",
+          "Cowie, L. L.",
+          "Bauer, F. E."
+        ],
+        "bibcode": "2026ApJ..1007...61M",
+        "doi": [
+          "10.3847/1538-4357/ae8a4f"
+        ],
+        "identifier": [
+          "2026ApJ..1007...61M",
+          "10.3847/1538-4357/ae8a4f"
+        ],
+        "page": [
+          "61"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies"
+        ],
+        "volume": "1007",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Atzberger, K. R.",
+          "Pace, A. B.",
+          "Kallivayalil, N.",
+          "Chiti, A.",
+          "Erkal, D.",
+          "Cerny, W.",
+          "Limberg, G.",
+          "Placco, V. M.",
+          "Prabhu, D. S.",
+          "Stringfellow, G. S.",
+          "Vivas, A. K.",
+          "Chaturvedi, A.",
+          "Ferguson, P. S.",
+          "Riley, A. H.",
+          "Sand, D. J.",
+          "Carlin, J. L.",
+          "Choi, Y.",
+          "Crnojević, D.",
+          "Drlica-Wagner, A.",
+          "Ji, A. P.",
+          "Li, T. S.",
+          "Martínez-Vázquez, C. E.",
+          "Medina, G. E.",
+          "Noël, N. E. D.",
+          "Walker, A. R.",
+          "Carballo-Bello, J. A.",
+          "James, D. J.",
+          "Mutlu-Pakdil, B.",
+          "Navabi, M.",
+          "Sakowska, J. D.",
+          "MAGIC Collaboration",
+          "Delve Collaboration"
+        ],
+        "bibcode": "2026ApJ..1006..180A",
+        "doi": [
+          "10.3847/1538-4357/ae7f1f",
+          "10.48550/arXiv.2602.21283"
+        ],
+        "identifier": [
+          "2026arXiv260221283A",
+          "arXiv:2602.21283",
+          "2026ApJ..1006..180A",
+          "10.3847/1538-4357/ae7f1f",
+          "10.48550/arXiv.2602.21283"
+        ],
+        "page": [
+          "180"
+        ],
+        "pub": "The Astrophysical Journal",
+        "title": [
+          "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy"
+        ],
+        "volume": "1006",
         "year": "2026"
       },
       {
@@ -783,44 +860,6 @@
       },
       {
         "author": [
-          "Estévez, P. A.",
-          "Espejo-Moreira, J.",
-          "Sanfeliú-Alvarez, S.",
-          "Förster, F.",
-          "Muñoz Arancibia, A. M.",
-          "Cabrera-Vives, G.",
-          "Bauer, F. E.",
-          "Bayo, A.",
-          "Catelan, M.",
-          "Dastidar, R.",
-          "Hernández-García, L.",
-          "Intriago, J. A.",
-          "Pignata, G."
-        ],
-        "bibcode": "2026A&A...711A.302E",
-        "doi": [
-          "10.1051/0004-6361/202558221",
-          "10.48550/arXiv.2606.18108"
-        ],
-        "identifier": [
-          "2026arXiv260618108E",
-          "10.48550/arXiv.2606.18108",
-          "arXiv:2606.18108",
-          "10.1051/0004-6361/202558221",
-          "2026A&A...711A.302E"
-        ],
-        "page": [
-          "A302"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "title": [
-          "Querying an astronomical database using large language models: the ALeRCE text-to-SQL system"
-        ],
-        "volume": "711",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Quirola-Vasquez, J.",
           "Jonker, P. G.",
           "Levan, A.",
@@ -904,48 +943,17 @@
           "AGNFormer I: Reconstruction of AGN spectra using a probabilistic transformer model"
         ],
         "year": "2026"
-      },
-      {
-        "author": [
-          "Nandal, Devesh",
-          "Chilingarian, Igor V.",
-          "Nagele, Chris",
-          "Chisholm, John",
-          "Bauer, Franz E.",
-          "Loeb, Abraham"
-        ],
-        "bibcode": "2026ApJ..1006L..21N",
-        "doi": [
-          "10.3847/2041-8213/ae82f3",
-          "10.48550/arXiv.2604.19988"
-        ],
-        "identifier": [
-          "2026ApJ..1006L..21N",
-          "10.3847/2041-8213/ae82f3",
-          "2026arXiv260419988N",
-          "arXiv:2604.19988",
-          "10.48550/arXiv.2604.19988"
-        ],
-        "page": [
-          "L21"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "title": [
-          "Pulsational Mass Loss from Supermassive Stars Creates the Compact Shells of Little Red Dots"
-        ],
-        "volume": "1006",
-        "year": "2026"
       }
     ],
-    "numFound": 2168,
+    "numFound": 2170,
     "numFoundExact": true,
     "start": 0
   },
   "responseHeader": {
-    "QTime": 247,
+    "QTime": 302,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6aa6c6a7-2f67e11469588279749cbee4",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6aa83508-6305e9b31b97cf915388d179",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
