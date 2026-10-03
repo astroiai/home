@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 55207152,
+  "allocatedBytes": 53739808,
   "filtered": "true",
   "response": {
     "docs": [
@@ -188,69 +188,6 @@
       },
       {
         "author": [
-          "Kopsacheili, M.",
-          "Galbany, L.",
-          "Folatelli, G.",
-          "Phillips, M. M.",
-          "Burns, C. R.",
-          "Stritzinger, M. D.",
-          "Miao, H.-Y.",
-          "González-Bañuelos, M.",
-          "García-Benito, R.",
-          "Müller-Bravo, T. E.",
-          "Hsiao, E. Y.",
-          "Auchettl, K.",
-          "Anderson, J. P.",
-          "Ashall, C.",
-          "Chen, T.-W.",
-          "Desai, D. D.",
-          "Huber, M. E.",
-          "de Jaeger, T.",
-          "DerKacy, J. M.",
-          "Gromadzki, M.",
-          "Hinkle, J. T.",
-          "Hoogendam, W.",
-          "Jimenez-Palau, C.",
-          "Matilainen, K.",
-          "Mazzali, P. A.",
-          "Medler, K.",
-          "Morrell, N.",
-          "Pessi, T.",
-          "Pfeffer, C.",
-          "Phan, K.",
-          "Pignata, G.",
-          "Polin, A.",
-          "Sanfeliu, R.",
-          "Shappee, B. J.",
-          "Tucker, M. A.",
-          "Xiao, H.",
-          "Young, D. R."
-        ],
-        "bibcode": "2026A&A...713A.202K",
-        "doi": [
-          "10.1051/0004-6361/202660699",
-          "10.48550/arXiv.2607.08821"
-        ],
-        "identifier": [
-          "2026A&A...713A.202K",
-          "2026arXiv260708821K",
-          "arXiv:2607.08821",
-          "10.48550/arXiv.2607.08821",
-          "10.1051/0004-6361/202660699"
-        ],
-        "page": [
-          "A202"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "The type Ia supernova 2023vjh: A peculiar 1991bg-like supernova with unusually faint light curves"
-        ],
-        "volume": "713",
-        "year": "2026"
-      },
-      {
-        "author": [
           "van Hoof, Agnes P. C.",
           "Jonker, Peter G.",
           "Tommel, Lieke",
@@ -380,6 +317,69 @@
       },
       {
         "author": [
+          "Kopsacheili, M.",
+          "Galbany, L.",
+          "Folatelli, G.",
+          "Phillips, M. M.",
+          "Burns, C. R.",
+          "Stritzinger, M. D.",
+          "Miao, H.-Y.",
+          "González-Bañuelos, M.",
+          "García-Benito, R.",
+          "Müller-Bravo, T. E.",
+          "Hsiao, E. Y.",
+          "Auchettl, K.",
+          "Anderson, J. P.",
+          "Ashall, C.",
+          "Chen, T.-W.",
+          "Desai, D. D.",
+          "Huber, M. E.",
+          "de Jaeger, T.",
+          "DerKacy, J. M.",
+          "Gromadzki, M.",
+          "Hinkle, J. T.",
+          "Hoogendam, W.",
+          "Jimenez-Palau, C.",
+          "Matilainen, K.",
+          "Mazzali, P. A.",
+          "Medler, K.",
+          "Morrell, N.",
+          "Pessi, T.",
+          "Pfeffer, C.",
+          "Phan, K.",
+          "Pignata, G.",
+          "Polin, A.",
+          "Sanfeliu, R.",
+          "Shappee, B. J.",
+          "Tucker, M. A.",
+          "Xiao, H.",
+          "Young, D. R."
+        ],
+        "bibcode": "2026A&A...713A.202K",
+        "doi": [
+          "10.1051/0004-6361/202660699",
+          "10.48550/arXiv.2607.08821"
+        ],
+        "identifier": [
+          "2026A&A...713A.202K",
+          "2026arXiv260708821K",
+          "arXiv:2607.08821",
+          "10.48550/arXiv.2607.08821",
+          "10.1051/0004-6361/202660699"
+        ],
+        "page": [
+          "A202"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "The type Ia supernova 2023vjh: A peculiar 1991bg-like supernova with unusually faint light curves"
+        ],
+        "volume": "713",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Treister, Ezequiel",
           "Droguett, Macarena",
           "Barcos-Muñoz, Loreto",
@@ -402,32 +402,6 @@
           "Properties of the Molecular Gas in AGN in Mergers with ALMA"
         ],
         "volume": "20",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "McKay, S. J.",
-          "Barger, A. J.",
-          "Cowie, L. L.",
-          "Bauer, F. E."
-        ],
-        "bibcode": "2026ApJ..1007...61M",
-        "doi": [
-          "10.3847/1538-4357/ae8a4f"
-        ],
-        "identifier": [
-          "2026ApJ..1007...61M",
-          "10.3847/1538-4357/ae8a4f"
-        ],
-        "page": [
-          "61"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies"
-        ],
-        "volume": "1007",
         "year": "2026"
       },
       {
@@ -636,6 +610,64 @@
       },
       {
         "author": [
+          "Atzberger, K. R.",
+          "Pace, A. B.",
+          "Kallivayalil, N.",
+          "Chiti, A.",
+          "Erkal, D.",
+          "Cerny, W.",
+          "Limberg, G.",
+          "Placco, V. M.",
+          "Prabhu, D. S.",
+          "Stringfellow, G. S.",
+          "Vivas, A. K.",
+          "Chaturvedi, A.",
+          "Ferguson, P. S.",
+          "Riley, A. H.",
+          "Sand, D. J.",
+          "Carlin, J. L.",
+          "Choi, Y.",
+          "Crnojević, D.",
+          "Drlica-Wagner, A.",
+          "Ji, A. P.",
+          "Li, T. S.",
+          "Martínez-Vázquez, C. E.",
+          "Medina, G. E.",
+          "Noël, N. E. D.",
+          "Walker, A. R.",
+          "Carballo-Bello, J. A.",
+          "James, D. J.",
+          "Mutlu-Pakdil, B.",
+          "Navabi, M.",
+          "Sakowska, J. D.",
+          "MAGIC Collaboration",
+          "Delve Collaboration"
+        ],
+        "bibcode": "2026ApJ..1006..180A",
+        "doi": [
+          "10.3847/1538-4357/ae7f1f",
+          "10.48550/arXiv.2602.21283"
+        ],
+        "identifier": [
+          "2026arXiv260221283A",
+          "arXiv:2602.21283",
+          "2026ApJ..1006..180A",
+          "10.3847/1538-4357/ae7f1f",
+          "10.48550/arXiv.2602.21283"
+        ],
+        "page": [
+          "180"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy"
+        ],
+        "volume": "1006",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Jana, Arghajit",
           "Ricci, Claudio",
           "Bauer, Franz E.",
@@ -709,162 +741,106 @@
       },
       {
         "author": [
-          "Atzberger, K. R.",
-          "Pace, A. B.",
-          "Kallivayalil, N.",
-          "Chiti, A.",
-          "Erkal, D.",
-          "Cerny, W.",
-          "Limberg, G.",
-          "Placco, V. M.",
-          "Prabhu, D. S.",
-          "Stringfellow, G. S.",
-          "Vivas, A. K.",
-          "Chaturvedi, A.",
-          "Ferguson, P. S.",
-          "Riley, A. H.",
-          "Sand, D. J.",
-          "Carlin, J. L.",
-          "Choi, Y.",
-          "Crnojević, D.",
-          "Drlica-Wagner, A.",
-          "Ji, A. P.",
-          "Li, T. S.",
-          "Martínez-Vázquez, C. E.",
-          "Medina, G. E.",
-          "Noël, N. E. D.",
-          "Walker, A. R.",
-          "Carballo-Bello, J. A.",
-          "James, D. J.",
-          "Mutlu-Pakdil, B.",
-          "Navabi, M.",
-          "Sakowska, J. D.",
-          "MAGIC Collaboration",
-          "Delve Collaboration"
+          "McKay, S. J.",
+          "Barger, A. J.",
+          "Cowie, L. L.",
+          "Bauer, F. E."
         ],
-        "bibcode": "2026ApJ..1006..180A",
+        "bibcode": "2026ApJ..1007...61M",
         "doi": [
-          "10.3847/1538-4357/ae7f1f",
-          "10.48550/arXiv.2602.21283"
+          "10.3847/1538-4357/ae8a4f"
         ],
         "identifier": [
-          "2026arXiv260221283A",
-          "arXiv:2602.21283",
-          "2026ApJ..1006..180A",
-          "10.3847/1538-4357/ae7f1f",
-          "10.48550/arXiv.2602.21283"
+          "2026ApJ..1007...61M",
+          "10.3847/1538-4357/ae8a4f"
         ],
         "page": [
-          "180"
+          "61"
         ],
         "pub": "The Astrophysical Journal",
         "publisher": "IOP",
         "title": [
-          "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy"
+          "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies"
         ],
-        "volume": "1006",
+        "volume": "1007",
         "year": "2026"
       },
       {
         "author": [
-          "Srivastav, S.",
-          "Smartt, S. J.",
-          "Moore, T.",
-          "Smith, K. W.",
-          "Young, D. R.",
-          "Fulton, M. D.",
-          "Angus, C. R.",
-          "Nicholl, M.",
-          "Stevance, H. F.",
-          "Chen, T.-W.",
-          "Pastorello, A.",
-          "Sommer, J.",
-          "Stoppa, F.",
-          "Tweddle, J. W.",
-          "Anderson, J. P.",
-          "Huber, M. E.",
-          "Rest, A.",
-          "Rhodes, L.",
-          "Shingles, L. J.",
-          "Aamer, A.",
-          "Clocchiatti, A.",
-          "Cooper, A. J.",
-          "Erasmus, N.",
-          "Gillanders, J. H.",
-          "Magill, D.",
-          "Pignata, G.",
-          "Ramsden, P.",
-          "Schmidt, B. P.",
-          "Sheng, X.",
-          "Weston, J. G.",
-          "Denneau, L.",
-          "Tonry, J. L."
+          "Venselaar, Sophie M.",
+          "Ricci, Claudio",
+          "Del Palacio, Santiago",
+          "Gupta, Kriti K.",
+          "Chang, Chin-Shin",
+          "Serafinelli, Roberto",
+          "Magno, Macon A.",
+          "Mushotzky, Richard",
+          "Shablovinskaya, Elena",
+          "Kawamuro, Taiki",
+          "Treister, Ezequiel",
+          "Elford, Jacob S.",
+          "Aalto, Susanne",
+          "Privon, George C.",
+          "Koss, Michael J."
         ],
-        "bibcode": "2026MNRAS.549g1028S",
+        "bibcode": "2026ApJ..1005...48V",
         "doi": [
-          "10.1093/mnras/stag1028",
-          "10.48550/arXiv.2603.03069"
+          "10.3847/1538-4357/ae6da8"
         ],
         "identifier": [
-          "10.1093/mnras/stag1028",
-          "2026MNRAS.549g1028S",
-          "10.48550/arXiv.2603.03069",
-          "2026arXiv260303069S",
-          "arXiv:2603.03069"
+          "10.3847/1538-4357/ae6da8",
+          "2026ApJ..1005...48V"
         ],
         "page": [
-          "stag1028"
+          "48"
         ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "publisher": "OUP",
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
         "title": [
-          "ATLAS100 ─ I. A volume-limited sample of supernovae and related transients within 100 Mpc"
+          "The Millimeter/X-Ray Relation in Rapidly Accreting Supermassive Black Holes at z &lt; 0.16"
         ],
-        "volume": "549",
+        "volume": "1005",
         "year": "2026"
       },
       {
         "author": [
-          "Dadina, M.",
-          "Missaglia, V.",
-          "Braito, V.",
-          "Cappi, M.",
-          "Luminari, A.",
-          "Barret, D.",
-          "Bertola, E.",
-          "Bianchi, S.",
-          "Comastri, A.",
-          "Chartas, G.",
-          "Kaastra, J.",
-          "Kammoun, E.",
-          "Lanzuisi, G.",
-          "Matzeu, G.",
-          "Middei, R.",
-          "Nardini, E.",
-          "Nicastro, F.",
-          "Petrucci, P.-O.",
-          "Pinto, C.",
-          "Serafinelli, R.",
-          "Tortosa, A.",
-          "Vignali, C."
+          "Barbani, Filippo",
+          "Gaspari, Massimo",
+          "Cammelli, Vieri",
+          "Piana, Olmo",
+          "Jennings, Fred J.",
+          "Brustio, Davide M.",
+          "Stel, Giovanni",
+          "Olivares, Valeria",
+          "Maccagni, Filippo M.",
+          "Fournier, Martin",
+          "Tombesi, Francesco",
+          "Temi, Pasquale",
+          "Fiore, Fabrizio",
+          "Serafinelli, Roberto",
+          "Danehkar, Ashkbiz"
         ],
-        "bibcode": "2026A&A...710A.408D",
+        "bibcode": "2026A&A...711A.153B",
         "doi": [
-          "10.1051/0004-6361/202659563"
+          "10.1051/0004-6361/202659838",
+          "10.48550/arXiv.2605.27507"
         ],
         "identifier": [
-          "2026A&A...710A.408D",
-          "10.1051/0004-6361/202659563"
+          "2026arXiv260527507B",
+          "2026A&A...711A.153B",
+          "10.48550/arXiv.2605.27507",
+          "arXiv:2605.27507",
+          "10.1051/0004-6361/202659838"
         ],
         "page": [
-          "A408"
+          "A153"
         ],
         "pub": "Astronomy and Astrophysics",
         "publisher": "EDP",
         "title": [
-          "XRISM/Resolve probes a possible \"raining\" absorber in Mrk 509"
+          "BLACKHOLEWEATHER ─ Chaotic cold accretion across the meso-scale: Morphology and thermodynamics"
         ],
-        "volume": "710",
+        "volume": "711",
         "year": "2026"
       },
       {
@@ -912,10 +888,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 468,
+    "QTime": 482,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6abfec4a-5bb9686e7f8d4e1355ea8a4e",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ac125ee-7d73fd35309a95487e06a6bc",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
