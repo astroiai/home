@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 53739808,
+  "allocatedBytes": 47978856,
   "filtered": "true",
   "response": {
     "docs": [
@@ -94,49 +94,6 @@
       },
       {
         "author": [
-          "Buchner, Johannes",
-          "Gauger, Isabelle",
-          "Wu, Qiaoya",
-          "Starck, Hattie",
-          "Aydar, Catarina",
-          "Shen, Yue",
-          "Bennert, Vardha N.",
-          "Nandra, Kirpal",
-          "Waddell, Sophia G. H.",
-          "Merloni, Andrea",
-          "Salvato, Mara",
-          "Assef, Roberto J.",
-          "Igo, Zsofi",
-          "Bauer, Franz E.",
-          "Kim, Dong-Woo",
-          "Koekemoer, Anton M.",
-          "Schneider, Donald P."
-        ],
-        "bibcode": "2026A&A...713A..11B",
-        "doi": [
-          "10.1051/0004-6361/202659356",
-          "10.48550/arXiv.2603.22425"
-        ],
-        "identifier": [
-          "10.1051/0004-6361/202659356",
-          "2026A&A...713A..11B",
-          "2026arXiv260322425B",
-          "arXiv:2603.22425",
-          "10.48550/arXiv.2603.22425"
-        ],
-        "page": [
-          "A11"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "A large population of overmassive black hole quasars at z=0.3-0.8 revealed by eROSITA"
-        ],
-        "volume": "713",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Ertini, K.",
           "Anderson, J. P.",
           "Folatelli, G.",
@@ -188,87 +145,6 @@
       },
       {
         "author": [
-          "van Hoof, Agnes P. C.",
-          "Jonker, Peter G.",
-          "Tommel, Lieke",
-          "Quirola-Vásquez, Jonathan A.",
-          "Mata Sánchez, Daniel",
-          "van Dalen, Joyce N. D.",
-          "Levan, Andrew J.",
-          "Fraser, Morgan",
-          "Zabludoff, Ann",
-          "Torres, Manuel A. P.",
-          "Sánchez-Sierras, Javi",
-          "Martin-Carrillo, Antonio",
-          "Wevers, Thomas",
-          "Berton, Marco",
-          "Yue, Minghao",
-          "Dhillon, Vik S.",
-          "Bauer, Franz E.",
-          "Littlefair, Stuart P."
-        ],
-        "bibcode": "2026A&A...713A..63V",
-        "doi": [
-          "10.1051/0004-6361/202659936",
-          "10.48550/arXiv.2606.27048"
-        ],
-        "identifier": [
-          "2026A&A...713A..63V",
-          "10.1051/0004-6361/202659936",
-          "arXiv:2606.27048",
-          "2026arXiv260627048V",
-          "10.48550/arXiv.2606.27048"
-        ],
-        "page": [
-          "A63"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "Optical observations of candidate host galaxies of eight fast X-ray transients"
-        ],
-        "volume": "713",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Medan, Ilija",
-          "Stassun, Keivan G.",
-          "Way, Zachary",
-          "Stringfellow, Guy S.",
-          "Roman-Lopes, Alexandre",
-          "Li, Jiadong",
-          "Lucey, Madeline",
-          "Casey, Andrew R.",
-          "Rojas-Ayala, Bárbara",
-          "López-Valdivia, Ricardo",
-          "Fernández-Trincado, José G."
-        ],
-        "bibcode": "2026AJ....172..150M",
-        "doi": [
-          "10.3847/1538-3881/ae8d19",
-          "10.48550/arXiv.2607.19501"
-        ],
-        "identifier": [
-          "10.3847/1538-3881/ae8d19",
-          "2026arXiv260719501M",
-          "arXiv:2607.19501",
-          "10.48550/arXiv.2607.19501",
-          "2026AJ....172..150M"
-        ],
-        "page": [
-          "150"
-        ],
-        "pub": "The Astronomical Journal",
-        "publisher": "IOP",
-        "title": [
-          "A Probabilistic Framework for Population Studies of the Solar Neighborhood: Application to SDSS-V and Gaia"
-        ],
-        "volume": "172",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Silva-Farfán, Javier",
           "Maeda, Keiichi",
           "Pastorello, Andrea",
@@ -313,6 +189,130 @@
           "Dust without Na I D Trace: The Case of Highly Attenuated Type Ib SN 2024vjc"
         ],
         "volume": "1008",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "van Hoof, Agnes P. C.",
+          "Jonker, Peter G.",
+          "Tommel, Lieke",
+          "Quirola-Vásquez, Jonathan A.",
+          "Mata Sánchez, Daniel",
+          "van Dalen, Joyce N. D.",
+          "Levan, Andrew J.",
+          "Fraser, Morgan",
+          "Zabludoff, Ann",
+          "Torres, Manuel A. P.",
+          "Sánchez-Sierras, Javi",
+          "Martin-Carrillo, Antonio",
+          "Wevers, Thomas",
+          "Berton, Marco",
+          "Yue, Minghao",
+          "Dhillon, Vik S.",
+          "Bauer, Franz E.",
+          "Littlefair, Stuart P."
+        ],
+        "bibcode": "2026A&A...713A..63V",
+        "doi": [
+          "10.1051/0004-6361/202659936",
+          "10.48550/arXiv.2606.27048"
+        ],
+        "identifier": [
+          "2026A&A...713A..63V",
+          "10.1051/0004-6361/202659936",
+          "arXiv:2606.27048",
+          "2026arXiv260627048V",
+          "10.48550/arXiv.2606.27048"
+        ],
+        "page": [
+          "A63"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "Optical observations of candidate host galaxies of eight fast X-ray transients"
+        ],
+        "volume": "713",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Buchner, Johannes",
+          "Gauger, Isabelle",
+          "Wu, Qiaoya",
+          "Starck, Hattie",
+          "Aydar, Catarina",
+          "Shen, Yue",
+          "Bennert, Vardha N.",
+          "Nandra, Kirpal",
+          "Waddell, Sophia G. H.",
+          "Merloni, Andrea",
+          "Salvato, Mara",
+          "Assef, Roberto J.",
+          "Igo, Zsofi",
+          "Bauer, Franz E.",
+          "Kim, Dong-Woo",
+          "Koekemoer, Anton M.",
+          "Schneider, Donald P."
+        ],
+        "bibcode": "2026A&A...713A..11B",
+        "doi": [
+          "10.1051/0004-6361/202659356",
+          "10.48550/arXiv.2603.22425"
+        ],
+        "identifier": [
+          "10.1051/0004-6361/202659356",
+          "2026A&A...713A..11B",
+          "2026arXiv260322425B",
+          "arXiv:2603.22425",
+          "10.48550/arXiv.2603.22425"
+        ],
+        "page": [
+          "A11"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "A large population of overmassive black hole quasars at z=0.3-0.8 revealed by eROSITA"
+        ],
+        "volume": "713",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Medan, Ilija",
+          "Stassun, Keivan G.",
+          "Way, Zachary",
+          "Stringfellow, Guy S.",
+          "Roman-Lopes, Alexandre",
+          "Li, Jiadong",
+          "Lucey, Madeline",
+          "Casey, Andrew R.",
+          "Rojas-Ayala, Bárbara",
+          "López-Valdivia, Ricardo",
+          "Fernández-Trincado, José G."
+        ],
+        "bibcode": "2026AJ....172..150M",
+        "doi": [
+          "10.3847/1538-3881/ae8d19",
+          "10.48550/arXiv.2607.19501"
+        ],
+        "identifier": [
+          "10.3847/1538-3881/ae8d19",
+          "2026arXiv260719501M",
+          "arXiv:2607.19501",
+          "10.48550/arXiv.2607.19501",
+          "2026AJ....172..150M"
+        ],
+        "page": [
+          "150"
+        ],
+        "pub": "The Astronomical Journal",
+        "publisher": "IOP",
+        "title": [
+          "A Probabilistic Framework for Population Studies of the Solar Neighborhood: Application to SDSS-V and Gaia"
+        ],
+        "volume": "172",
         "year": "2026"
       },
       {
@@ -380,28 +380,60 @@
       },
       {
         "author": [
-          "Treister, Ezequiel",
-          "Droguett, Macarena",
-          "Barcos-Muñoz, Loreto",
-          "Koss, Mike",
-          "Johnstone, Makoto"
+          "Atzberger, K. R.",
+          "Pace, A. B.",
+          "Kallivayalil, N.",
+          "Chiti, A.",
+          "Erkal, D.",
+          "Cerny, W.",
+          "Limberg, G.",
+          "Placco, V. M.",
+          "Prabhu, D. S.",
+          "Stringfellow, G. S.",
+          "Vivas, A. K.",
+          "Chaturvedi, A.",
+          "Ferguson, P. S.",
+          "Riley, A. H.",
+          "Sand, D. J.",
+          "Carlin, J. L.",
+          "Choi, Y.",
+          "Crnojević, D.",
+          "Drlica-Wagner, A.",
+          "Ji, A. P.",
+          "Li, T. S.",
+          "Martínez-Vázquez, C. E.",
+          "Medina, G. E.",
+          "Noël, N. E. D.",
+          "Walker, A. R.",
+          "Carballo-Bello, J. A.",
+          "James, D. J.",
+          "Mutlu-Pakdil, B.",
+          "Navabi, M.",
+          "Sakowska, J. D.",
+          "MAGIC Collaboration",
+          "Delve Collaboration"
         ],
-        "bibcode": "2026IAUTA..32...68T",
+        "bibcode": "2026ApJ..1006..180A",
         "doi": [
-          "10.1017/S174392132400228X"
+          "10.3847/1538-4357/ae7f1f",
+          "10.48550/arXiv.2602.21283"
         ],
         "identifier": [
-          "2026IAUTA..32...68T",
-          "10.1017/S174392132400228X"
+          "2026arXiv260221283A",
+          "arXiv:2602.21283",
+          "2026ApJ..1006..180A",
+          "10.3847/1538-4357/ae7f1f",
+          "10.48550/arXiv.2602.21283"
         ],
         "page": [
-          "68"
+          "180"
         ],
-        "pub": "Transactions of the International Astronomical Union, Series A",
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
         "title": [
-          "Properties of the Molecular Gas in AGN in Mergers with ALMA"
+          "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy"
         ],
-        "volume": "20",
+        "volume": "1006",
         "year": "2026"
       },
       {
@@ -455,6 +487,48 @@
           "Supermassive Black Hole Winds in X-rays: SUBWAYS: V. Properties of hot coronae in quasars at intermediate-redshift"
         ],
         "volume": "712",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Jana, Arghajit",
+          "Ricci, Claudio",
+          "Bauer, Franz E.",
+          "Gupta, Kriti Kamal",
+          "Trakhtenbrot, Benny",
+          "Tortosa, Alessia",
+          "Li, Ruancun",
+          "Ho, Luis C.",
+          "Mushotzky, Richard",
+          "Chang, Hsiang-Kuang",
+          "Diaz, Yaherlyn",
+          "Dimopoulos, Georgios",
+          "Kallová, Kristína",
+          "Koss, Michael J.",
+          "Paltani, Stéphane",
+          "Temple, Matthew J."
+        ],
+        "bibcode": "2026ApJ..1007L...4J",
+        "doi": [
+          "10.3847/2041-8213/ae8dc1",
+          "10.48550/arXiv.2607.19485"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2607.19485",
+          "arXiv:2607.19485",
+          "2026arXiv260719485J",
+          "2026ApJ..1007L...4J",
+          "10.3847/2041-8213/ae8dc1"
+        ],
+        "page": [
+          "L4"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "publisher": "IOP",
+        "title": [
+          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
+        ],
+        "volume": "1007",
         "year": "2026"
       },
       {
@@ -521,6 +595,58 @@
           "The multiphase biconical outflow in the local infrared-luminous merger IRAS F01364-1042"
         ],
         "volume": "712",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "McKay, S. J.",
+          "Barger, A. J.",
+          "Cowie, L. L.",
+          "Bauer, F. E."
+        ],
+        "bibcode": "2026ApJ..1007...61M",
+        "doi": [
+          "10.3847/1538-4357/ae8a4f"
+        ],
+        "identifier": [
+          "2026ApJ..1007...61M",
+          "10.3847/1538-4357/ae8a4f"
+        ],
+        "page": [
+          "61"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies"
+        ],
+        "volume": "1007",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Treister, Ezequiel",
+          "Droguett, Macarena",
+          "Barcos-Muñoz, Loreto",
+          "Koss, Mike",
+          "Johnstone, Makoto"
+        ],
+        "bibcode": "2026IAUTA..32...68T",
+        "doi": [
+          "10.1017/S174392132400228X"
+        ],
+        "identifier": [
+          "2026IAUTA..32...68T",
+          "10.1017/S174392132400228X"
+        ],
+        "page": [
+          "68"
+        ],
+        "pub": "Transactions of the International Astronomical Union, Series A",
+        "title": [
+          "Properties of the Molecular Gas in AGN in Mergers with ALMA"
+        ],
+        "volume": "20",
         "year": "2026"
       },
       {
@@ -610,106 +736,6 @@
       },
       {
         "author": [
-          "Atzberger, K. R.",
-          "Pace, A. B.",
-          "Kallivayalil, N.",
-          "Chiti, A.",
-          "Erkal, D.",
-          "Cerny, W.",
-          "Limberg, G.",
-          "Placco, V. M.",
-          "Prabhu, D. S.",
-          "Stringfellow, G. S.",
-          "Vivas, A. K.",
-          "Chaturvedi, A.",
-          "Ferguson, P. S.",
-          "Riley, A. H.",
-          "Sand, D. J.",
-          "Carlin, J. L.",
-          "Choi, Y.",
-          "Crnojević, D.",
-          "Drlica-Wagner, A.",
-          "Ji, A. P.",
-          "Li, T. S.",
-          "Martínez-Vázquez, C. E.",
-          "Medina, G. E.",
-          "Noël, N. E. D.",
-          "Walker, A. R.",
-          "Carballo-Bello, J. A.",
-          "James, D. J.",
-          "Mutlu-Pakdil, B.",
-          "Navabi, M.",
-          "Sakowska, J. D.",
-          "MAGIC Collaboration",
-          "Delve Collaboration"
-        ],
-        "bibcode": "2026ApJ..1006..180A",
-        "doi": [
-          "10.3847/1538-4357/ae7f1f",
-          "10.48550/arXiv.2602.21283"
-        ],
-        "identifier": [
-          "2026arXiv260221283A",
-          "arXiv:2602.21283",
-          "2026ApJ..1006..180A",
-          "10.3847/1538-4357/ae7f1f",
-          "10.48550/arXiv.2602.21283"
-        ],
-        "page": [
-          "180"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy"
-        ],
-        "volume": "1006",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Jana, Arghajit",
-          "Ricci, Claudio",
-          "Bauer, Franz E.",
-          "Gupta, Kriti Kamal",
-          "Trakhtenbrot, Benny",
-          "Tortosa, Alessia",
-          "Li, Ruancun",
-          "Ho, Luis C.",
-          "Mushotzky, Richard",
-          "Chang, Hsiang-Kuang",
-          "Diaz, Yaherlyn",
-          "Dimopoulos, Georgios",
-          "Kallová, Kristína",
-          "Koss, Michael J.",
-          "Paltani, Stéphane",
-          "Temple, Matthew J."
-        ],
-        "bibcode": "2026ApJ..1007L...4J",
-        "doi": [
-          "10.3847/2041-8213/ae8dc1",
-          "10.48550/arXiv.2607.19485"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2607.19485",
-          "arXiv:2607.19485",
-          "2026arXiv260719485J",
-          "2026ApJ..1007L...4J",
-          "10.3847/2041-8213/ae8dc1"
-        ],
-        "page": [
-          "L4"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "publisher": "IOP",
-        "title": [
-          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
-        ],
-        "volume": "1007",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Stepney, Matthew",
           "Banerji, Manda",
           "Bauer, Franz E.",
@@ -741,65 +767,46 @@
       },
       {
         "author": [
-          "McKay, S. J.",
-          "Barger, A. J.",
-          "Cowie, L. L.",
-          "Bauer, F. E."
+          "Dadina, M.",
+          "Missaglia, V.",
+          "Braito, V.",
+          "Cappi, M.",
+          "Luminari, A.",
+          "Barret, D.",
+          "Bertola, E.",
+          "Bianchi, S.",
+          "Comastri, A.",
+          "Chartas, G.",
+          "Kaastra, J.",
+          "Kammoun, E.",
+          "Lanzuisi, G.",
+          "Matzeu, G.",
+          "Middei, R.",
+          "Nardini, E.",
+          "Nicastro, F.",
+          "Petrucci, P.-O.",
+          "Pinto, C.",
+          "Serafinelli, R.",
+          "Tortosa, A.",
+          "Vignali, C."
         ],
-        "bibcode": "2026ApJ..1007...61M",
+        "bibcode": "2026A&A...710A.408D",
         "doi": [
-          "10.3847/1538-4357/ae8a4f"
+          "10.1051/0004-6361/202659563"
         ],
         "identifier": [
-          "2026ApJ..1007...61M",
-          "10.3847/1538-4357/ae8a4f"
+          "2026A&A...710A.408D",
+          "10.1051/0004-6361/202659563"
         ],
         "page": [
-          "61"
+          "A408"
         ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
         "title": [
-          "A Deep ALMA Survey of the Redshift Distribution of Dusty Star-forming Galaxies"
+          "XRISM/Resolve probes a possible \"raining\" absorber in Mrk 509"
         ],
-        "volume": "1007",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Venselaar, Sophie M.",
-          "Ricci, Claudio",
-          "Del Palacio, Santiago",
-          "Gupta, Kriti K.",
-          "Chang, Chin-Shin",
-          "Serafinelli, Roberto",
-          "Magno, Macon A.",
-          "Mushotzky, Richard",
-          "Shablovinskaya, Elena",
-          "Kawamuro, Taiki",
-          "Treister, Ezequiel",
-          "Elford, Jacob S.",
-          "Aalto, Susanne",
-          "Privon, George C.",
-          "Koss, Michael J."
-        ],
-        "bibcode": "2026ApJ..1005...48V",
-        "doi": [
-          "10.3847/1538-4357/ae6da8"
-        ],
-        "identifier": [
-          "10.3847/1538-4357/ae6da8",
-          "2026ApJ..1005...48V"
-        ],
-        "page": [
-          "48"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "The Millimeter/X-Ray Relation in Rapidly Accreting Supermassive Black Holes at z &lt; 0.16"
-        ],
-        "volume": "1005",
+        "volume": "710",
         "year": "2026"
       },
       {
@@ -845,39 +852,41 @@
       },
       {
         "author": [
-          "Estévez, P. A.",
-          "Espejo-Moreira, J.",
-          "Sanfeliú-Alvarez, S.",
-          "Förster, F.",
-          "Muñoz Arancibia, A. M.",
-          "Cabrera-Vives, G.",
-          "Bauer, F. E.",
-          "Bayo, A.",
-          "Catelan, M.",
-          "Dastidar, R.",
-          "Hernández-García, L.",
-          "Intriago, J. A.",
-          "Pignata, G."
+          "Barbani, Filippo",
+          "Gaspari, Massimo",
+          "Piana, Olmo",
+          "Cammelli, Vieri",
+          "Jennings, Fred J.",
+          "Brustio, Davide M.",
+          "Stel, Giovanni",
+          "Olivares, Valeria",
+          "Maccagni, Filippo M.",
+          "Fournier, Martin",
+          "Tombesi, Francesco",
+          "Temi, Pasquale",
+          "Fiore, Fabrizio",
+          "Serafinelli, Roberto",
+          "Danehkar, Ashkbiz"
         ],
-        "bibcode": "2026A&A...711A.302E",
+        "bibcode": "2026A&A...711A.154B",
         "doi": [
-          "10.1051/0004-6361/202558221",
-          "10.48550/arXiv.2606.18108"
+          "10.1051/0004-6361/202659839",
+          "10.48550/arXiv.2605.27504"
         ],
         "identifier": [
-          "2026arXiv260618108E",
-          "10.48550/arXiv.2606.18108",
-          "arXiv:2606.18108",
-          "10.1051/0004-6361/202558221",
-          "2026A&A...711A.302E"
+          "2026A&A...711A.154B",
+          "10.48550/arXiv.2605.27504",
+          "arXiv:2605.27504",
+          "10.1051/0004-6361/202659839",
+          "2026arXiv260527504B"
         ],
         "page": [
-          "A302"
+          "A154"
         ],
         "pub": "Astronomy and Astrophysics",
         "publisher": "EDP",
         "title": [
-          "Querying an astronomical database using large language models: the ALeRCE text-to-SQL system"
+          "BLACKHOLEWEATHER ─ Chaotic cold accretion across the meso-scale: Variability and kinematics"
         ],
         "volume": "711",
         "year": "2026"
@@ -888,10 +897,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 482,
+    "QTime": 237,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ac125ee-7d73fd35309a95487e06a6bc",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ac28145-58b7e9fb2fd876b5090bc190",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
