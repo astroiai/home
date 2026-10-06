@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 47978856,
+  "allocatedBytes": 49487168,
   "filtered": "true",
   "response": {
     "docs": [
@@ -88,6 +88,149 @@
         "publisher": "IOP",
         "title": [
           "Empirical H- and K-band Limb Darkening for 31 CHARA Stars: A Near-infrared Benchmark for Stellar-Atmosphere Models"
+        ],
+        "volume": "172",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Kopsacheili, M.",
+          "Galbany, L.",
+          "Folatelli, G.",
+          "Phillips, M. M.",
+          "Burns, C. R.",
+          "Stritzinger, M. D.",
+          "Miao, H.-Y.",
+          "González-Bañuelos, M.",
+          "García-Benito, R.",
+          "Müller-Bravo, T. E.",
+          "Hsiao, E. Y.",
+          "Auchettl, K.",
+          "Anderson, J. P.",
+          "Ashall, C.",
+          "Chen, T.-W.",
+          "Desai, D. D.",
+          "Huber, M. E.",
+          "de Jaeger, T.",
+          "DerKacy, J. M.",
+          "Gromadzki, M.",
+          "Hinkle, J. T.",
+          "Hoogendam, W.",
+          "Jimenez-Palau, C.",
+          "Matilainen, K.",
+          "Mazzali, P. A.",
+          "Medler, K.",
+          "Morrell, N.",
+          "Pessi, T.",
+          "Pfeffer, C.",
+          "Phan, K.",
+          "Pignata, G.",
+          "Polin, A.",
+          "Sanfeliu, R.",
+          "Shappee, B. J.",
+          "Tucker, M. A.",
+          "Xiao, H.",
+          "Young, D. R."
+        ],
+        "bibcode": "2026A&A...713A.202K",
+        "doi": [
+          "10.1051/0004-6361/202660699",
+          "10.48550/arXiv.2607.08821"
+        ],
+        "identifier": [
+          "2026A&A...713A.202K",
+          "2026arXiv260708821K",
+          "arXiv:2607.08821",
+          "10.48550/arXiv.2607.08821",
+          "10.1051/0004-6361/202660699"
+        ],
+        "page": [
+          "A202"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "The type Ia supernova 2023vjh: A peculiar 1991bg-like supernova with unusually faint light curves"
+        ],
+        "volume": "713",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Buchner, Johannes",
+          "Gauger, Isabelle",
+          "Wu, Qiaoya",
+          "Starck, Hattie",
+          "Aydar, Catarina",
+          "Shen, Yue",
+          "Bennert, Vardha N.",
+          "Nandra, Kirpal",
+          "Waddell, Sophia G. H.",
+          "Merloni, Andrea",
+          "Salvato, Mara",
+          "Assef, Roberto J.",
+          "Igo, Zsofi",
+          "Bauer, Franz E.",
+          "Kim, Dong-Woo",
+          "Koekemoer, Anton M.",
+          "Schneider, Donald P."
+        ],
+        "bibcode": "2026A&A...713A..11B",
+        "doi": [
+          "10.1051/0004-6361/202659356",
+          "10.48550/arXiv.2603.22425"
+        ],
+        "identifier": [
+          "10.1051/0004-6361/202659356",
+          "2026A&A...713A..11B",
+          "2026arXiv260322425B",
+          "arXiv:2603.22425",
+          "10.48550/arXiv.2603.22425"
+        ],
+        "page": [
+          "A11"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "A large population of overmassive black hole quasars at z=0.3-0.8 revealed by eROSITA"
+        ],
+        "volume": "713",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Medan, Ilija",
+          "Stassun, Keivan G.",
+          "Way, Zachary",
+          "Stringfellow, Guy S.",
+          "Roman-Lopes, Alexandre",
+          "Li, Jiadong",
+          "Lucey, Madeline",
+          "Casey, Andrew R.",
+          "Rojas-Ayala, Bárbara",
+          "López-Valdivia, Ricardo",
+          "Fernández-Trincado, José G."
+        ],
+        "bibcode": "2026AJ....172..150M",
+        "doi": [
+          "10.3847/1538-3881/ae8d19",
+          "10.48550/arXiv.2607.19501"
+        ],
+        "identifier": [
+          "10.3847/1538-3881/ae8d19",
+          "2026arXiv260719501M",
+          "arXiv:2607.19501",
+          "10.48550/arXiv.2607.19501",
+          "2026AJ....172..150M"
+        ],
+        "page": [
+          "150"
+        ],
+        "pub": "The Astronomical Journal",
+        "publisher": "IOP",
+        "title": [
+          "A Probabilistic Framework for Population Studies of the Solar Neighborhood: Application to SDSS-V and Gaia"
         ],
         "volume": "172",
         "year": "2026"
@@ -237,145 +380,160 @@
       },
       {
         "author": [
-          "Buchner, Johannes",
-          "Gauger, Isabelle",
-          "Wu, Qiaoya",
-          "Starck, Hattie",
-          "Aydar, Catarina",
-          "Shen, Yue",
-          "Bennert, Vardha N.",
-          "Nandra, Kirpal",
-          "Waddell, Sophia G. H.",
-          "Merloni, Andrea",
-          "Salvato, Mara",
-          "Assef, Roberto J.",
-          "Igo, Zsofi",
-          "Bauer, Franz E.",
-          "Kim, Dong-Woo",
-          "Koekemoer, Anton M.",
-          "Schneider, Donald P."
-        ],
-        "bibcode": "2026A&A...713A..11B",
-        "doi": [
-          "10.1051/0004-6361/202659356",
-          "10.48550/arXiv.2603.22425"
-        ],
-        "identifier": [
-          "10.1051/0004-6361/202659356",
-          "2026A&A...713A..11B",
-          "2026arXiv260322425B",
-          "arXiv:2603.22425",
-          "10.48550/arXiv.2603.22425"
-        ],
-        "page": [
-          "A11"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "A large population of overmassive black hole quasars at z=0.3-0.8 revealed by eROSITA"
-        ],
-        "volume": "713",
-        "year": "2026"
-      },
-      {
-        "author": [
+          "Silva-Andrade, Anderson",
+          "Souto, Diogo",
+          "Cunha, Katia",
+          "Smith, Verne V.",
+          "Allende Prieto, Carlos",
+          "Schiavon, Ricardo P.",
+          "Loaiza-Tacuri, Verónica",
+          "Behmard, Aida",
+          "Bizyaev, Dmitry",
           "Medan, Ilija",
-          "Stassun, Keivan G.",
-          "Way, Zachary",
-          "Stringfellow, Guy S.",
-          "Roman-Lopes, Alexandre",
-          "Li, Jiadong",
-          "Lucey, Madeline",
-          "Casey, Andrew R.",
-          "Rojas-Ayala, Bárbara",
-          "López-Valdivia, Ricardo",
-          "Fernández-Trincado, José G."
+          "Qiu, Dan",
+          "Rojas-Ayala, Bárbara"
         ],
-        "bibcode": "2026AJ....172..150M",
+        "bibcode": "2026ApJ..1007..124S",
         "doi": [
-          "10.3847/1538-3881/ae8d19",
-          "10.48550/arXiv.2607.19501"
+          "10.3847/1538-4357/ae8bad",
+          "10.48550/arXiv.2607.24948"
         ],
         "identifier": [
-          "10.3847/1538-3881/ae8d19",
-          "2026arXiv260719501M",
-          "arXiv:2607.19501",
-          "10.48550/arXiv.2607.19501",
-          "2026AJ....172..150M"
+          "2026ApJ..1007..124S",
+          "10.3847/1538-4357/ae8bad",
+          "arXiv:2607.24948",
+          "10.48550/arXiv.2607.24948",
+          "2026arXiv260724948S"
         ],
         "page": [
-          "150"
+          "124"
         ],
-        "pub": "The Astronomical Journal",
+        "pub": "The Astrophysical Journal",
         "publisher": "IOP",
         "title": [
-          "A Probabilistic Framework for Population Studies of the Solar Neighborhood: Application to SDSS-V and Gaia"
+          "A Test of FeH Line Parameters Using DR19 APOGEE Spectra of Benchmark M Dwarfs"
         ],
-        "volume": "172",
+        "volume": "1007",
         "year": "2026"
       },
       {
         "author": [
-          "Kopsacheili, M.",
-          "Galbany, L.",
-          "Folatelli, G.",
-          "Phillips, M. M.",
-          "Burns, C. R.",
-          "Stritzinger, M. D.",
-          "Miao, H.-Y.",
-          "González-Bañuelos, M.",
-          "García-Benito, R.",
-          "Müller-Bravo, T. E.",
-          "Hsiao, E. Y.",
-          "Auchettl, K.",
-          "Anderson, J. P.",
-          "Ashall, C.",
-          "Chen, T.-W.",
-          "Desai, D. D.",
-          "Huber, M. E.",
-          "de Jaeger, T.",
-          "DerKacy, J. M.",
-          "Gromadzki, M.",
-          "Hinkle, J. T.",
-          "Hoogendam, W.",
-          "Jimenez-Palau, C.",
-          "Matilainen, K.",
-          "Mazzali, P. A.",
-          "Medler, K.",
-          "Morrell, N.",
-          "Pessi, T.",
-          "Pfeffer, C.",
-          "Phan, K.",
-          "Pignata, G.",
-          "Polin, A.",
-          "Sanfeliu, R.",
-          "Shappee, B. J.",
-          "Tucker, M. A.",
-          "Xiao, H.",
-          "Young, D. R."
+          "Stepney, Matthew",
+          "Banerji, Manda",
+          "Bauer, Franz E.",
+          "Assef, Roberto J.",
+          "Li, Guodong"
         ],
-        "bibcode": "2026A&A...713A.202K",
+        "bibcode": "2026A&A...712A.183S",
         "doi": [
-          "10.1051/0004-6361/202660699",
-          "10.48550/arXiv.2607.08821"
+          "10.1051/0004-6361/202660798",
+          "10.48550/arXiv.2605.06791"
         ],
         "identifier": [
-          "2026A&A...713A.202K",
-          "2026arXiv260708821K",
-          "arXiv:2607.08821",
-          "10.48550/arXiv.2607.08821",
-          "10.1051/0004-6361/202660699"
+          "2026arXiv260506791S",
+          "10.1051/0004-6361/202660798",
+          "10.48550/arXiv.2605.06791",
+          "arXiv:2605.06791",
+          "2026A&A...712A.183S"
         ],
         "page": [
-          "A202"
+          "A183"
         ],
         "pub": "Astronomy and Astrophysics",
         "publisher": "EDP",
         "title": [
-          "The type Ia supernova 2023vjh: A peculiar 1991bg-like supernova with unusually faint light curves"
+          "Hidden monsters with SPHEREx: I. A goldmine for heavily reddened quasars at cosmic noon"
         ],
-        "volume": "713",
+        "volume": "712",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Argudo-Fernández, M.",
+          "Torres-Ríos, G.",
+          "Vásquez-Bustos, P.",
+          "Verley, S.",
+          "Pérez, I.",
+          "Duarte Puertas, S.",
+          "Jiménez, A.",
+          "García-Benito, R.",
+          "Zurita, A.",
+          "Alcázar-Laynez, M.",
+          "Bidaran, B.",
+          "Conrado, A.",
+          "Espada, D.",
+          "Florido, E.",
+          "González Delgado, R.",
+          "Hernández-Sánchez, M.",
+          "del Moral-Castro, I.",
+          "Román, J.",
+          "Sánchez-Menguiano, L.",
+          "Subramanian, S.",
+          "Villalba-González, P."
+        ],
+        "bibcode": "2026A&A...712A..55A",
+        "doi": [
+          "10.1051/0004-6361/202659410",
+          "10.48550/arXiv.2606.17676"
+        ],
+        "identifier": [
+          "arXiv:2606.17676",
+          "2026arXiv260617676A",
+          "10.1051/0004-6361/202659410",
+          "10.48550/arXiv.2606.17676",
+          "2026A&A...712A..55A"
+        ],
+        "page": [
+          "A55"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "Galaxy groups within voids"
+        ],
+        "volume": "712",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Jana, Arghajit",
+          "Ricci, Claudio",
+          "Bauer, Franz E.",
+          "Gupta, Kriti Kamal",
+          "Trakhtenbrot, Benny",
+          "Tortosa, Alessia",
+          "Li, Ruancun",
+          "Ho, Luis C.",
+          "Mushotzky, Richard",
+          "Chang, Hsiang-Kuang",
+          "Diaz, Yaherlyn",
+          "Dimopoulos, Georgios",
+          "Kallová, Kristína",
+          "Koss, Michael J.",
+          "Paltani, Stéphane",
+          "Temple, Matthew J."
+        ],
+        "bibcode": "2026ApJ..1007L...4J",
+        "doi": [
+          "10.3847/2041-8213/ae8dc1",
+          "10.48550/arXiv.2607.19485"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2607.19485",
+          "arXiv:2607.19485",
+          "2026arXiv260719485J",
+          "2026ApJ..1007L...4J",
+          "10.3847/2041-8213/ae8dc1"
+        ],
+        "page": [
+          "L4"
+        ],
+        "pub": "The Astrophysical Journal Letters",
+        "publisher": "IOP",
+        "title": [
+          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
+        ],
+        "volume": "1007",
         "year": "2026"
       },
       {
@@ -487,48 +645,6 @@
           "Supermassive Black Hole Winds in X-rays: SUBWAYS: V. Properties of hot coronae in quasars at intermediate-redshift"
         ],
         "volume": "712",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Jana, Arghajit",
-          "Ricci, Claudio",
-          "Bauer, Franz E.",
-          "Gupta, Kriti Kamal",
-          "Trakhtenbrot, Benny",
-          "Tortosa, Alessia",
-          "Li, Ruancun",
-          "Ho, Luis C.",
-          "Mushotzky, Richard",
-          "Chang, Hsiang-Kuang",
-          "Diaz, Yaherlyn",
-          "Dimopoulos, Georgios",
-          "Kallová, Kristína",
-          "Koss, Michael J.",
-          "Paltani, Stéphane",
-          "Temple, Matthew J."
-        ],
-        "bibcode": "2026ApJ..1007L...4J",
-        "doi": [
-          "10.3847/2041-8213/ae8dc1",
-          "10.48550/arXiv.2607.19485"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2607.19485",
-          "arXiv:2607.19485",
-          "2026arXiv260719485J",
-          "2026ApJ..1007L...4J",
-          "10.3847/2041-8213/ae8dc1"
-        ],
-        "page": [
-          "L4"
-        ],
-        "pub": "The Astrophysical Journal Letters",
-        "publisher": "IOP",
-        "title": [
-          "Extreme Variability Reveals How the Eddington Ratio Regulates Coronal Power in Active Galactic Nuclei"
-        ],
-        "volume": "1007",
         "year": "2026"
       },
       {
@@ -651,118 +767,279 @@
       },
       {
         "author": [
-          "Argudo-Fernández, M.",
-          "Torres-Ríos, G.",
-          "Vásquez-Bustos, P.",
-          "Verley, S.",
-          "Pérez, I.",
-          "Duarte Puertas, S.",
-          "Jiménez, A.",
-          "García-Benito, R.",
-          "Zurita, A.",
-          "Alcázar-Laynez, M.",
-          "Bidaran, B.",
-          "Conrado, A.",
-          "Espada, D.",
-          "Florido, E.",
-          "González Delgado, R.",
-          "Hernández-Sánchez, M.",
-          "del Moral-Castro, I.",
-          "Román, J.",
-          "Sánchez-Menguiano, L.",
-          "Subramanian, S.",
-          "Villalba-González, P."
+          "Estévez, P. A.",
+          "Espejo-Moreira, J.",
+          "Sanfeliú-Alvarez, S.",
+          "Förster, F.",
+          "Muñoz Arancibia, A. M.",
+          "Cabrera-Vives, G.",
+          "Bauer, F. E.",
+          "Bayo, A.",
+          "Catelan, M.",
+          "Dastidar, R.",
+          "Hernández-García, L.",
+          "Intriago, J. A.",
+          "Pignata, G."
         ],
-        "bibcode": "2026A&A...712A..55A",
+        "bibcode": "2026A&A...711A.302E",
         "doi": [
-          "10.1051/0004-6361/202659410",
-          "10.48550/arXiv.2606.17676"
+          "10.1051/0004-6361/202558221",
+          "10.48550/arXiv.2606.18108"
         ],
         "identifier": [
-          "arXiv:2606.17676",
-          "2026arXiv260617676A",
-          "10.1051/0004-6361/202659410",
-          "10.48550/arXiv.2606.17676",
-          "2026A&A...712A..55A"
+          "2026arXiv260618108E",
+          "10.48550/arXiv.2606.18108",
+          "arXiv:2606.18108",
+          "10.1051/0004-6361/202558221",
+          "2026A&A...711A.302E"
         ],
         "page": [
-          "A55"
+          "A302"
         ],
         "pub": "Astronomy and Astrophysics",
         "publisher": "EDP",
         "title": [
-          "Galaxy groups within voids"
+          "Querying an astronomical database using large language models: the ALeRCE text-to-SQL system"
         ],
-        "volume": "712",
+        "volume": "711",
         "year": "2026"
       },
       {
         "author": [
-          "Silva-Andrade, Anderson",
-          "Souto, Diogo",
-          "Cunha, Katia",
-          "Smith, Verne V.",
-          "Allende Prieto, Carlos",
-          "Schiavon, Ricardo P.",
-          "Loaiza-Tacuri, Verónica",
+          "SDSS Collaboration",
+          "Aghakhanloo, Mojgan",
+          "Aird, James",
+          "Almeida, Andrés",
+          "Amrita, Singh",
+          "Anders, Friedrich",
+          "Anderson, Scott F.",
+          "Arseneau, Stefan",
+          "González Ávila, Consuelo",
+          "Aviram, Shir",
+          "Aydar, Catarina",
+          "Badenes, Carles",
+          "Barrera-Ballesteros, Jorge K.",
+          "Bauer, Franz E.",
           "Behmard, Aida",
+          "Berg, Michelle",
+          "Besser, F.",
+          "Moni Bidin, Christian",
           "Bizyaev, Dmitry",
+          "Blanc, Guillermo",
+          "Blanton, Michael R.",
+          "Bovy, Jo",
+          "Brandt, William Nielsen",
+          "Brownstein, Joel R.",
+          "Buchner, Johannes",
+          "Bulbul, Esra",
+          "Burchett, Joseph N.",
+          "Carigi, Leticia",
+          "Carlberg, Joleen K.",
+          "Casey, Andrew R.",
+          "Chakraborty, Priyanka",
+          "Chanamé, Julio",
+          "Chandra, Vedant",
+          "Chiappini, Cristina",
+          "Chilingarian, Igor",
+          "Comparat, Johan",
+          "Covey, Kevin",
+          "Crumpler, Nicole",
+          "Cunha, Katia",
+          "D'Onghia, Elena",
+          "Dai, Xinyu",
+          "Darling, Jeremy",
+          "Davis, Megan",
+          "De Lee, Nathan",
+          "Deacon, Niall",
+          "Méndez Delgado, José Eduardo",
+          "Demasi, Sebastian",
+          "Demianenko, Mariia",
+          "Demke, Delvin",
+          "Donor, John",
+          "Drory, Niv",
+          "Villa Durango, Monica Alejandra",
+          "Dwelly, Tom",
+          "Egorov, Oleg",
+          "Egorova, Evgeniya",
+          "El-Badry, Kareem",
+          "Eracleous, Mike",
+          "Fan, Xiaohui",
+          "Farr, Emily",
+          "Finkbeiner, Douglas P.",
+          "Fries, Logan",
+          "Frinchaboy, Peter",
+          "Gentile Fusillo, Nicola Pietro",
+          "Serrano Félix, Luis Daniel",
+          "Gänsicke, Boris T.",
+          "Galligan, Emma",
+          "García, Pablo",
+          "Gelfand, Joseph",
+          "Grabowski, Katie",
+          "Grebel, Eva",
+          "Green, Paul J.",
+          "Greve, Hannah",
+          "Grier, Catherine",
+          "Griffith, Emily J.",
+          "Guetzoyan, Paloma",
+          "Gupta, Pramod",
+          "Hackshaw, Zoe",
+          "Hall, Patrick B.",
+          "Hawkins, Keith",
+          "Hegedűs, Viola",
+          "Hekker, Saskia",
+          "Herbst, T. M.",
+          "Hermes, J. J.",
+          "Hernández-García, Lorena",
+          "Hiremath, Pranavi",
+          "Hogg, David W.",
+          "Holtzman, Jon",
+          "Horne, Keith",
+          "Horta, Danny",
+          "Huang, Yang",
+          "Hutchinson, Brian",
+          "Häberle, Maximilian",
+          "Ibarra-Medel, Hector Javier",
+          "Ji, Alexander P.",
+          "Jofre, Paula",
+          "Johnson, James W.",
+          "Johnson, Jennifer",
+          "Johnston, Evelyn J.",
+          "Kaldor, Mary",
+          "Katkov, Ivan",
+          "Khalatyan, Arman",
+          "Khoperskov, Sergey",
+          "Klessen, Ralf",
+          "Kluge, Matthias",
+          "Koekemoer, Anton M.",
+          "Kollmeier, Juna A.",
+          "Kounkel, Marina",
+          "Kreckel, Kathryn",
+          "Krishnarao, Dhanesh",
+          "Krumpe, Mirko",
+          "Lacerna, Ivan",
+          "Laporte, Chervin",
+          "Lépine, Sébastien",
+          "Li, Jing",
+          "Liang, Fu-Heng",
+          "Limberg, Guilherme",
+          "Liu, Xin",
+          "Loebman, Sarah",
+          "Long, Knox",
+          "Lu, Yuxi(Lucy)",
+          "Lucey, Madeline",
+          "Lugo-Aranda, Alejandra Z.",
+          "Martínez-Aldama, Mary Loli",
+          "McKinnon, Kevin A.",
           "Medan, Ilija",
-          "Qiu, Dan",
-          "Rojas-Ayala, Bárbara"
+          "Merloni, Andrea",
+          "Morrison, Sean",
+          "Myers, Natalie",
+          "Mészáros, Szabolcs",
+          "Müller-Horn, Johanna",
+          "Nepal, Samir",
+          "Ness, Melissa",
+          "Nidever, David",
+          "Nitschelm, Christian",
+          "Oravetz, Audrey",
+          "Otto, Jonah",
+          "Adamane Pallathadka, Gautham",
+          "Pan, Kaike",
+          "Pérez Paolino, Facundo",
+          "Negrete Peñaloza, Castalia Alenka",
+          "Pinsonneault, Marc",
+          "Taghizadeh-Popp, Manuchehr",
+          "Price-Whelan, Adrian",
+          "Pulatova, Nadiia",
+          "Queiroz, A. B. A.",
+          "Raddick, Jordan",
+          "Rankine, Amy L.",
+          "Rix, Hans-Walter",
+          "Román-Zúñiga, Carlos G.",
+          "Fernández Rosso, Daniela",
+          "Runnoe, Jessie",
+          "Saad, Serat Mahmud",
+          "Salvato, Mara",
+          "Sanchez, Sebastian F.",
+          "Sattler, Natascha",
+          "Saydjari, Andrew K.",
+          "Sayres, Conor",
+          "Schlaufman, Kevin C.",
+          "Schneider, Donald P.",
+          "Schwope, Axel",
+          "Seaton, Lucas M.",
+          "Seeburger, Rhys",
+          "Serna, Javier",
+          "Sharma, Sanjib",
+          "Shen, Yue",
+          "Sinha, Amaya",
+          "Sizemore, Logan",
+          "Sniegowska, Marzena",
+          "Song, Ying-Yi",
+          "Souto, Diogo",
+          "Stassun, Keivan G.",
+          "Steinmetz, Matthias",
+          "Stone, Zachary",
+          "Stone-Martinez, Alexander",
+          "Stringfellow, Guy S.",
+          "Mata Sánchez, Aurora",
+          "Sánchez-Gallego, José",
+          "Tan, Jonathan C.",
+          "Tayar, Jamie",
+          "Thai, Riley",
+          "Thakar, Ani",
+          "Thibodeaux, Pierre",
+          "Ting, Yuan-Sen",
+          "Tkachenko, Andrew",
+          "Trakhtenbrot, Benny",
+          "Fernández-Trincado, José G.",
+          "Troup, Nicholas",
+          "Trump, Jonathan R.",
+          "Ulloa, Natalie",
+          "Van Der Marel, Roeland P.",
+          "Vera, Pablo",
+          "Villanova, Sandro",
+          "Villaseñor, Jaime I.",
+          "Wang, Ji",
+          "Way, Zachary",
+          "Weijmans, Anne-Marie",
+          "Wheeler, Adam",
+          "Wilson, John C.",
+          "Wofford, Aida",
+          "Wong, Tony",
+          "Wu, Qiaoya",
+          "Wylezalek, Dominika",
+          "Xue, Xiang-Xiang",
+          "Yan, Renbin",
+          "Yang, Qian",
+          "Zakamska, Nadia",
+          "Zari, Eleonora",
+          "Zasowski, Gail",
+          "Zeltyn, Grisha",
+          "Zheng, Zheng",
+          "Zucker, Catherine",
+          "Zermeño, Rodolfo de J."
         ],
-        "bibcode": "2026ApJ..1007..124S",
+        "bibcode": "2026ApJS..285....9S",
         "doi": [
-          "10.3847/1538-4357/ae8bad",
-          "10.48550/arXiv.2607.24948"
+          "10.3847/1538-4365/ae4697",
+          "10.48550/arXiv.2507.07093"
         ],
         "identifier": [
-          "2026ApJ..1007..124S",
-          "10.3847/1538-4357/ae8bad",
-          "arXiv:2607.24948",
-          "10.48550/arXiv.2607.24948",
-          "2026arXiv260724948S"
+          "2026ApJS..285....9S",
+          "10.48550/arXiv.2507.07093",
+          "10.3847/1538-4365/ae4697",
+          "2025arXiv250707093S",
+          "arXiv:2507.07093"
         ],
         "page": [
-          "124"
+          "9"
         ],
-        "pub": "The Astrophysical Journal",
+        "pub": "The Astrophysical Journal Supplement Series",
         "publisher": "IOP",
         "title": [
-          "A Test of FeH Line Parameters Using DR19 APOGEE Spectra of Benchmark M Dwarfs"
+          "The Nineteenth Data Release of the Sloan Digital Sky Survey"
         ],
-        "volume": "1007",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Stepney, Matthew",
-          "Banerji, Manda",
-          "Bauer, Franz E.",
-          "Assef, Roberto J.",
-          "Li, Guodong"
-        ],
-        "bibcode": "2026A&A...712A.183S",
-        "doi": [
-          "10.1051/0004-6361/202660798",
-          "10.48550/arXiv.2605.06791"
-        ],
-        "identifier": [
-          "2026arXiv260506791S",
-          "10.1051/0004-6361/202660798",
-          "10.48550/arXiv.2605.06791",
-          "arXiv:2605.06791",
-          "2026A&A...712A.183S"
-        ],
-        "page": [
-          "A183"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "Hidden monsters with SPHEREx: I. A goldmine for heavily reddened quasars at cosmic noon"
-        ],
-        "volume": "712",
+        "volume": "285",
         "year": "2026"
       },
       {
@@ -808,88 +1085,6 @@
         ],
         "volume": "710",
         "year": "2026"
-      },
-      {
-        "author": [
-          "Barbani, Filippo",
-          "Gaspari, Massimo",
-          "Cammelli, Vieri",
-          "Piana, Olmo",
-          "Jennings, Fred J.",
-          "Brustio, Davide M.",
-          "Stel, Giovanni",
-          "Olivares, Valeria",
-          "Maccagni, Filippo M.",
-          "Fournier, Martin",
-          "Tombesi, Francesco",
-          "Temi, Pasquale",
-          "Fiore, Fabrizio",
-          "Serafinelli, Roberto",
-          "Danehkar, Ashkbiz"
-        ],
-        "bibcode": "2026A&A...711A.153B",
-        "doi": [
-          "10.1051/0004-6361/202659838",
-          "10.48550/arXiv.2605.27507"
-        ],
-        "identifier": [
-          "2026arXiv260527507B",
-          "2026A&A...711A.153B",
-          "10.48550/arXiv.2605.27507",
-          "arXiv:2605.27507",
-          "10.1051/0004-6361/202659838"
-        ],
-        "page": [
-          "A153"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "BLACKHOLEWEATHER ─ Chaotic cold accretion across the meso-scale: Morphology and thermodynamics"
-        ],
-        "volume": "711",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Barbani, Filippo",
-          "Gaspari, Massimo",
-          "Piana, Olmo",
-          "Cammelli, Vieri",
-          "Jennings, Fred J.",
-          "Brustio, Davide M.",
-          "Stel, Giovanni",
-          "Olivares, Valeria",
-          "Maccagni, Filippo M.",
-          "Fournier, Martin",
-          "Tombesi, Francesco",
-          "Temi, Pasquale",
-          "Fiore, Fabrizio",
-          "Serafinelli, Roberto",
-          "Danehkar, Ashkbiz"
-        ],
-        "bibcode": "2026A&A...711A.154B",
-        "doi": [
-          "10.1051/0004-6361/202659839",
-          "10.48550/arXiv.2605.27504"
-        ],
-        "identifier": [
-          "2026A&A...711A.154B",
-          "10.48550/arXiv.2605.27504",
-          "arXiv:2605.27504",
-          "10.1051/0004-6361/202659839",
-          "2026arXiv260527504B"
-        ],
-        "page": [
-          "A154"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "BLACKHOLEWEATHER ─ Chaotic cold accretion across the meso-scale: Variability and kinematics"
-        ],
-        "volume": "711",
-        "year": "2026"
       }
     ],
     "numFound": 2170,
@@ -897,10 +1092,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 237,
+    "QTime": 281,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ac28145-58b7e9fb2fd876b5090bc190",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ac538ae-5544a3ef6901e8953b296e71",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
