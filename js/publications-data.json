@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 46424704,
+  "allocatedBytes": 49068416,
   "filtered": "true",
   "response": {
     "docs": [
@@ -937,10 +937,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 389,
+    "QTime": 449,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ac92dc7-792a85f779882b77003ed396",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6aca7107-059911ef1e332fe32d705880",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
