@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 55646696,
+  "allocatedBytes": 54573792,
   "filtered": "true",
   "response": {
     "docs": [
@@ -210,6 +210,39 @@
           "SN 2018bsz: Significant Dust Formation in a Nearby Superluminous Supernova"
         ],
         "volume": "1009",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Navarrete, Camila",
+          "Rojas-Arriagada, Álvaro",
+          "Piatti, Andrés E.",
+          "Carballo-Bello, Julio A.",
+          "Sbordone, Luca",
+          "Kundu, Richa",
+          "Belokurov, Vasily",
+          "Koposov, Sergey E.",
+          "Vitral, Eduardo",
+          "Boldrini, Pierre",
+          "Palicio, Pedro A."
+        ],
+        "bibcode": "2026A&A...714A..39N",
+        "doi": [
+          "10.1051/0004-6361/202558557"
+        ],
+        "identifier": [
+          "2026A&A...714A..39N",
+          "10.1051/0004-6361/202558557"
+        ],
+        "page": [
+          "A39"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "Neighbors, not kin: Kinematic evidence of tidal tails from NGC 7492 along the Sagittarius stream"
+        ],
+        "volume": "714",
         "year": "2026"
       },
       {
@@ -431,39 +464,6 @@
           "Deep Imaging of Grus II and Horologium. II. Structure and Extent of Two Ultrafaint Milky Way Satellites"
         ],
         "volume": "1010",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Navarrete, Camila",
-          "Rojas-Arriagada, Álvaro",
-          "Piatti, Andrés E.",
-          "Carballo-Bello, Julio A.",
-          "Sbordone, Luca",
-          "Kundu, Richa",
-          "Belokurov, Vasily",
-          "Koposov, Sergey E.",
-          "Vitral, Eduardo",
-          "Boldrini, Pierre",
-          "Palicio, Pedro A."
-        ],
-        "bibcode": "2026A&A...714A..39N",
-        "doi": [
-          "10.1051/0004-6361/202558557"
-        ],
-        "identifier": [
-          "2026A&A...714A..39N",
-          "10.1051/0004-6361/202558557"
-        ],
-        "page": [
-          "A39"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "Neighbors, not kin: Kinematic evidence of tidal tails from NGC 7492 along the Sagittarius stream"
-        ],
-        "volume": "714",
         "year": "2026"
       },
       {
@@ -1001,10 +1001,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 481,
+    "QTime": 392,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ade24ab-4dee55f87ed082885142c2ea",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6adf9bc7-6841c27723d38af93e1e9799",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
