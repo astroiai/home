@@ -1,9 +1,59 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 47010048,
+  "allocatedBytes": 49598768,
   "filtered": "true",
   "response": {
     "docs": [
+      {
+        "author": [
+          "Severgnini, P.",
+          "Vignali, C.",
+          "De Rosa, A.",
+          "Portaluri, E.",
+          "Rigamonti, F.",
+          "Battistini, L.",
+          "Bertassi, L.",
+          "Bertola, E.",
+          "Bianchi, S.",
+          "Bortolas, E.",
+          "Cicone, C.",
+          "D'Amato, Q.",
+          "Della Ceca, R.",
+          "Delvecchio, I.",
+          "Dotti, M.",
+          "Harms, J.",
+          "Lamperti, I.",
+          "Mannucci, F.",
+          "Parvatikar, M.",
+          "Sala, B.",
+          "Scialpi, M.",
+          "Serafinelli, R.",
+          "Singh, J.",
+          "Zanchettin, M. V."
+        ],
+        "bibcode": "2026NewA..12802610S",
+        "doi": [
+          "10.1016/j.newast.2026.102610",
+          "10.48550/arXiv.2606.30727"
+        ],
+        "identifier": [
+          "2026NewA..12802610S",
+          "10.1016/j.newast.2026.102610",
+          "2026arXiv260630727S",
+          "10.48550/arXiv.2606.30727",
+          "arXiv:2606.30727"
+        ],
+        "page": [
+          "102610"
+        ],
+        "pub": "New Astronomy",
+        "publisher": "Elsevier",
+        "title": [
+          "A new era for dual AGN science with SHARP"
+        ],
+        "volume": "128",
+        "year": "2026"
+      },
       {
         "author": [
           "Liao, Cheng-Lin",
@@ -60,52 +110,59 @@
       },
       {
         "author": [
-          "Severgnini, P.",
-          "Vignali, C.",
-          "De Rosa, A.",
-          "Portaluri, E.",
-          "Rigamonti, F.",
-          "Battistini, L.",
-          "Bertassi, L.",
-          "Bertola, E.",
-          "Bianchi, S.",
-          "Bortolas, E.",
-          "Cicone, C.",
-          "D'Amato, Q.",
-          "Della Ceca, R.",
-          "Delvecchio, I.",
-          "Dotti, M.",
-          "Harms, J.",
-          "Lamperti, I.",
-          "Mannucci, F.",
-          "Parvatikar, M.",
-          "Sala, B.",
-          "Scialpi, M.",
-          "Serafinelli, R.",
-          "Singh, J.",
-          "Zanchettin, M. V."
+          "Prabhu, Deepthi S.",
+          "Sand, David J.",
+          "Chiti, Anirudh",
+          "Mutlu-Pakdil, Burçin",
+          "Campana, Sasha N.",
+          "Carlin, J. L.",
+          "Ji, A. P.",
+          "Jensen, Jaclyn",
+          "Martínez-Vázquez, C. E.",
+          "Zaritsky, Dennis",
+          "Pace, A. B.",
+          "Riley, A. H.",
+          "Crnojević, D.",
+          "Limberg, G.",
+          "Hunter, Laura Congreve",
+          "Spekkens, Kristine",
+          "Jones, Michael G.",
+          "Doliva-Dolinsky, Amandine",
+          "Bennet, Paul",
+          "Placco, V. M.",
+          "Casey, Quinn O.",
+          "Herron, Guinevere",
+          "Cerny, W.",
+          "Kallivayalil, Nitya",
+          "Choi, Y.",
+          "Stringfellow, Guy S.",
+          "Nidever, D. L.",
+          "Carballo-Bello, J. A.",
+          "Navabi, M.",
+          "Massana, P.",
+          "Medina, G. E.",
+          "Noël, N. E. D.",
+          "James, D. J.",
+          "(Magic",
+          "Delve Collaborations)"
         ],
-        "bibcode": "2026NewA..12802610S",
+        "bibcode": "2026ApJ..1010..150P",
         "doi": [
-          "10.1016/j.newast.2026.102610",
-          "10.48550/arXiv.2606.30727"
+          "10.3847/1538-4357/aea977"
         ],
         "identifier": [
-          "2026NewA..12802610S",
-          "10.1016/j.newast.2026.102610",
-          "2026arXiv260630727S",
-          "10.48550/arXiv.2606.30727",
-          "arXiv:2606.30727"
+          "2026ApJ..1010..150P",
+          "10.3847/1538-4357/aea977"
         ],
         "page": [
-          "102610"
+          "150"
         ],
-        "pub": "New Astronomy",
-        "publisher": "Elsevier",
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
         "title": [
-          "A new era for dual AGN science with SHARP"
+          "Deep Imaging of Grus II and Horologium. II. Structure and Extent of Two Ultrafaint Milky Way Satellites"
         ],
-        "volume": "128",
+        "volume": "1010",
         "year": "2026"
       },
       {
@@ -153,6 +210,72 @@
           "An Exploratory Analysis of New Large Gaia-informed Quasar Samples in SDSS-V"
         ],
         "volume": "1010",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Chen, T.-W.",
+          "Brennan, S. J.",
+          "Wesson, R.",
+          "Fraser, M.",
+          "Schweyer, T.",
+          "Inserra, C.",
+          "Schulze, S.",
+          "Nicholl, M.",
+          "Anderson, J. P.",
+          "Hsiao, E. Y.",
+          "Jerkstrand, A.",
+          "Kankare, E.",
+          "Kool, E. C.",
+          "Kravtsov, T.",
+          "Kuncarayakti, H.",
+          "Leloudas, G.",
+          "Li, C.-J.",
+          "Matsuura, M.",
+          "Pursiainen, M.",
+          "Roy, R.",
+          "Ruiter, A. J.",
+          "Schady, P.",
+          "Seitenzahl, I. R.",
+          "Sollerman, J.",
+          "Tartaglia, L.",
+          "Wang, L.",
+          "Yates, R. M.",
+          "Yang, S.",
+          "Baade, D.",
+          "Carini, R.",
+          "Gal-Yam, A.",
+          "Galbany, L.",
+          "González-Gaitán, S.",
+          "Gromadzki, M.",
+          "Gutiérrez, C. P.",
+          "Kotak, R.",
+          "Maguire, K.",
+          "Mazzali, P. A.",
+          "Müller-Bravo, T. E.",
+          "Paraskeva, E.",
+          "Pessi, P. J.",
+          "Pignata, G.",
+          "Rau, A.",
+          "Young, D. R."
+        ],
+        "bibcode": "2026ApJ..1009..180C",
+        "doi": [
+          "10.3847/1538-4357/ae91e7"
+        ],
+        "identifier": [
+          "2026ApJ..1009..180C",
+          "10.3847/1538-4357/ae91e7"
+        ],
+        "page": [
+          "180"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "SN 2018bsz: Significant Dust Formation in a Nearby Superluminous Supernova"
+        ],
+        "volume": "1009",
         "year": "2026"
       },
       {
@@ -435,63 +558,6 @@
       },
       {
         "author": [
-          "Prabhu, Deepthi S.",
-          "Sand, David J.",
-          "Chiti, Anirudh",
-          "Mutlu-Pakdil, Burçin",
-          "Campana, Sasha N.",
-          "Carlin, J. L.",
-          "Ji, A. P.",
-          "Jensen, Jaclyn",
-          "Martínez-Vázquez, C. E.",
-          "Zaritsky, Dennis",
-          "Pace, A. B.",
-          "Riley, A. H.",
-          "Crnojević, D.",
-          "Limberg, G.",
-          "Hunter, Laura Congreve",
-          "Spekkens, Kristine",
-          "Jones, Michael G.",
-          "Doliva-Dolinsky, Amandine",
-          "Bennet, Paul",
-          "Placco, V. M.",
-          "Casey, Quinn O.",
-          "Herron, Guinevere",
-          "Cerny, W.",
-          "Kallivayalil, Nitya",
-          "Choi, Y.",
-          "Stringfellow, Guy S.",
-          "Nidever, D. L.",
-          "Carballo-Bello, J. A.",
-          "Navabi, M.",
-          "Massana, P.",
-          "Medina, G. E.",
-          "Noël, N. E. D.",
-          "James, D. J.",
-          "(Magic",
-          "Delve Collaborations)"
-        ],
-        "bibcode": "2026ApJ..1010..150P",
-        "doi": [
-          "10.3847/1538-4357/aea977"
-        ],
-        "identifier": [
-          "2026ApJ..1010..150P",
-          "10.3847/1538-4357/aea977"
-        ],
-        "page": [
-          "150"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "Deep Imaging of Grus II and Horologium. II. Structure and Extent of Two Ultrafaint Milky Way Satellites"
-        ],
-        "volume": "1010",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Anugu, Narsireddy",
           "Monnier, John D.",
           "Mérand, Antoine",
@@ -526,72 +592,6 @@
           "Empirical H- and K-band Limb Darkening for 31 CHARA Stars: A Near-infrared Benchmark for Stellar-Atmosphere Models"
         ],
         "volume": "172",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Chen, T.-W.",
-          "Brennan, S. J.",
-          "Wesson, R.",
-          "Fraser, M.",
-          "Schweyer, T.",
-          "Inserra, C.",
-          "Schulze, S.",
-          "Nicholl, M.",
-          "Anderson, J. P.",
-          "Hsiao, E. Y.",
-          "Jerkstrand, A.",
-          "Kankare, E.",
-          "Kool, E. C.",
-          "Kravtsov, T.",
-          "Kuncarayakti, H.",
-          "Leloudas, G.",
-          "Li, C.-J.",
-          "Matsuura, M.",
-          "Pursiainen, M.",
-          "Roy, R.",
-          "Ruiter, A. J.",
-          "Schady, P.",
-          "Seitenzahl, I. R.",
-          "Sollerman, J.",
-          "Tartaglia, L.",
-          "Wang, L.",
-          "Yates, R. M.",
-          "Yang, S.",
-          "Baade, D.",
-          "Carini, R.",
-          "Gal-Yam, A.",
-          "Galbany, L.",
-          "González-Gaitán, S.",
-          "Gromadzki, M.",
-          "Gutiérrez, C. P.",
-          "Kotak, R.",
-          "Maguire, K.",
-          "Mazzali, P. A.",
-          "Müller-Bravo, T. E.",
-          "Paraskeva, E.",
-          "Pessi, P. J.",
-          "Pignata, G.",
-          "Rau, A.",
-          "Young, D. R."
-        ],
-        "bibcode": "2026ApJ..1009..180C",
-        "doi": [
-          "10.3847/1538-4357/ae91e7"
-        ],
-        "identifier": [
-          "2026ApJ..1009..180C",
-          "10.3847/1538-4357/ae91e7"
-        ],
-        "page": [
-          "180"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "SN 2018bsz: Significant Dust Formation in a Nearby Superluminous Supernova"
-        ],
-        "volume": "1009",
         "year": "2026"
       },
       {
@@ -714,6 +714,57 @@
       },
       {
         "author": [
+          "Ertini, K.",
+          "Anderson, J. P.",
+          "Folatelli, G.",
+          "González-Gaitán, S.",
+          "Gutiérrez, C. P.",
+          "Sollerman, J.",
+          "Rodríguez, O.",
+          "Aryan, A.",
+          "Chen, T.-W.",
+          "Concepcion, E.",
+          "Cosentino, S. P.",
+          "Dennefeld, M.",
+          "Erasmus, N.",
+          "Fraser, M.",
+          "Galbany, L.",
+          "Gromadzki, M.",
+          "Inserra, C.",
+          "Müller-Bravo, T. E.",
+          "Pessi, P. J.",
+          "Pessi, T.",
+          "Petrushevska, T.",
+          "Pignata, G.",
+          "Ragosta, F.",
+          "Srivastav, S.",
+          "Young, D. R."
+        ],
+        "bibcode": "2026A&A...713A..29E",
+        "doi": [
+          "10.1051/0004-6361/202659242",
+          "10.48550/arXiv.2602.03638"
+        ],
+        "identifier": [
+          "arXiv:2602.03638",
+          "2026arXiv260203638E",
+          "2026A&A...713A..29E",
+          "10.48550/arXiv.2602.03638",
+          "10.1051/0004-6361/202659242"
+        ],
+        "page": [
+          "A29"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "Light curve and spectral properties of Type II supernovae from the ATLAS survey"
+        ],
+        "volume": "713",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Kopsacheili, M.",
           "Galbany, L.",
           "Folatelli, G.",
@@ -828,57 +879,6 @@
       },
       {
         "author": [
-          "Ertini, K.",
-          "Anderson, J. P.",
-          "Folatelli, G.",
-          "González-Gaitán, S.",
-          "Gutiérrez, C. P.",
-          "Sollerman, J.",
-          "Rodríguez, O.",
-          "Aryan, A.",
-          "Chen, T.-W.",
-          "Concepcion, E.",
-          "Cosentino, S. P.",
-          "Dennefeld, M.",
-          "Erasmus, N.",
-          "Fraser, M.",
-          "Galbany, L.",
-          "Gromadzki, M.",
-          "Inserra, C.",
-          "Müller-Bravo, T. E.",
-          "Pessi, P. J.",
-          "Pessi, T.",
-          "Petrushevska, T.",
-          "Pignata, G.",
-          "Ragosta, F.",
-          "Srivastav, S.",
-          "Young, D. R."
-        ],
-        "bibcode": "2026A&A...713A..29E",
-        "doi": [
-          "10.1051/0004-6361/202659242",
-          "10.48550/arXiv.2602.03638"
-        ],
-        "identifier": [
-          "arXiv:2602.03638",
-          "2026arXiv260203638E",
-          "2026A&A...713A..29E",
-          "10.48550/arXiv.2602.03638",
-          "10.1051/0004-6361/202659242"
-        ],
-        "page": [
-          "A29"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "Light curve and spectral properties of Type II supernovae from the ATLAS survey"
-        ],
-        "volume": "713",
-        "year": "2026"
-      },
-      {
-        "author": [
           "van Hoof, Agnes P. C.",
           "Jonker, Peter G.",
           "Tommel, Lieke",
@@ -919,43 +919,6 @@
           "Optical observations of candidate host galaxies of eight fast X-ray transients"
         ],
         "volume": "713",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Medan, Ilija",
-          "Stassun, Keivan G.",
-          "Way, Zachary",
-          "Stringfellow, Guy S.",
-          "Roman-Lopes, Alexandre",
-          "Li, Jiadong",
-          "Lucey, Madeline",
-          "Casey, Andrew R.",
-          "Rojas-Ayala, Bárbara",
-          "López-Valdivia, Ricardo",
-          "Fernández-Trincado, José G."
-        ],
-        "bibcode": "2026AJ....172..150M",
-        "doi": [
-          "10.3847/1538-3881/ae8d19",
-          "10.48550/arXiv.2607.19501"
-        ],
-        "identifier": [
-          "10.3847/1538-3881/ae8d19",
-          "2026arXiv260719501M",
-          "arXiv:2607.19501",
-          "10.48550/arXiv.2607.19501",
-          "2026AJ....172..150M"
-        ],
-        "page": [
-          "150"
-        ],
-        "pub": "The Astronomical Journal",
-        "publisher": "IOP",
-        "title": [
-          "A Probabilistic Framework for Population Studies of the Solar Neighborhood: Application to SDSS-V and Gaia"
-        ],
-        "volume": "172",
         "year": "2026"
       },
       {
@@ -1048,6 +1011,43 @@
         ],
         "volume": "713",
         "year": "2026"
+      },
+      {
+        "author": [
+          "Medan, Ilija",
+          "Stassun, Keivan G.",
+          "Way, Zachary",
+          "Stringfellow, Guy S.",
+          "Roman-Lopes, Alexandre",
+          "Li, Jiadong",
+          "Lucey, Madeline",
+          "Casey, Andrew R.",
+          "Rojas-Ayala, Bárbara",
+          "López-Valdivia, Ricardo",
+          "Fernández-Trincado, José G."
+        ],
+        "bibcode": "2026AJ....172..150M",
+        "doi": [
+          "10.3847/1538-3881/ae8d19",
+          "10.48550/arXiv.2607.19501"
+        ],
+        "identifier": [
+          "10.3847/1538-3881/ae8d19",
+          "2026arXiv260719501M",
+          "arXiv:2607.19501",
+          "10.48550/arXiv.2607.19501",
+          "2026AJ....172..150M"
+        ],
+        "page": [
+          "150"
+        ],
+        "pub": "The Astronomical Journal",
+        "publisher": "IOP",
+        "title": [
+          "A Probabilistic Framework for Population Studies of the Solar Neighborhood: Application to SDSS-V and Gaia"
+        ],
+        "volume": "172",
+        "year": "2026"
       }
     ],
     "numFound": 2183,
@@ -1055,10 +1055,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 516,
+    "QTime": 229,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ae239a0-6ed76ff10875b78a7f4753ef",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6ae38cd4-6d8e7a4d7d26831f6e27f051",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
