@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 52751136,
+  "allocatedBytes": 50189944,
   "filtered": "true",
   "response": {
     "docs": [
@@ -179,6 +179,110 @@
       },
       {
         "author": [
+          "Nakane, Minami",
+          "Kokorev, Vasily",
+          "Fujimoto, Seiji",
+          "Ouchi, Masami",
+          "McLeod, Derek J.",
+          "Golubchik, Miriam",
+          "Oguri, Masamune",
+          "Zitrin, Adi",
+          "Bondestam, Cecilia",
+          "Donnan, Callum T.",
+          "Brammer, Gabriel",
+          "Finkelstein, Steven L.",
+          "Willott, Chris",
+          "Rihtaršič, Gregor",
+          "Desprez, Guillaume",
+          "Adamo, Angela",
+          "Vanzella, Eros",
+          "Bradač, Maruša",
+          "Messa, Matteo",
+          "Yanagisawa, Hiroto",
+          "Sun, Fengwu",
+          "Ferguson, Henry C.",
+          "Lucas, Ray A.",
+          "Coe, Dan",
+          "Richard, Johan",
+          "Abdurro'uf",
+          "Akins, Hollis B.",
+          "Allingham, Joseph F. V.",
+          "Amorín, Ricardo O.",
+          "Asada, Yoshihisa",
+          "Atek, Hakim",
+          "Bauer, Franz E.",
+          "Bezanson, Rachel",
+          "Bradley, Larry D.",
+          "Chisholm, John",
+          "Conselice, Christopher J.",
+          "Dayal, Pratika",
+          "Dessauges-Zavadsky, Miroslava",
+          "Diego, Jose M.",
+          "Faisst, Andreas L.",
+          "Farley, Gavin",
+          "Fei, Qinyue",
+          "Frye, Brenda L.",
+          "Fudamoto, Yoshinobu",
+          "Furtak, Lukas J.",
+          "Harikane, Yuichi",
+          "Hsiao, Tiger Yu-Yang",
+          "Jiménez-Teja, Yolanda",
+          "Kartaltepe, Jeyhan S.",
+          "Kiyota, Tomokazu",
+          "Koekemoer, Anton M.",
+          "del P. Lagos, Claudia",
+          "Magdis, Georgios E.",
+          "Meena, Ashish Kumar",
+          "Mowla, Lamiya",
+          "Noirot, Gaël",
+          "Oesch, Pascal A.",
+          "Ono, Yoshiaki",
+          "Ortiz, Rafael, III",
+          "Pan, Richard",
+          "Papovich, Casey",
+          "Pierel, Justin D. R.",
+          "Ricotti, Massimo",
+          "Robbins, Luke",
+          "Schaerer, Daniel",
+          "Schneider, Raffaella",
+          "Treu, Tommaso",
+          "Valentino, Francesco",
+          "Windhorst, Rogier A.",
+          "Bromm, Volker",
+          "Egami, Eiichi",
+          "González-Otero, Mauro",
+          "Kohno, Kotaro",
+          "Labbe, Ivo",
+          "Matthee, Jorryt",
+          "Mun, Marcie",
+          "Naidu, Rohan P.",
+          "Tripodi, Roberta"
+        ],
+        "bibcode": "2026ApJ..1010..237N",
+        "doi": [
+          "10.3847/1538-4357/ae8d09",
+          "10.48550/arXiv.2511.14483"
+        ],
+        "identifier": [
+          "2026ApJ..1010..237N",
+          "2025arXiv251114483N",
+          "arXiv:2511.14483",
+          "10.48550/arXiv.2511.14483",
+          "10.3847/1538-4357/ae8d09"
+        ],
+        "page": [
+          "237"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "VENUS: A Strongly Lensed Clumpy Galaxy at z ~ 11-12 Behind the Galaxy Cluster MACS J0257.1-2325"
+        ],
+        "volume": "1010",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Zou, Fan",
           "Brandt, W. N.",
           "Gallo, Elena",
@@ -312,6 +416,123 @@
           "Erratum: ``A Pride of Satellites in the Constellation Leo? Discovery of the Leo VI Milky Way Satellite Ultra-faint Dwarf Galaxy with DELVE Early Data Release 3'' (2025, ApJ, 979, 176)"
         ],
         "volume": "1010",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Luminari, Alfredo",
+          "Nicastro, Fabrizio",
+          "Serafinelli, Roberto",
+          "Middei, Riccardo",
+          "Krongold, Yair",
+          "Kammoun, Elias",
+          "Piro, Luigi",
+          "Diaferia, Francesca"
+        ],
+        "bibcode": "2026A&A...714A.211L",
+        "doi": [
+          "10.1051/0004-6361/202660689",
+          "10.48550/arXiv.2607.20621"
+        ],
+        "identifier": [
+          "2026A&A...714A.211L",
+          "10.48550/arXiv.2607.20621",
+          "10.1051/0004-6361/202660689",
+          "arXiv:2607.20621",
+          "2026arXiv260720621L"
+        ],
+        "page": [
+          "A211"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "Time-evolving diagnostic of the ionised absorbers in NGC 4051: II. High-throughput time-resolved spectroscopy"
+        ],
+        "volume": "714",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Navarrete, Camila",
+          "Rojas-Arriagada, Álvaro",
+          "Piatti, Andrés E.",
+          "Carballo-Bello, Julio A.",
+          "Sbordone, Luca",
+          "Kundu, Richa",
+          "Belokurov, Vasily",
+          "Koposov, Sergey E.",
+          "Vitral, Eduardo",
+          "Boldrini, Pierre",
+          "Palicio, Pedro A."
+        ],
+        "bibcode": "2026A&A...714A..39N",
+        "doi": [
+          "10.1051/0004-6361/202558557",
+          "10.48550/arXiv.2607.23829"
+        ],
+        "identifier": [
+          "2026A&A...714A..39N",
+          "arXiv:2607.23829",
+          "10.48550/arXiv.2607.23829",
+          "2026arXiv260723829N",
+          "10.1051/0004-6361/202558557"
+        ],
+        "page": [
+          "A39"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "Neighbors, not kin: Kinematic evidence of tidal tails from NGC 7492 along the Sagittarius stream"
+        ],
+        "volume": "714",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Nardetto, N.",
+          "Rathour, R. S.",
+          "Bailleul, M. C.",
+          "Hocdé, V.",
+          "Kervella, P.",
+          "Bras, G.",
+          "Gieren, W.",
+          "Storm, J.",
+          "Pietrzyński, G.",
+          "Zgirski, B.",
+          "Wielgórski, P.",
+          "Mérand, A.",
+          "Gallenne, A.",
+          "Poretti, E.",
+          "Rainer, M.",
+          "Breuval, L.",
+          "Duparc, M.",
+          "Apostolova, B.",
+          "Kiviaho, W.",
+          "Sivkova, K."
+        ],
+        "bibcode": "2026A&A...714A.492N",
+        "doi": [
+          "10.1051/0004-6361/202662058",
+          "10.48550/arXiv.2609.21855"
+        ],
+        "identifier": [
+          "2026A&A...714A.492N",
+          "10.48550/arXiv.2609.21855",
+          "arXiv:2609.21855",
+          "2026arXiv260921855N",
+          "10.1051/0004-6361/202662058"
+        ],
+        "page": [
+          "A492"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "GIARPS simultaneous optical and infrared high-spectral-resolution observations of Cepheids: I. Limb darkening from cross-correlated radial velocities"
+        ],
+        "volume": "714",
         "year": "2026"
       },
       {
@@ -665,227 +886,6 @@
       },
       {
         "author": [
-          "Navarrete, Camila",
-          "Rojas-Arriagada, Álvaro",
-          "Piatti, Andrés E.",
-          "Carballo-Bello, Julio A.",
-          "Sbordone, Luca",
-          "Kundu, Richa",
-          "Belokurov, Vasily",
-          "Koposov, Sergey E.",
-          "Vitral, Eduardo",
-          "Boldrini, Pierre",
-          "Palicio, Pedro A."
-        ],
-        "bibcode": "2026A&A...714A..39N",
-        "doi": [
-          "10.1051/0004-6361/202558557",
-          "10.48550/arXiv.2607.23829"
-        ],
-        "identifier": [
-          "2026A&A...714A..39N",
-          "arXiv:2607.23829",
-          "10.48550/arXiv.2607.23829",
-          "2026arXiv260723829N",
-          "10.1051/0004-6361/202558557"
-        ],
-        "page": [
-          "A39"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "Neighbors, not kin: Kinematic evidence of tidal tails from NGC 7492 along the Sagittarius stream"
-        ],
-        "volume": "714",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Nardetto, N.",
-          "Rathour, R. S.",
-          "Bailleul, M. C.",
-          "Hocdé, V.",
-          "Kervella, P.",
-          "Bras, G.",
-          "Gieren, W.",
-          "Storm, J.",
-          "Pietrzyński, G.",
-          "Zgirski, B.",
-          "Wielgórski, P.",
-          "Mérand, A.",
-          "Gallenne, A.",
-          "Poretti, E.",
-          "Rainer, M.",
-          "Breuval, L.",
-          "Duparc, M.",
-          "Apostolova, B.",
-          "Kiviaho, W.",
-          "Sivkova, K."
-        ],
-        "bibcode": "2026A&A...714A.492N",
-        "doi": [
-          "10.1051/0004-6361/202662058",
-          "10.48550/arXiv.2609.21855"
-        ],
-        "identifier": [
-          "2026A&A...714A.492N",
-          "10.48550/arXiv.2609.21855",
-          "arXiv:2609.21855",
-          "2026arXiv260921855N",
-          "10.1051/0004-6361/202662058"
-        ],
-        "page": [
-          "A492"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "GIARPS simultaneous optical and infrared high-spectral-resolution observations of Cepheids: I. Limb darkening from cross-correlated radial velocities"
-        ],
-        "volume": "714",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Nakane, Minami",
-          "Kokorev, Vasily",
-          "Fujimoto, Seiji",
-          "Ouchi, Masami",
-          "McLeod, Derek J.",
-          "Golubchik, Miriam",
-          "Oguri, Masamune",
-          "Zitrin, Adi",
-          "Bondestam, Cecilia",
-          "Donnan, Callum T.",
-          "Brammer, Gabriel",
-          "Finkelstein, Steven L.",
-          "Willott, Chris",
-          "Rihtaršič, Gregor",
-          "Desprez, Guillaume",
-          "Adamo, Angela",
-          "Vanzella, Eros",
-          "Bradač, Maruša",
-          "Messa, Matteo",
-          "Yanagisawa, Hiroto",
-          "Sun, Fengwu",
-          "Ferguson, Henry C.",
-          "Lucas, Ray A.",
-          "Coe, Dan",
-          "Richard, Johan",
-          "Abdurro'uf",
-          "Akins, Hollis B.",
-          "Allingham, Joseph F. V.",
-          "Amorín, Ricardo O.",
-          "Asada, Yoshihisa",
-          "Atek, Hakim",
-          "Bauer, Franz E.",
-          "Bezanson, Rachel",
-          "Bradley, Larry D.",
-          "Chisholm, John",
-          "Conselice, Christopher J.",
-          "Dayal, Pratika",
-          "Dessauges-Zavadsky, Miroslava",
-          "Diego, Jose M.",
-          "Faisst, Andreas L.",
-          "Farley, Gavin",
-          "Fei, Qinyue",
-          "Frye, Brenda L.",
-          "Fudamoto, Yoshinobu",
-          "Furtak, Lukas J.",
-          "Harikane, Yuichi",
-          "Hsiao, Tiger Yu-Yang",
-          "Jiménez-Teja, Yolanda",
-          "Kartaltepe, Jeyhan S.",
-          "Kiyota, Tomokazu",
-          "Koekemoer, Anton M.",
-          "del P. Lagos, Claudia",
-          "Magdis, Georgios E.",
-          "Meena, Ashish Kumar",
-          "Mowla, Lamiya",
-          "Noirot, Gaël",
-          "Oesch, Pascal A.",
-          "Ono, Yoshiaki",
-          "Ortiz, Rafael, III",
-          "Pan, Richard",
-          "Papovich, Casey",
-          "Pierel, Justin D. R.",
-          "Ricotti, Massimo",
-          "Robbins, Luke",
-          "Schaerer, Daniel",
-          "Schneider, Raffaella",
-          "Treu, Tommaso",
-          "Valentino, Francesco",
-          "Windhorst, Rogier A.",
-          "Bromm, Volker",
-          "Egami, Eiichi",
-          "González-Otero, Mauro",
-          "Kohno, Kotaro",
-          "Labbe, Ivo",
-          "Matthee, Jorryt",
-          "Mun, Marcie",
-          "Naidu, Rohan P.",
-          "Tripodi, Roberta"
-        ],
-        "bibcode": "2026ApJ..1010..237N",
-        "doi": [
-          "10.3847/1538-4357/ae8d09",
-          "10.48550/arXiv.2511.14483"
-        ],
-        "identifier": [
-          "2026ApJ..1010..237N",
-          "2025arXiv251114483N",
-          "arXiv:2511.14483",
-          "10.48550/arXiv.2511.14483",
-          "10.3847/1538-4357/ae8d09"
-        ],
-        "page": [
-          "237"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "VENUS: A Strongly Lensed Clumpy Galaxy at z ~ 11-12 Behind the Galaxy Cluster MACS J0257.1-2325"
-        ],
-        "volume": "1010",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Luminari, Alfredo",
-          "Nicastro, Fabrizio",
-          "Serafinelli, Roberto",
-          "Middei, Riccardo",
-          "Krongold, Yair",
-          "Kammoun, Elias",
-          "Piro, Luigi",
-          "Diaferia, Francesca"
-        ],
-        "bibcode": "2026A&A...714A.211L",
-        "doi": [
-          "10.1051/0004-6361/202660689",
-          "10.48550/arXiv.2607.20621"
-        ],
-        "identifier": [
-          "2026A&A...714A.211L",
-          "10.48550/arXiv.2607.20621",
-          "10.1051/0004-6361/202660689",
-          "arXiv:2607.20621",
-          "2026arXiv260720621L"
-        ],
-        "page": [
-          "A211"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "Time-evolving diagnostic of the ionised absorbers in NGC 4051: II. High-throughput time-resolved spectroscopy"
-        ],
-        "volume": "714",
-        "year": "2026"
-      },
-      {
-        "author": [
           "van Hoof, Agnes P. C.",
           "Jonker, Peter G.",
           "Tommel, Lieke",
@@ -1091,10 +1091,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 356,
+    "QTime": 257,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6af0b572-7f7435ba35d68de75bdfe842",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6af243ac-2e9df3103e89cc5029d7d5e6",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
