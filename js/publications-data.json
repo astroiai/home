@@ -1,59 +1,9 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 50792128,
+  "allocatedBytes": 52344680,
   "filtered": "true",
   "response": {
     "docs": [
-      {
-        "author": [
-          "Severgnini, P.",
-          "Vignali, C.",
-          "De Rosa, A.",
-          "Portaluri, E.",
-          "Rigamonti, F.",
-          "Battistini, L.",
-          "Bertassi, L.",
-          "Bertola, E.",
-          "Bianchi, S.",
-          "Bortolas, E.",
-          "Cicone, C.",
-          "D'Amato, Q.",
-          "Della Ceca, R.",
-          "Delvecchio, I.",
-          "Dotti, M.",
-          "Harms, J.",
-          "Lamperti, I.",
-          "Mannucci, F.",
-          "Parvatikar, M.",
-          "Sala, B.",
-          "Scialpi, M.",
-          "Serafinelli, R.",
-          "Singh, J.",
-          "Zanchettin, M. V."
-        ],
-        "bibcode": "2026NewA..12802610S",
-        "doi": [
-          "10.1016/j.newast.2026.102610",
-          "10.48550/arXiv.2606.30727"
-        ],
-        "identifier": [
-          "2026NewA..12802610S",
-          "10.1016/j.newast.2026.102610",
-          "2026arXiv260630727S",
-          "10.48550/arXiv.2606.30727",
-          "arXiv:2606.30727"
-        ],
-        "page": [
-          "102610"
-        ],
-        "pub": "New Astronomy",
-        "publisher": "Elsevier",
-        "title": [
-          "A new era for dual AGN science with SHARP"
-        ],
-        "volume": "128",
-        "year": "2026"
-      },
       {
         "author": [
           "Liao, Cheng-Lin",
@@ -109,6 +59,56 @@
           "Resolved SED modelling with JWST and ALMA: the role of stellar mass surface density in regulating star formation in cosmic noon galaxies"
         ],
         "volume": "552",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Severgnini, P.",
+          "Vignali, C.",
+          "De Rosa, A.",
+          "Portaluri, E.",
+          "Rigamonti, F.",
+          "Battistini, L.",
+          "Bertassi, L.",
+          "Bertola, E.",
+          "Bianchi, S.",
+          "Bortolas, E.",
+          "Cicone, C.",
+          "D'Amato, Q.",
+          "Della Ceca, R.",
+          "Delvecchio, I.",
+          "Dotti, M.",
+          "Harms, J.",
+          "Lamperti, I.",
+          "Mannucci, F.",
+          "Parvatikar, M.",
+          "Sala, B.",
+          "Scialpi, M.",
+          "Serafinelli, R.",
+          "Singh, J.",
+          "Zanchettin, M. V."
+        ],
+        "bibcode": "2026NewA..12802610S",
+        "doi": [
+          "10.1016/j.newast.2026.102610",
+          "10.48550/arXiv.2606.30727"
+        ],
+        "identifier": [
+          "2026NewA..12802610S",
+          "10.1016/j.newast.2026.102610",
+          "2026arXiv260630727S",
+          "10.48550/arXiv.2606.30727",
+          "arXiv:2606.30727"
+        ],
+        "page": [
+          "102610"
+        ],
+        "pub": "New Astronomy",
+        "publisher": "Elsevier",
+        "title": [
+          "A new era for dual AGN science with SHARP"
+        ],
+        "volume": "128",
         "year": "2026"
       },
       {
@@ -1107,10 +1107,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 467,
+    "QTime": 534,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6af37062-31b424b2158ca7c761b61a45",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6af4c0c1-18c0839948086d1f565c8839",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
