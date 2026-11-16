@@ -1,66 +1,9 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 53587472,
+  "allocatedBytes": 55693568,
   "filtered": "true",
   "response": {
     "docs": [
-      {
-        "author": [
-          "Liao, Cheng-Lin",
-          "Boogaard, Leindert A.",
-          "Hodge, Jacqueline A.",
-          "Li, J.",
-          "da Cunha, E.",
-          "Sharda, P.",
-          "Battisti, A.",
-          "Lagos, C.",
-          "Kaasinen, M.",
-          "Smail, I.",
-          "Aravena, M.",
-          "Bauer, F. E.",
-          "Cochrane, R. K.",
-          "Colina, L.",
-          "Cox, P.",
-          "Decarli, R.",
-          "Díaz-Santos, T.",
-          "Aranda, R. Fernández",
-          "Geesink, N. N.",
-          "Inami, H.",
-          "Magnelli, B.",
-          "Melinder, J.",
-          "Neeleman, M.",
-          "Östlin, G.",
-          "Popping, G.",
-          "Riechers, D. A.",
-          "Shivaei, I.",
-          "van der Werf, P.",
-          "Walter, F.",
-          "Weiss, A."
-        ],
-        "bibcode": "2026MNRAS.552g1732L",
-        "doi": [
-          "10.1093/mnras/stag1732",
-          "10.48550/arXiv.2609.12059"
-        ],
-        "identifier": [
-          "10.1093/mnras/stag1732",
-          "10.48550/arXiv.2609.12059",
-          "arXiv:2609.12059",
-          "2026MNRAS.552g1732L",
-          "2026MNRAS.tmp.1617L",
-          "2026arXiv260912059L"
-        ],
-        "page": [
-          "stag1732"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "publisher": "OUP",
-        "title": [
-          "Resolved SED modelling with JWST and ALMA: the role of stellar mass surface density in regulating star formation in cosmic noon galaxies"
-        ],
-        "volume": "552",
-        "year": "2026"
-      },
       {
         "author": [
           "Severgnini, P.",
@@ -109,6 +52,61 @@
           "A new era for dual AGN science with SHARP"
         ],
         "volume": "128",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Zhao, Guoying",
+          "Cao, Duo-Le",
+          "Shen, Rong-Feng",
+          "Sun, Hui",
+          "Jin, Chi-Chuan",
+          "Yuan, Wei-Min",
+          "Wang, Chen-Wei",
+          "Xiong, Shao-Lin",
+          "Svinkin, Dmitry",
+          "Xu, Dong",
+          "Jiang, Shuai-Qing",
+          "Jonker, Peter G.",
+          "Wang, Yun",
+          "Zhou, Hao",
+          "Zhou, Chang",
+          "Chen, Xinlei",
+          "Chatterjee, Kaushik",
+          "Wu, Xue-Feng",
+          "Wang, Xiao-Feng",
+          "Chen, Chun",
+          "Liu, Yuan",
+          "Levan, Andrew J.",
+          "Chacon Chavez, Jennifer Alexandra",
+          "Quirola-Vásquez, Jonathan",
+          "Bauer, Franz E.",
+          "Martin-Carrillo, Antonio",
+          "Corcoran, Gregory",
+          "Malesani, Daniele B.",
+          "Frederiks, Dmitry",
+          "Ridnaia, Anna",
+          "Lysenko, Alexandra L.",
+          "Ulanov, Mikhail",
+          "Tsvetkova, Anastasia"
+        ],
+        "bibcode": "2026A&A...715A.230Z",
+        "doi": [
+          "10.1051/0004-6361/202660325"
+        ],
+        "identifier": [
+          "10.1051/0004-6361/202660325",
+          "2026A&A...715A.230Z"
+        ],
+        "page": [
+          "A230"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "Multiwavelength study of EP250416a/GRB 250416C: An optically dark, long GRB with a late jet break"
+        ],
+        "volume": "715",
         "year": "2026"
       },
       {
@@ -194,57 +192,59 @@
       },
       {
         "author": [
-          "Zhao, Guoying",
-          "Cao, Duo-Le",
-          "Shen, Rong-Feng",
-          "Sun, Hui",
-          "Jin, Chi-Chuan",
-          "Yuan, Wei-Min",
-          "Wang, Chen-Wei",
-          "Xiong, Shao-Lin",
-          "Svinkin, Dmitry",
-          "Xu, Dong",
-          "Jiang, Shuai-Qing",
-          "Jonker, Peter G.",
-          "Wang, Yun",
-          "Zhou, Hao",
-          "Zhou, Chang",
-          "Chen, Xinlei",
-          "Chatterjee, Kaushik",
-          "Wu, Xue-Feng",
-          "Wang, Xiao-Feng",
-          "Chen, Chun",
-          "Liu, Yuan",
-          "Levan, Andrew J.",
-          "Chacon Chavez, Jennifer Alexandra",
-          "Quirola-Vásquez, Jonathan",
-          "Bauer, Franz E.",
-          "Martin-Carrillo, Antonio",
-          "Corcoran, Gregory",
-          "Malesani, Daniele B.",
-          "Frederiks, Dmitry",
-          "Ridnaia, Anna",
-          "Lysenko, Alexandra L.",
-          "Ulanov, Mikhail",
-          "Tsvetkova, Anastasia"
+          "Liao, Cheng-Lin",
+          "Boogaard, Leindert A.",
+          "Hodge, Jacqueline A.",
+          "Li, J.",
+          "da Cunha, E.",
+          "Sharda, P.",
+          "Battisti, A.",
+          "Lagos, C.",
+          "Kaasinen, M.",
+          "Smail, I.",
+          "Aravena, M.",
+          "Bauer, F. E.",
+          "Cochrane, R. K.",
+          "Colina, L.",
+          "Cox, P.",
+          "Decarli, R.",
+          "Díaz-Santos, T.",
+          "Aranda, R. Fernández",
+          "Geesink, N. N.",
+          "Inami, H.",
+          "Magnelli, B.",
+          "Melinder, J.",
+          "Neeleman, M.",
+          "Östlin, G.",
+          "Popping, G.",
+          "Riechers, D. A.",
+          "Shivaei, I.",
+          "van der Werf, P.",
+          "Walter, F.",
+          "Weiss, A."
         ],
-        "bibcode": "2026A&A...715A.230Z",
+        "bibcode": "2026MNRAS.552g1732L",
         "doi": [
-          "10.1051/0004-6361/202660325"
+          "10.1093/mnras/stag1732",
+          "10.48550/arXiv.2609.12059"
         ],
         "identifier": [
-          "10.1051/0004-6361/202660325",
-          "2026A&A...715A.230Z"
+          "10.1093/mnras/stag1732",
+          "10.48550/arXiv.2609.12059",
+          "arXiv:2609.12059",
+          "2026MNRAS.552g1732L",
+          "2026MNRAS.tmp.1617L",
+          "2026arXiv260912059L"
         ],
         "page": [
-          "A230"
+          "stag1732"
         ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "publisher": "OUP",
         "title": [
-          "Multiwavelength study of EP250416a/GRB 250416C: An optically dark, long GRB with a late jet break"
+          "Resolved SED modelling with JWST and ALMA: the role of stellar mass surface density in regulating star formation in cosmic noon galaxies"
         ],
-        "volume": "715",
+        "volume": "552",
         "year": "2026"
       },
       {
@@ -282,6 +282,105 @@
           "Neighbors, not kin: Kinematic evidence of tidal tails from NGC 7492 along the Sagittarius stream"
         ],
         "volume": "714",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Catán, V.",
+          "González-López, J.",
+          "Aravena, M.",
+          "Long, A. S.",
+          "Casey, C. M.",
+          "Clements, D. L.",
+          "da Cunha, E.",
+          "Franco, M.",
+          "Koekemoer, A. M.",
+          "Man, A.",
+          "Spilker, J.",
+          "Treister, E."
+        ],
+        "bibcode": "2026A&A...714A.432C",
+        "doi": [
+          "10.1051/0004-6361/202661568",
+          "10.48550/arXiv.2608.10165"
+        ],
+        "identifier": [
+          "10.1051/0004-6361/202661568",
+          "10.48550/arXiv.2608.10165",
+          "arXiv:2608.10165",
+          "2026A&A...714A.432C",
+          "2026arXiv260810165C"
+        ],
+        "page": [
+          "A432"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "The Extended Mapping Obscuration to Reionization with ALMA (Ex-MORA) survey: A molecular gas line search"
+        ],
+        "volume": "714",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Prabhu, Deepthi S.",
+          "Sand, David J.",
+          "Chiti, Anirudh",
+          "Mutlu-Pakdil, Burçin",
+          "Campana, Sasha N.",
+          "Carlin, J. L.",
+          "Ji, A. P.",
+          "Jensen, Jaclyn",
+          "Martínez-Vázquez, C. E.",
+          "Zaritsky, Dennis",
+          "Pace, A. B.",
+          "Riley, A. H.",
+          "Crnojević, D.",
+          "Limberg, G.",
+          "Hunter, Laura Congreve",
+          "Spekkens, Kristine",
+          "Jones, Michael G.",
+          "Doliva-Dolinsky, Amandine",
+          "Bennet, Paul",
+          "Placco, V. M.",
+          "Casey, Quinn O.",
+          "Herron, Guinevere",
+          "Cerny, W.",
+          "Kallivayalil, Nitya",
+          "Choi, Y.",
+          "Stringfellow, Guy S.",
+          "Nidever, D. L.",
+          "Carballo-Bello, J. A.",
+          "Navabi, M.",
+          "Massana, P.",
+          "Medina, G. E.",
+          "Noël, N. E. D.",
+          "James, D. J.",
+          "MAGIC Collaboration",
+          "Delve Collaboration"
+        ],
+        "bibcode": "2026ApJ..1010..150P",
+        "doi": [
+          "10.3847/1538-4357/aea977",
+          "10.48550/arXiv.2606.25058"
+        ],
+        "identifier": [
+          "2026ApJ..1010..150P",
+          "10.48550/arXiv.2606.25058",
+          "2026arXiv260625058P",
+          "10.3847/1538-4357/aea977",
+          "arXiv:2606.25058"
+        ],
+        "page": [
+          "150"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "Deep Imaging of Grus II and Horologium II: Structure and Extent of Two Ultrafaint Milky Way Satellites"
+        ],
+        "volume": "1010",
         "year": "2026"
       },
       {
@@ -923,105 +1022,6 @@
       },
       {
         "author": [
-          "Prabhu, Deepthi S.",
-          "Sand, David J.",
-          "Chiti, Anirudh",
-          "Mutlu-Pakdil, Burçin",
-          "Campana, Sasha N.",
-          "Carlin, J. L.",
-          "Ji, A. P.",
-          "Jensen, Jaclyn",
-          "Martínez-Vázquez, C. E.",
-          "Zaritsky, Dennis",
-          "Pace, A. B.",
-          "Riley, A. H.",
-          "Crnojević, D.",
-          "Limberg, G.",
-          "Hunter, Laura Congreve",
-          "Spekkens, Kristine",
-          "Jones, Michael G.",
-          "Doliva-Dolinsky, Amandine",
-          "Bennet, Paul",
-          "Placco, V. M.",
-          "Casey, Quinn O.",
-          "Herron, Guinevere",
-          "Cerny, W.",
-          "Kallivayalil, Nitya",
-          "Choi, Y.",
-          "Stringfellow, Guy S.",
-          "Nidever, D. L.",
-          "Carballo-Bello, J. A.",
-          "Navabi, M.",
-          "Massana, P.",
-          "Medina, G. E.",
-          "Noël, N. E. D.",
-          "James, D. J.",
-          "MAGIC Collaboration",
-          "Delve Collaboration"
-        ],
-        "bibcode": "2026ApJ..1010..150P",
-        "doi": [
-          "10.3847/1538-4357/aea977",
-          "10.48550/arXiv.2606.25058"
-        ],
-        "identifier": [
-          "2026ApJ..1010..150P",
-          "10.48550/arXiv.2606.25058",
-          "2026arXiv260625058P",
-          "10.3847/1538-4357/aea977",
-          "arXiv:2606.25058"
-        ],
-        "page": [
-          "150"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "Deep Imaging of Grus II and Horologium II: Structure and Extent of Two Ultrafaint Milky Way Satellites"
-        ],
-        "volume": "1010",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Catán, V.",
-          "González-López, J.",
-          "Aravena, M.",
-          "Long, A. S.",
-          "Casey, C. M.",
-          "Clements, D. L.",
-          "da Cunha, E.",
-          "Franco, M.",
-          "Koekemoer, A. M.",
-          "Man, A.",
-          "Spilker, J.",
-          "Treister, E."
-        ],
-        "bibcode": "2026A&A...714A.432C",
-        "doi": [
-          "10.1051/0004-6361/202661568",
-          "10.48550/arXiv.2608.10165"
-        ],
-        "identifier": [
-          "10.1051/0004-6361/202661568",
-          "10.48550/arXiv.2608.10165",
-          "arXiv:2608.10165",
-          "2026A&A...714A.432C",
-          "2026arXiv260810165C"
-        ],
-        "page": [
-          "A432"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "The Extended Mapping Obscuration to Reionization with ALMA (Ex-MORA) survey: A molecular gas line search"
-        ],
-        "volume": "714",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Kopsacheili, M.",
           "Galbany, L.",
           "Folatelli, G.",
@@ -1089,10 +1089,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 636,
+    "QTime": 362,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6af9fc13-3c7f914557ef8731466676d2",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6afb79e4-2940023f052a56e06de4a093",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
