@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 52625200,
+  "allocatedBytes": 51032864,
   "filtered": "true",
   "response": {
     "docs": [
@@ -358,67 +358,6 @@
       },
       {
         "author": [
-          "Prabhu, Deepthi S.",
-          "Sand, David J.",
-          "Chiti, Anirudh",
-          "Mutlu-Pakdil, Burçin",
-          "Campana, Sasha N.",
-          "Carlin, J. L.",
-          "Ji, A. P.",
-          "Jensen, Jaclyn",
-          "Martínez-Vázquez, C. E.",
-          "Zaritsky, Dennis",
-          "Pace, A. B.",
-          "Riley, A. H.",
-          "Crnojević, D.",
-          "Limberg, G.",
-          "Hunter, Laura Congreve",
-          "Spekkens, Kristine",
-          "Jones, Michael G.",
-          "Doliva-Dolinsky, Amandine",
-          "Bennet, Paul",
-          "Placco, V. M.",
-          "Casey, Quinn O.",
-          "Herron, Guinevere",
-          "Cerny, W.",
-          "Kallivayalil, Nitya",
-          "Choi, Y.",
-          "Stringfellow, Guy S.",
-          "Nidever, D. L.",
-          "Carballo-Bello, J. A.",
-          "Navabi, M.",
-          "Massana, P.",
-          "Medina, G. E.",
-          "Noël, N. E. D.",
-          "James, D. J.",
-          "MAGIC Collaboration",
-          "Delve Collaboration"
-        ],
-        "bibcode": "2026ApJ..1010..150P",
-        "doi": [
-          "10.3847/1538-4357/aea977",
-          "10.48550/arXiv.2606.25058"
-        ],
-        "identifier": [
-          "2026ApJ..1010..150P",
-          "10.48550/arXiv.2606.25058",
-          "2026arXiv260625058P",
-          "10.3847/1538-4357/aea977",
-          "arXiv:2606.25058"
-        ],
-        "page": [
-          "150"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "Deep Imaging of Grus II and Horologium II: Structure and Extent of Two Ultrafaint Milky Way Satellites"
-        ],
-        "volume": "1010",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Nakane, Minami",
           "Kokorev, Vasily",
           "Fujimoto, Seiji",
@@ -517,66 +456,6 @@
         "publisher": "IOP",
         "title": [
           "VENUS: A Strongly Lensed Clumpy Galaxy at z ~ 11-12 Behind the Galaxy Cluster MACS J0257.1-2325"
-        ],
-        "volume": "1010",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Tan, C. Y.",
-          "Cerny, W.",
-          "Drlica-Wagner, A.",
-          "Pace, A. B.",
-          "Geha, M.",
-          "Ji, A. P.",
-          "Li, T. S.",
-          "Adamów, M.",
-          "Anbajagane, D.",
-          "Bom, C. R.",
-          "Carballo-Bello, J. A.",
-          "Carlin, J. L.",
-          "Chang, C.",
-          "Chaturvedi, A.",
-          "Chiti, A.",
-          "Choi, Y.",
-          "Collins, M. L. M.",
-          "Doliva-Dolinsky, A.",
-          "Ferguson, P. S.",
-          "Gruendl, R. A.",
-          "James, D. J.",
-          "Limberg, G.",
-          "Navabi, M.",
-          "Martínez-Delgado, D.",
-          "Martínez-Vázquez, C. E.",
-          "Medina, G. E.",
-          "Mutlu-Pakdil, B.",
-          "Nidever, D. L.",
-          "Noël, N. E. D.",
-          "Riley, A. H.",
-          "Sakowska, J. D.",
-          "Sand, D. J.",
-          "Sharp, J.",
-          "Stringfellow, G. S.",
-          "Tolley, C.",
-          "Tucker, D.",
-          "Vivas, A. K.",
-          "DELVE Collaboration"
-        ],
-        "bibcode": "2026ApJ..1010..239T",
-        "doi": [
-          "10.3847/1538-4357/aeab7c"
-        ],
-        "identifier": [
-          "2026ApJ..1010..239T",
-          "10.3847/1538-4357/aeab7c"
-        ],
-        "page": [
-          "239"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "Erratum: ``A Pride of Satellites in the Constellation Leo? Discovery of the Leo VI Milky Way Satellite Ultra-faint Dwarf Galaxy with DELVE Early Data Release 3'' (2025, ApJ, 979, 176)"
         ],
         "volume": "1010",
         "year": "2026"
@@ -707,43 +586,6 @@
           "Empirical H- and K-band Limb Darkening for 31 CHARA Stars: A Near-infrared Benchmark for Stellar-Atmosphere Models"
         ],
         "volume": "172",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Navarrete, Camila",
-          "Rojas-Arriagada, Álvaro",
-          "Piatti, Andrés E.",
-          "Carballo-Bello, Julio A.",
-          "Sbordone, Luca",
-          "Kundu, Richa",
-          "Belokurov, Vasily",
-          "Koposov, Sergey E.",
-          "Vitral, Eduardo",
-          "Boldrini, Pierre",
-          "Palicio, Pedro A."
-        ],
-        "bibcode": "2026A&A...714A..39N",
-        "doi": [
-          "10.1051/0004-6361/202558557",
-          "10.48550/arXiv.2607.23829"
-        ],
-        "identifier": [
-          "2026A&A...714A..39N",
-          "arXiv:2607.23829",
-          "10.48550/arXiv.2607.23829",
-          "2026arXiv260723829N",
-          "10.1051/0004-6361/202558557"
-        ],
-        "page": [
-          "A39"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "Neighbors, not kin: Kinematic evidence of tidal tails from NGC 7492 along the Sagittarius stream"
-        ],
-        "volume": "714",
         "year": "2026"
       },
       {
@@ -884,6 +726,164 @@
           "Multi-chromatic observations of classical Cepheids using the CHARA Array interferometer: Surface brightness-colour relation, projection factor, and limb-darkening"
         ],
         "volume": "714",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Navarrete, Camila",
+          "Rojas-Arriagada, Álvaro",
+          "Piatti, Andrés E.",
+          "Carballo-Bello, Julio A.",
+          "Sbordone, Luca",
+          "Kundu, Richa",
+          "Belokurov, Vasily",
+          "Koposov, Sergey E.",
+          "Vitral, Eduardo",
+          "Boldrini, Pierre",
+          "Palicio, Pedro A."
+        ],
+        "bibcode": "2026A&A...714A..39N",
+        "doi": [
+          "10.1051/0004-6361/202558557",
+          "10.48550/arXiv.2607.23829"
+        ],
+        "identifier": [
+          "2026A&A...714A..39N",
+          "arXiv:2607.23829",
+          "10.48550/arXiv.2607.23829",
+          "2026arXiv260723829N",
+          "10.1051/0004-6361/202558557"
+        ],
+        "page": [
+          "A39"
+        ],
+        "pub": "Astronomy and Astrophysics",
+        "publisher": "EDP",
+        "title": [
+          "Neighbors, not kin: Kinematic evidence of tidal tails from NGC 7492 along the Sagittarius stream"
+        ],
+        "volume": "714",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Tan, C. Y.",
+          "Cerny, W.",
+          "Drlica-Wagner, A.",
+          "Pace, A. B.",
+          "Geha, M.",
+          "Ji, A. P.",
+          "Li, T. S.",
+          "Adamów, M.",
+          "Anbajagane, D.",
+          "Bom, C. R.",
+          "Carballo-Bello, J. A.",
+          "Carlin, J. L.",
+          "Chang, C.",
+          "Chaturvedi, A.",
+          "Chiti, A.",
+          "Choi, Y.",
+          "Collins, M. L. M.",
+          "Doliva-Dolinsky, A.",
+          "Ferguson, P. S.",
+          "Gruendl, R. A.",
+          "James, D. J.",
+          "Limberg, G.",
+          "Navabi, M.",
+          "Martínez-Delgado, D.",
+          "Martínez-Vázquez, C. E.",
+          "Medina, G. E.",
+          "Mutlu-Pakdil, B.",
+          "Nidever, D. L.",
+          "Noël, N. E. D.",
+          "Riley, A. H.",
+          "Sakowska, J. D.",
+          "Sand, D. J.",
+          "Sharp, J.",
+          "Stringfellow, G. S.",
+          "Tolley, C.",
+          "Tucker, D.",
+          "Vivas, A. K.",
+          "DELVE Collaboration"
+        ],
+        "bibcode": "2026ApJ..1010..239T",
+        "doi": [
+          "10.3847/1538-4357/aeab7c"
+        ],
+        "identifier": [
+          "2026ApJ..1010..239T",
+          "10.3847/1538-4357/aeab7c"
+        ],
+        "page": [
+          "239"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "Erratum: ``A Pride of Satellites in the Constellation Leo? Discovery of the Leo VI Milky Way Satellite Ultra-faint Dwarf Galaxy with DELVE Early Data Release 3'' (2025, ApJ, 979, 176)"
+        ],
+        "volume": "1010",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Prabhu, Deepthi S.",
+          "Sand, David J.",
+          "Chiti, Anirudh",
+          "Mutlu-Pakdil, Burçin",
+          "Campana, Sasha N.",
+          "Carlin, J. L.",
+          "Ji, A. P.",
+          "Jensen, Jaclyn",
+          "Martínez-Vázquez, C. E.",
+          "Zaritsky, Dennis",
+          "Pace, A. B.",
+          "Riley, A. H.",
+          "Crnojević, D.",
+          "Limberg, G.",
+          "Hunter, Laura Congreve",
+          "Spekkens, Kristine",
+          "Jones, Michael G.",
+          "Doliva-Dolinsky, Amandine",
+          "Bennet, Paul",
+          "Placco, V. M.",
+          "Casey, Quinn O.",
+          "Herron, Guinevere",
+          "Cerny, W.",
+          "Kallivayalil, Nitya",
+          "Choi, Y.",
+          "Stringfellow, Guy S.",
+          "Nidever, D. L.",
+          "Carballo-Bello, J. A.",
+          "Navabi, M.",
+          "Massana, P.",
+          "Medina, G. E.",
+          "Noël, N. E. D.",
+          "James, D. J.",
+          "MAGIC Collaboration",
+          "Delve Collaboration"
+        ],
+        "bibcode": "2026ApJ..1010..150P",
+        "doi": [
+          "10.3847/1538-4357/aea977",
+          "10.48550/arXiv.2606.25058"
+        ],
+        "identifier": [
+          "2026ApJ..1010..150P",
+          "10.48550/arXiv.2606.25058",
+          "2026arXiv260625058P",
+          "10.3847/1538-4357/aea977",
+          "arXiv:2606.25058"
+        ],
+        "page": [
+          "150"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "Deep Imaging of Grus II and Horologium II: Structure and Extent of Two Ultrafaint Milky Way Satellites"
+        ],
+        "volume": "1010",
         "year": "2026"
       },
       {
@@ -1038,10 +1038,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 6215,
+    "QTime": 310,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6b033efa-25d3aacf6704e3001d899f33",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6b04cdec-5975d7dc23ee2a9621c77f29",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
