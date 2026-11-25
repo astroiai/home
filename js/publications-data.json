@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 36301096,
+  "allocatedBytes": 34147320,
   "filtered": "true",
   "response": {
     "docs": [
@@ -13,11 +13,15 @@
         ],
         "bibcode": "2026AJ....172..332A",
         "doi": [
-          "10.3847/1538-3881/aeb9d3"
+          "10.3847/1538-3881/aeb9d3",
+          "10.48550/arXiv.2610.33373"
         ],
         "identifier": [
           "2026AJ....172..332A",
-          "10.3847/1538-3881/aeb9d3"
+          "2026arXiv261033373A",
+          "10.3847/1538-3881/aeb9d3",
+          "arXiv:2610.33373",
+          "10.48550/arXiv.2610.33373"
         ],
         "page": [
           "332"
@@ -28,41 +32,6 @@
           "Proxima Centauri's Angular Diameter Revisited"
         ],
         "volume": "172",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Peca, Alessandro",
-          "Koss, Michael J.",
-          "Serafinelli, Roberto",
-          "Urry, C. Megan",
-          "Ricci, Claudio",
-          "Fukumura, Keigo",
-          "Gaspari, Massimo",
-          "Kammoun, Elias",
-          "Tortosa, Alessia",
-          "Cerini, Giulia",
-          "Boorman, Peter G.",
-          "Mushotzky, Richard",
-          "D'Amato, Quirino"
-        ],
-        "bibcode": "2026ApJ..1011...25P",
-        "doi": [
-          "10.3847/1538-4357/aea573"
-        ],
-        "identifier": [
-          "2026ApJ..1011...25P",
-          "10.3847/1538-4357/aea573"
-        ],
-        "page": [
-          "25"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "Multiepoch Detection of an Ultrafast Inflow in ESP 39607: Evidence for an Accretion Cascade"
-        ],
-        "volume": "1011",
         "year": "2026"
       },
       {
@@ -318,6 +287,45 @@
       },
       {
         "author": [
+          "Peca, Alessandro",
+          "Koss, Michael J.",
+          "Serafinelli, Roberto",
+          "Urry, C. Megan",
+          "Ricci, Claudio",
+          "Fukumura, Keigo",
+          "Gaspari, Massimo",
+          "Kammoun, Elias",
+          "Tortosa, Alessia",
+          "Cerini, Giulia",
+          "Boorman, Peter G.",
+          "Mushotzky, Richard",
+          "D'Amato, Quirino"
+        ],
+        "bibcode": "2026ApJ..1011...25P",
+        "doi": [
+          "10.3847/1538-4357/aea573",
+          "10.48550/arXiv.2609.03019"
+        ],
+        "identifier": [
+          "2026ApJ..1011...25P",
+          "10.3847/1538-4357/aea573",
+          "2026arXiv260903019P",
+          "10.48550/arXiv.2609.03019",
+          "arXiv:2609.03019"
+        ],
+        "page": [
+          "25"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "Multiepoch Detection of an Ultrafast Inflow in ESP 39607: Evidence for an Accretion Cascade"
+        ],
+        "volume": "1011",
+        "year": "2026"
+      },
+      {
+        "author": [
           "Condò, Pierpaolo",
           "Venturi, Giacomo",
           "Parlanti, Eleonora",
@@ -339,11 +347,15 @@
         ],
         "bibcode": "2026A&A...715A.240C",
         "doi": [
-          "10.1051/0004-6361/202660868"
+          "10.1051/0004-6361/202660868",
+          "10.48550/arXiv.2609.04317"
         ],
         "identifier": [
           "2026A&A...715A.240C",
-          "10.1051/0004-6361/202660868"
+          "10.1051/0004-6361/202660868",
+          "arXiv:2609.04317",
+          "2026arXiv260904317C",
+          "10.48550/arXiv.2609.04317"
         ],
         "page": [
           "A240"
@@ -655,72 +667,6 @@
       },
       {
         "author": [
-          "Chen, T.-W.",
-          "Brennan, S. J.",
-          "Wesson, R.",
-          "Fraser, M.",
-          "Schweyer, T.",
-          "Inserra, C.",
-          "Schulze, S.",
-          "Nicholl, M.",
-          "Anderson, J. P.",
-          "Hsiao, E. Y.",
-          "Jerkstrand, A.",
-          "Kankare, E.",
-          "Kool, E. C.",
-          "Kravtsov, T.",
-          "Kuncarayakti, H.",
-          "Leloudas, G.",
-          "Li, C.-J.",
-          "Matsuura, M.",
-          "Pursiainen, M.",
-          "Roy, R.",
-          "Ruiter, A. J.",
-          "Schady, P.",
-          "Seitenzahl, I. R.",
-          "Sollerman, J.",
-          "Tartaglia, L.",
-          "Wang, L.",
-          "Yates, R. M.",
-          "Yang, S.",
-          "Baade, D.",
-          "Carini, R.",
-          "Gal-Yam, A.",
-          "Galbany, L.",
-          "González-Gaitán, S.",
-          "Gromadzki, M.",
-          "Gutiérrez, C. P.",
-          "Kotak, R.",
-          "Maguire, K.",
-          "Mazzali, P. A.",
-          "Müller-Bravo, T. E.",
-          "Paraskeva, E.",
-          "Pessi, P. J.",
-          "Pignata, G.",
-          "Rau, A.",
-          "Young, D. R."
-        ],
-        "bibcode": "2026ApJ..1009..180C",
-        "doi": [
-          "10.3847/1538-4357/ae91e7"
-        ],
-        "identifier": [
-          "2026ApJ..1009..180C",
-          "10.3847/1538-4357/ae91e7"
-        ],
-        "page": [
-          "180"
-        ],
-        "pub": "The Astrophysical Journal",
-        "publisher": "IOP",
-        "title": [
-          "SN 2018bsz: Significant Dust Formation in a Nearby Superluminous Supernova"
-        ],
-        "volume": "1009",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Navarrete, Camila",
           "Rojas-Arriagada, Álvaro",
           "Piatti, Andrés E.",
@@ -842,89 +788,6 @@
       },
       {
         "author": [
-          "Ackley, Kendall",
-          "Botticella, Maria Teresa",
-          "Boye, Andreas",
-          "Branchesi, Marica",
-          "Bruni, Gabriele",
-          "Cappellaro, Enrico",
-          "Chaty, Sylvain",
-          "Chen, Ting-Wan",
-          "D'Ammando, Filippo",
-          "D'Elia, Valerio",
-          "De Pasquale, Massimiliano F.",
-          "Dimple",
-          "Eyles-Ferris, Rob A. J.",
-          "Fraser, Morgan",
-          "Gianfagna, Giulia",
-          "Gillanders, James H.",
-          "Greco, Giuseppe",
-          "Gromadzki, Mariusz",
-          "Gutiérrez, Claudia P.",
-          "Hajela, Aprajita",
-          "Izzo, Luca",
-          "Jonker, Peter G.",
-          "Kobayashi, Shiho",
-          "Kotak, Rubina",
-          "Lamb, Gavin P.",
-          "Leloudas, Giorgos",
-          "Levan, Andrew J.",
-          "Lyman, Joe D.",
-          "Maguire, Kate",
-          "Martin-Carrillo, Antonio",
-          "Melandri, Andrea",
-          "Michałowski, Michał J.",
-          "Oates, Samantha R.",
-          "Onori, Francesca",
-          "Patricelli, Barbara",
-          "Pian, Elena",
-          "Pignata, Giuliano",
-          "Piranomonte, Silvia",
-          "Piro, Luigi",
-          "Pognan, Quentin",
-          "Pumo, Maria L.",
-          "Ronchini, Samuele",
-          "Rossi, Andrea",
-          "Roy, Rupak",
-          "Saccardi, Andrea",
-          "Salafia, Om Sharan",
-          "Salvaterra, Ruben",
-          "Sarin, Nikhil",
-          "Schulze, Steve",
-          "Smartt, Stephen J.",
-          "Starling, Rhaana L. C.",
-          "Steeghs, Danny",
-          "Tanvir, Nial R.",
-          "Thakur, Aishwarya Linesh",
-          "Vergani, Susanna D.",
-          "Yi, Shuxu",
-          "Young, David R."
-        ],
-        "bibcode": "2026A&A...714A.284A",
-        "doi": [
-          "10.1051/0004-6361/202660729",
-          "10.48550/arXiv.2605.02639"
-        ],
-        "identifier": [
-          "10.48550/arXiv.2605.02639",
-          "10.1051/0004-6361/202660729",
-          "2026A&A...714A.284A",
-          "arXiv:2605.02639",
-          "2026arXiv260502639A"
-        ],
-        "page": [
-          "A284"
-        ],
-        "pub": "Astronomy and Astrophysics",
-        "publisher": "EDP",
-        "title": [
-          "ENGRAVE follow-up of a type IIb supernova spatially coincident with the sub-threshold gravitational wave trigger S250818k"
-        ],
-        "volume": "714",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Bailleul, M. C.",
           "Nardetto, N.",
           "Mourard, D.",
@@ -1039,6 +902,95 @@
         ],
         "volume": "1010",
         "year": "2026"
+      },
+      {
+        "author": [
+          "Anugu, Narsireddy",
+          "Monnier, John D.",
+          "Mérand, Antoine",
+          "Flores, Becky",
+          "Gallenne, Alexandre",
+          "Gies, Douglas R.",
+          "Gutierrez, Mayra",
+          "Klement, Robert",
+          "Kraus, Stefan",
+          "Rajagopal, Jayadev",
+          "Roettenbacher, Rachael M.",
+          "Schaefer, Gail H."
+        ],
+        "bibcode": "2026AJ....172..214A",
+        "doi": [
+          "10.3847/1538-3881/ae9878",
+          "10.48550/arXiv.2607.24956"
+        ],
+        "identifier": [
+          "10.48550/arXiv.2607.24956",
+          "2026arXiv260724956A",
+          "2026AJ....172..214A",
+          "arXiv:2607.24956",
+          "10.3847/1538-3881/ae9878"
+        ],
+        "page": [
+          "214"
+        ],
+        "pub": "The Astronomical Journal",
+        "publisher": "IOP",
+        "title": [
+          "Empirical H- and K-band Limb Darkening for 31 CHARA Stars: A Near-infrared Benchmark for Stellar-Atmosphere Models"
+        ],
+        "volume": "172",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Aviram, Shir",
+          "Trakhtenbrot, Benny",
+          "Dwelly, Tom",
+          "Anderson, Scott F.",
+          "Morrison, Sean",
+          "Eracleous, Michael",
+          "Shen, Yue",
+          "Salvato, Mara",
+          "Schneider, Donald P.",
+          "Assef, Roberto J.",
+          "Aydar, Catarina",
+          "Bauer, Franz E.",
+          "Brandt, W. N.",
+          "Brownstein, Joel R.",
+          "Buchner, Johannes",
+          "Darling, Jeremy",
+          "Fernández-Trincado, José G.",
+          "Hall, Patrick B.",
+          "Kim, Dong-Woo",
+          "Koekemoer, Anton M.",
+          "LaMassa, Stephanie",
+          "Merloni, Andrea",
+          "Ricci, Claudio",
+          "Yang, Qian",
+          "Zeltyn, Grisha"
+        ],
+        "bibcode": "2026ApJ..1010..224A",
+        "doi": [
+          "10.3847/1538-4357/aea57b",
+          "10.48550/arXiv.2607.27329"
+        ],
+        "identifier": [
+          "2026arXiv260727329A",
+          "10.48550/arXiv.2607.27329",
+          "arXiv:2607.27329",
+          "10.3847/1538-4357/aea57b",
+          "2026ApJ..1010..224A"
+        ],
+        "page": [
+          "224"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "An Exploratory Analysis of New Large Gaia-informed Quasar Samples in SDSS-V"
+        ],
+        "volume": "1010",
+        "year": "2026"
       }
     ],
     "numFound": 2188,
@@ -1046,10 +998,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 219,
+    "QTime": 299,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6b060a48-60fd76cc167c952a4d0b8ea2",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6b075176-7abfb8f74b27734537b2ccd0",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
