@@ -1,6 +1,6 @@
 {
   "access_modality": "api",
-  "allocatedBytes": 34145872,
+  "allocatedBytes": 50514384,
   "filtered": "true",
   "response": {
     "docs": [
@@ -32,56 +32,6 @@
           "Proxima Centauri's Angular Diameter Revisited"
         ],
         "volume": "172",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Severgnini, P.",
-          "Vignali, C.",
-          "De Rosa, A.",
-          "Portaluri, E.",
-          "Rigamonti, F.",
-          "Battistini, L.",
-          "Bertassi, L.",
-          "Bertola, E.",
-          "Bianchi, S.",
-          "Bortolas, E.",
-          "Cicone, C.",
-          "D'Amato, Q.",
-          "Della Ceca, R.",
-          "Delvecchio, I.",
-          "Dotti, M.",
-          "Harms, J.",
-          "Lamperti, I.",
-          "Mannucci, F.",
-          "Parvatikar, M.",
-          "Sala, B.",
-          "Scialpi, M.",
-          "Serafinelli, R.",
-          "Singh, J.",
-          "Zanchettin, M. V."
-        ],
-        "bibcode": "2026NewA..12802610S",
-        "doi": [
-          "10.1016/j.newast.2026.102610",
-          "10.48550/arXiv.2606.30727"
-        ],
-        "identifier": [
-          "2026NewA..12802610S",
-          "10.1016/j.newast.2026.102610",
-          "2026arXiv260630727S",
-          "10.48550/arXiv.2606.30727",
-          "arXiv:2606.30727"
-        ],
-        "page": [
-          "102610"
-        ],
-        "pub": "New Astronomy",
-        "publisher": "Elsevier",
-        "title": [
-          "A new era for dual AGN science with SHARP"
-        ],
-        "volume": "128",
         "year": "2026"
       },
       {
@@ -230,63 +180,6 @@
       },
       {
         "author": [
-          "Liao, Cheng-Lin",
-          "Boogaard, Leindert A.",
-          "Hodge, Jacqueline A.",
-          "Li, J.",
-          "da Cunha, E.",
-          "Sharda, P.",
-          "Battisti, A.",
-          "Lagos, C.",
-          "Kaasinen, M.",
-          "Smail, I.",
-          "Aravena, M.",
-          "Bauer, F. E.",
-          "Cochrane, R. K.",
-          "Colina, L.",
-          "Cox, P.",
-          "Decarli, R.",
-          "Díaz-Santos, T.",
-          "Aranda, R. Fernández",
-          "Geesink, N. N.",
-          "Inami, H.",
-          "Magnelli, B.",
-          "Melinder, J.",
-          "Neeleman, M.",
-          "Östlin, G.",
-          "Popping, G.",
-          "Riechers, D. A.",
-          "Shivaei, I.",
-          "van der Werf, P.",
-          "Walter, F.",
-          "Weiss, A."
-        ],
-        "bibcode": "2026MNRAS.552g1732L",
-        "doi": [
-          "10.1093/mnras/stag1732",
-          "10.48550/arXiv.2609.12059"
-        ],
-        "identifier": [
-          "10.1093/mnras/stag1732",
-          "10.48550/arXiv.2609.12059",
-          "arXiv:2609.12059",
-          "2026MNRAS.552g1732L",
-          "2026MNRAS.tmp.1617L",
-          "2026arXiv260912059L"
-        ],
-        "page": [
-          "stag1732"
-        ],
-        "pub": "Monthly Notices of the Royal Astronomical Society",
-        "publisher": "OUP",
-        "title": [
-          "Resolved SED modelling with JWST and ALMA: the role of stellar mass surface density in regulating star formation in cosmic noon galaxies"
-        ],
-        "volume": "552",
-        "year": "2026"
-      },
-      {
-        "author": [
           "Peca, Alessandro",
           "Koss, Michael J.",
           "Serafinelli, Roberto",
@@ -366,6 +259,113 @@
           "Super-Eddington accretion and early-stage feedback in Ton S180"
         ],
         "volume": "715",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Liao, Cheng-Lin",
+          "Boogaard, Leindert A.",
+          "Hodge, Jacqueline A.",
+          "Li, J.",
+          "da Cunha, E.",
+          "Sharda, P.",
+          "Battisti, A.",
+          "Lagos, C.",
+          "Kaasinen, M.",
+          "Smail, I.",
+          "Aravena, M.",
+          "Bauer, F. E.",
+          "Cochrane, R. K.",
+          "Colina, L.",
+          "Cox, P.",
+          "Decarli, R.",
+          "Díaz-Santos, T.",
+          "Aranda, R. Fernández",
+          "Geesink, N. N.",
+          "Inami, H.",
+          "Magnelli, B.",
+          "Melinder, J.",
+          "Neeleman, M.",
+          "Östlin, G.",
+          "Popping, G.",
+          "Riechers, D. A.",
+          "Shivaei, I.",
+          "van der Werf, P.",
+          "Walter, F.",
+          "Weiss, A."
+        ],
+        "bibcode": "2026MNRAS.552g1732L",
+        "doi": [
+          "10.1093/mnras/stag1732",
+          "10.48550/arXiv.2609.12059"
+        ],
+        "identifier": [
+          "10.1093/mnras/stag1732",
+          "10.48550/arXiv.2609.12059",
+          "arXiv:2609.12059",
+          "2026MNRAS.552g1732L",
+          "2026MNRAS.tmp.1617L",
+          "2026arXiv260912059L"
+        ],
+        "page": [
+          "stag1732"
+        ],
+        "pub": "Monthly Notices of the Royal Astronomical Society",
+        "publisher": "OUP",
+        "title": [
+          "Resolved SED modelling with JWST and ALMA: the role of stellar mass surface density in regulating star formation in cosmic noon galaxies"
+        ],
+        "volume": "552",
+        "year": "2026"
+      },
+      {
+        "author": [
+          "Severgnini, P.",
+          "Vignali, C.",
+          "De Rosa, A.",
+          "Portaluri, E.",
+          "Rigamonti, F.",
+          "Battistini, L.",
+          "Bertassi, L.",
+          "Bertola, E.",
+          "Bianchi, S.",
+          "Bortolas, E.",
+          "Cicone, C.",
+          "D'Amato, Q.",
+          "Della Ceca, R.",
+          "Delvecchio, I.",
+          "Dotti, M.",
+          "Harms, J.",
+          "Lamperti, I.",
+          "Mannucci, F.",
+          "Parvatikar, M.",
+          "Sala, B.",
+          "Scialpi, M.",
+          "Serafinelli, R.",
+          "Singh, J.",
+          "Zanchettin, M. V."
+        ],
+        "bibcode": "2026NewA..12802610S",
+        "doi": [
+          "10.1016/j.newast.2026.102610",
+          "10.48550/arXiv.2606.30727"
+        ],
+        "identifier": [
+          "2026NewA..12802610S",
+          "10.1016/j.newast.2026.102610",
+          "2026arXiv260630727S",
+          "10.48550/arXiv.2606.30727",
+          "arXiv:2606.30727"
+        ],
+        "page": [
+          "102610"
+        ],
+        "pub": "New Astronomy",
+        "publisher": "Elsevier",
+        "title": [
+          "A new era for dual AGN science with SHARP"
+        ],
+        "volume": "128",
         "year": "2026"
       },
       {
@@ -470,45 +470,6 @@
           "VENUS: A Strongly Lensed Clumpy Galaxy at z ~ 11-12 Behind the Galaxy Cluster MACS J0257.1-2325"
         ],
         "volume": "1010",
-        "year": "2026"
-      },
-      {
-        "author": [
-          "Zou, Fan",
-          "Brandt, W. N.",
-          "Gallo, Elena",
-          "Bauer, Franz E.",
-          "Bongiorno, Angela",
-          "Burke, Colin J.",
-          "Graham, Alister W.",
-          "Guo, Hengxiao",
-          "Hernández-García, Lorena",
-          "Marculewicz, Marcin",
-          "Nguyen, Dieu D.",
-          "Panda, Swayamtrupta",
-          "Peca, Alessandro",
-          "Rani, Bindu",
-          "Ricci, Claudio",
-          "Shemmer, Ohad",
-          "Tee, Wei Leong",
-          "Yu, Zhibo"
-        ],
-        "bibcode": "2026arXiv261010755Z",
-        "doi": [
-          "10.48550/arXiv.2610.10755"
-        ],
-        "identifier": [
-          "arXiv:2610.10755",
-          "10.48550/arXiv.2610.10755",
-          "2026arXiv261010755Z"
-        ],
-        "page": [
-          "arXiv:2610.10755"
-        ],
-        "pub": "arXiv e-prints",
-        "title": [
-          "Pushing Variability Searches to Extreme Dwarf Galaxies with the Vera C. Rubin Observatory Data Preview 2"
-        ],
         "year": "2026"
       },
       {
@@ -991,6 +952,72 @@
         ],
         "volume": "1010",
         "year": "2026"
+      },
+      {
+        "author": [
+          "Chen, T.-W.",
+          "Brennan, S. J.",
+          "Wesson, R.",
+          "Fraser, M.",
+          "Schweyer, T.",
+          "Inserra, C.",
+          "Schulze, S.",
+          "Nicholl, M.",
+          "Anderson, J. P.",
+          "Hsiao, E. Y.",
+          "Jerkstrand, A.",
+          "Kankare, E.",
+          "Kool, E. C.",
+          "Kravtsov, T.",
+          "Kuncarayakti, H.",
+          "Leloudas, G.",
+          "Li, C.-J.",
+          "Matsuura, M.",
+          "Pursiainen, M.",
+          "Roy, R.",
+          "Ruiter, A. J.",
+          "Schady, P.",
+          "Seitenzahl, I. R.",
+          "Sollerman, J.",
+          "Tartaglia, L.",
+          "Wang, L.",
+          "Yates, R. M.",
+          "Yang, S.",
+          "Baade, D.",
+          "Carini, R.",
+          "Gal-Yam, A.",
+          "Galbany, L.",
+          "González-Gaitán, S.",
+          "Gromadzki, M.",
+          "Gutiérrez, C. P.",
+          "Kotak, R.",
+          "Maguire, K.",
+          "Mazzali, P. A.",
+          "Müller-Bravo, T. E.",
+          "Paraskeva, E.",
+          "Pessi, P. J.",
+          "Pignata, G.",
+          "Rau, A.",
+          "Young, D. R."
+        ],
+        "bibcode": "2026ApJ..1009..180C",
+        "doi": [
+          "10.3847/1538-4357/ae91e7"
+        ],
+        "identifier": [
+          "2026ApJ..1009..180C",
+          "10.3847/1538-4357/ae91e7"
+        ],
+        "page": [
+          "180"
+        ],
+        "pub": "The Astrophysical Journal",
+        "publisher": "IOP",
+        "title": [
+          "SN 2018bsz: Significant Dust Formation in a Nearby Superluminous Supernova"
+        ],
+        "volume": "1009",
+        "year": "2026"
       }
     ],
     "numFound": 2188,
@@ -998,10 +1025,10 @@
     "start": 0
   },
   "responseHeader": {
-    "QTime": 341,
+    "QTime": 406,
     "params": {
       "fl": "title,author,year,pub,volume,page,bibcode,identifier,doi,publisher",
-      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6b089ff2-6ff340f704046bf53dd86f3c",
+      "internal_logging_params": "X-Amzn-Trace-Id=Root=1-6b09ed9b-22bbb9841ade312e33485543",
       "q": "orcid:0000-0002-8686-8737 OR orcid:0000-0002-3690-105X OR orcid:0000-0001-7853-4094 OR orcid:0000-0003-0006-0188 OR orcid:0000-0002-0149-1302 OR orcid:0000-0001-7568-6412 OR orcid:0000-0001-8931-1152 OR orcid:0000-0003-1200-5071 OR orcid:0000-0002-7711-0537",
       "rows": "20",
       "sort": "date desc",
